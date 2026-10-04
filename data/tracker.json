@@ -1114,7 +1114,7 @@
    "note": "36회 = 4/28 공식 발표 32회(23도시) + 마카오 2회(7/21 Weverse 추가) + 교세라돔 2회(9/3 공식). 2026-10-05 KST 기준 완료 20회(인천2·일본11·북미7, 시카고 10/2까지), 잔여 16회(워싱턴DC 10/5 현지~교세라돔 12/20).",
    "changes": "Claude(8/30·7/13)는 23개 도시·32회라 해 트래커 34회와 충돌 — 최종 회차 공식 집계 미확인. / 2026-10-04: 종료일 12-06(07 검증표 값) → 12-20 교세라돔 오사카(12/19–20, 공식 9/3 발표)로 갱신. / 2026-10-05: 회차 충돌 34/36/32 해소 → 36회(공식 발표 32 + 추가 공지 4). 34는 마카오 또는 교세라 한쪽만 반영한 값",
    "estimate": 357000,
-   "estimateText": "≈ 36만",
+   "estimateText": "≈ 36만 (Claude 8/29 모델 추정 · 34회 가정)",
    "artist_id": "le_sserafim",
    "grade": "부분",
    "source_url": [
@@ -2660,16 +2660,34 @@
    "artist": "르세라핌",
    "label": "Pureflow (추정)",
    "region": "다지역",
-   "shows": 34,
+   "shows": 36,
    "attendance": 400000,
-   "attendanceText": "약 40만",
+   "attendanceText": "약 40만 (Claude 모델 추정 · 34회 가정)",
    "estimate": true,
-   "note": "아레나 회당 1.2만 명 가정. 그룹 첫 유럽 공연 포함 · Claude 모델 간 편차: 36만(트래커 8/29)·40만(8/30 비교표)·33만(7/13 수익 계산)",
+   "note": "회차 36 = 마스터값(부분: 공식 발표 32 + 마카오 2 + 교세라돔 2). Claude 원문 회차는 34. 관객 약 40만은 Claude 8/30 모델 추정치(34회 × 아레나 회당 약 1.2만 명 가정) — 36회로 재계산하지 않음. 그룹 첫 유럽 공연 포함. Claude 모델 간 편차: 36만(트래커 8/29)·40만(8/30 비교표)·33만(7/13 수익 계산, 32회 가정).",
    "status": "estimate",
    "artist_id": "le_sserafim",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-05",
+   "claude_original": {
+    "shows": 34,
+    "attendance": 400000
+   },
+   "shows_grade": "부분",
+   "shows_source_ids": [
+    "PRT-LSF-PURE",
+    "WEVERSE-LSF-MACAU",
+    "LSF-JP-KYOCERA",
+    "WIKI-PUREFLOW"
+   ],
+   "shows_source_url": [
+    "https://prtimes.jp/main/html/rd/p/000000690.000045862.html",
+    "https://weverse.io/lesserafim/notice/37666",
+    "https://www.le-sserafim.jp/news/0fbf87ba1d6c",
+    "https://en.wikipedia.org/wiki/Pureflow_Tour"
+   ],
+   "attendance_basis_shows": 34
   },
   {
    "kind": "tour",
