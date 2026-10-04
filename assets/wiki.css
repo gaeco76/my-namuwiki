@@ -348,3 +348,7 @@ sup.fn a:target,sup.fn a.flash{background:var(--b-p-bg);border-radius:3px}
 .footnotes li,.fn-body,.fn-body a,.fn-pop,.chart-cap,.rel-box .chips a{overflow-wrap:anywhere;word-break:break-word}
 .wiki-article,.wiki-body,.layout>main{min-width:0}
 .table-wrap{max-width:100%;overflow-x:auto}
+
+/* v2.2: primary_source:false → 2차 출처 표시 */
+.badge.b-s{background:transparent;color:var(--muted,#777);border:1px dashed currentColor;font-weight:500}
+.badge.b-s::before{content:'2°';margin-right:3px;font-size:.85em}

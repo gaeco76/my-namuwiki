@@ -1,6 +1,10 @@
 {
- "lastUpdated": "2026-10-04T09:40:00+09:00",
+ "lastUpdated": "2026-10-05T08:30:00+09:00",
  "log": [
+  {
+   "date": "2026-10-05 08:30 KST",
+   "text": "데이터 원본을 data/kpop으로 이전(새 규칙: 항목마다 grade 확정/부분/개략/충돌/미확/추정 · source_url · collected_at · artist_id). 충돌 해소 — 스트레이 키즈 dominATE 56회(본편 54+앙코르 2)·보고 54회 1,983,821명(Touring Data), Claude 55회·215만 미채택 / 엔하이픈 BLOOD SAGA 서울 1차값 32,250(BELIFT)으로 교체, 서울+미주 합 225,250(범위 표기), 종료 2027-03-09 / 르세라핌 PUREFLOW 36회(공식 32 + 마카오 2 + 교세라돔 2), 완료 20·잔여 16 / 에스파 Parallel Line 총관객 1차 없음(위키 454,000·52만) → 미확인 / BTS Hot 100 1위 그룹 7곡(단독 5+협업 2, Billboard)·솔로 2곡 / 블랙핑크 DEADLINE 16도시 33회. 정정 — WALK THE LINE 2024-10-05~2025-10-26·32회·67만+(BELIFT), 케이츠아이→캣츠아이, &TEAM 시작 5/13, 보이넥스트도어 Vol.2 종료 2027-01-30·완료 16·잔여 22, KATSEYE 완료 9·잔여 22, V8 5회, 하이브 2025 분기 공연 매출 1차 출처 연결(분기 합 7,640 vs 연간 7,639는 반올림)·2025 2Q 관객 180만."
+  },
   {
    "date": "2026-10-04 09:40 KST",
    "text": "신규 ‘하이브 투어’ 탭(data/hybe.json): HYBE 전 레이블 2025–26 투어·공연 25건(BTS ARIRANG, TXT ACT: TOMORROW·MOA CON·STEAL THE WIND, CORTIS, SEVENTEEN NEW_·팬미팅·CxM·V8, TWS 2건, ENHYPEN 2건, ILLIT 2건, LE SSERAFIM 2건, BOYNEXTDOOR 2건, &TEAM, KATSEYE, SANTOS BRAVOS, j-hope·Jin 솔로) — 레이블·상태 필터, 정렬 표, 합계 카드(보고분). HYBE 분기 공연 매출(2025 1Q~2026 2Q 실적, 3Q·4Q·연간 전망은 추정치), 공연 횟수 공시(2025 10팀 279회·2026 상반기 12팀 119회·하반기 200회+), 레이블별 현황(NewJeans 일정 없음, fromis_9 HYBE 이탈). 트래커 갱신 — TXT ACT: TOMORROW 29회·56.4만, STEAL THE WIND 32회·23도시, ENHYPEN BLOOD SAGA 35회·2027-03까지·관객 225,280, ILLIT 앙코르 10/17–12/27, KATSEYE 31회, BOYNEXTDOOR Vol.2 38회·24도시(33회에서 9/30 이후 자료로 갱신, 서울 07탭 30,571 유지), CORTIS 14회·9도시 종료, &TEAM 23회·14도시 10/4 종료, TWS ‘24/7:FOR:YOU’ 신규 행."

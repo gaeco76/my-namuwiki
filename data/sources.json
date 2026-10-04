@@ -634,5 +634,113 @@
  "WIKI-SB": {
   "title": "Wikipedia — Santos Bravos (2026-10 조회)",
   "url": "https://en.wikipedia.org/wiki/Santos_Bravos"
+ },
+ "KH-ENH-WTL": {
+  "title": "Korea Herald — Enhypen wraps up world tour that attracted 670,000 fans (BELIFT, 32회·19도시, 2025-10-27)",
+  "url": "https://www.koreaherald.com/article/10602166"
+ },
+ "WEVERSE-ENH-WTL-GOYANG": {
+  "title": "Weverse 공지 — ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG",
+  "url": "https://weverse.io/enhypen/notice/21925"
+ },
+ "WEVERSE-ENH-WTL-FINAL": {
+  "title": "Weverse 공지 — ENHYPEN WORLD TOUR WALK THE LINE : FINAL",
+  "url": "https://weverse.io/enhypen/notice/29148"
+ },
+ "KP-ENH-EU": {
+  "title": "Korea Portal — ENHYPEN adds Berlin, London shows (2026-09-08)",
+  "url": "https://en.koreaportal.com/articles/54783/20260908/enhypen-adds-berlin-london-shows-presale-opens-week.htm"
+ },
+ "O2-ENH": {
+  "title": "The O2 — ENHYPEN WORLD TOUR BLOOD SAGA IN LONDON",
+  "url": "https://www.theo2.co.uk/events/detail/enhypen-world-tour-blood-saga"
+ },
+ "ENH-BS-SITE": {
+  "title": "ENHYPEN WORLD TOUR BLOOD SAGA 공식 투어 사이트",
+  "url": "https://www.enhypenbloodsagatour.com/"
+ },
+ "PRT-LSF-PURE": {
+  "title": "PR TIMES (HYBE JAPAN) — LE SSERAFIM PUREFLOW 개최 결정: 23도시 32공연 (2026-04-28)",
+  "url": "https://prtimes.jp/main/html/rd/p/000000690.000045862.html"
+ },
+ "WEVERSE-LSF-MACAU": {
+  "title": "Weverse 공지 — 2026 LE SSERAFIM TOUR PUREFLOW MACAU 공연 추가 안내",
+  "url": "https://weverse.io/lesserafim/notice/37666"
+ },
+ "WEVERSE-LSF-PURE": {
+  "title": "Weverse 공지 — 2026 LE SSERAFIM TOUR PUREFLOW Announcement",
+  "url": "https://weverse.io/lesserafim/notice/35345"
+ },
+ "MK-LSF-PURE": {
+  "title": "매일경제 — \"32 Shows in 23 Cities\" LE SSERAFIM second world tour (2026-04-28)",
+  "url": "https://www.mk.co.kr/en/musics/12029441"
+ },
+ "KNW-BND-SCHED": {
+  "title": "K-POP NEWSWIRE — BOYNEXTDOOR KNOCK ON Vol.2 일정 (KOZ 발표 5/13 기준 34회)",
+  "url": "https://kpopnewswire.com/boynextdoor-world-tour-knock-on-vol-2-dates-venues-tickets-and-more/"
+ },
+ "TF-BND-BB": {
+  "title": "더팩트 — 보이넥스트도어 빌보드 톱 투어 26위 (38회·24도시, 2027-01-30 방콕 종료)",
+  "url": "https://news.tf.co.kr/read/entertain/2372326.htm"
+ },
+ "LN-KATSEYE-NEWS": {
+  "title": "Live Nation Newsroom — KATSEYE announces 2026 headline arena tour (전체 일정)",
+  "url": "https://newsroom.livenation.com/news/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/"
+ },
+ "ASIAE-SKZ": {
+  "title": "아시아경제 — Stray Kids 54회·34개 지역·약 198만, 앙코르 포함 200만 돌파 전망 (JYP, 2025-10-20)",
+  "url": "https://www.asiae.co.kr/en/article/2025102008520516243"
+ },
+ "JAD-SKZ": {
+  "title": "Korea JoongAng Daily — Stray Kids dominATE finale (54회·34곳 + 인천 앙코르 2회)",
+  "url": "https://www.koreajoongangdaily.com/entertainment/stray-kids-dominate-and-left-no-crumbs-at-its-world-tour-finale/12108673"
+ },
+ "RS-AESPA-PL": {
+  "title": "롤링스톤 코리아 — 에스파 SYNK: PARALLEL LINE 28개 도시 43회, 앙코르 2만 (SM)",
+  "url": "https://rollingstone.co.kr/main-trending/$/21645"
+ },
+ "HK-AESPA-PL": {
+  "title": "스포츠한국 — 에스파 28개 도시 41회 + 앙코르 2만 (2025-03)",
+  "url": "https://www.hankooki.com/news/articleView.html?idxno=239297"
+ },
+ "WIKI-AESPA-PL": {
+  "title": "Wikipedia(en) — Synk: Parallel Line (454,000 = 보고분 합산, 1차 아님)",
+  "url": "https://en.wikipedia.org/wiki/Synk:_Parallel_Line"
+ },
+ "KOWIKI-AESPA-PL": {
+  "title": "위키백과(ko) — SYNK : PARALLEL LINE (약 52만, 출처 미표기·1차 아님)",
+  "url": "https://ko.wikipedia.org/wiki/SYNK_:_PARALLEL_LINE"
+ },
+ "BB-SWIM": {
+  "title": "Billboard — BTS’ Swim debuts at No. 1 on Hot 100: 7번째 1위 (2026-03-30)",
+  "url": "https://www.billboard.com/lists/bts-swim-number-1-hot-100-debut/"
+ },
+ "BB-BTS-NO1S": {
+  "title": "Billboard — BTS’ No. 1s on the Hot 100 & Billboard 200 (2026-04-02)",
+  "url": "https://www.billboard.com/lists/bts-number-ones-hot-100-billboard-200/"
+ },
+ "ASIAE-BTS-7": {
+  "title": "아시아경제 — BTS Hot 100 7번째 1위 (Dynamite·Savage Love·Life Goes On·Butter·PTD·My Universe·Swim)",
+  "url": "https://www.asiae.co.kr/en/article/2026033108341819327"
+ },
+ "BB-JIMIN-LC": {
+  "title": "Billboard — Jimin’s Like Crazy debuts atop Hot 100 (2023-04)",
+  "url": "https://www.billboard.com/music/chart-beat/jimin-like-crazy-debuts-number-one-first-bts-solo-hot-100-1235297097/"
+ },
+ "BB-JK-SEVEN": {
+  "title": "Billboard — Jung Kook’s Seven debuts at No. 1 on Hot 100 (2023-07)",
+  "url": "https://www.billboard.com/music/chart-beat/jung-kook-latto-seven-number-one-debut-hot-100-jason-aldean-1235377400/"
+ },
+ "TECHM-HYBE-1Q25": {
+  "title": "테크M — 하이브 2025년 1분기 공연 매출 1,552억 (2025-04-29)",
+  "url": "https://www.techm.kr/news/articleView.html?idxno=139005"
+ },
+ "YNA-HYBE-2Q25": {
+  "title": "연합뉴스 — 하이브 2025년 2분기 공연 매출 1,887억·2분기 관객 180만 (2025-08-06)",
+  "url": "https://www.yna.co.kr/view/AKR20250806117651527"
+ },
+ "SIDAE-HYBE-3Q25": {
+  "title": "시대일보 — 하이브 2025년 3분기 공연 매출 2,450억 (2025-11-10)",
+  "url": "https://www.sidae.com/article/2025111016220344000"
  }
 }

@@ -29,15 +29,27 @@
    },
    "note": "본편 54회(2024-08-24 서울 ~ 2025-07-30 로마) + 인천 앙코르 2회(2025-10-18~19) = 56회. 보고분 54회 1,983,821명·$263,289,917 (Touring Data). 인천 2회 관객·매출은 미보고.",
    "changes": "회차 충돌(54/55/56) 해소: 54=본편 보고분, 56=앙코르 포함. 55는 출처 없음. Claude의 215만·$260M 추정치를 Touring Data 실집계로 교체.",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "stray_kids",
+   "grade": "부분",
+   "source_url": [
+    "https://touringdata.org/2025/08/14/stray-kids-dominate-tour/",
+    "https://en.wikipedia.org/wiki/Dominate_World_Tour",
+    "https://www.billboard.com/pro/stray-kids-dominate-world-tour-k-pop-boxscore-records/",
+    "https://www.koreaherald.com/article/10785224"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "TD-SKZ",
     "WIKI-SKZ-DOM",
     "CL-BB-SKZ",
     "CL-KH-SKZ",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "블랙핑크",
@@ -66,15 +78,27 @@
    },
    "note": "YG 발표 16도시 33회(2025-07-05 고양 ~ 2026-01-26 홍콩 카이탁). 총관객·총매출은 Billboard/Touring Data 미보고(TBA, 0/29 보고). Claude 9/18은 ‘미국 20개 도시·35회·북미 약 55만 명’이라 했으나 공식 16도시 33회와 충돌 → 미반영.",
    "changes": "2026-10-04 재조사: 총량 여전히 미공개. SNS에 도는 ‘163만·$277.9M’은 추정치라 미반영. 81회·200만+는 삭제 유지.",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "blackpink",
+   "grade": "확정",
+   "source_url": [
+    "https://www.chosun.com/english/kpop-culture-en/2026/01/28/YPEIMWHL45CTNDSCBKQI36TRYQ/",
+    "https://biz.heraldcorp.com/article/10782198",
+    "https://touringdata.org/2025/06/19/blackpink-deadline-tour/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CL-CHOSUN-BP",
     "HERALD-BP10",
     "TD-BP-DEADLINE",
     "CLAUDE-TRACKER",
     "CLAUDE-CHATS-1"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "세븐틴",
@@ -102,11 +126,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 700000,
-   "estimateText": "~ 70만"
+   "estimateText": "~ 70만",
+   "artist_id": "seventeen",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "세븐틴",
@@ -135,13 +166,23 @@
    },
    "note": "플레디스 31회 84만. 빌보드 반기 25회 57.4만은 기간 집계 / Billboard 2025 연간: 34회 96.4만·$142.4M(집계기간, 다른 투어 포함 가능).",
    "changes": "",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "seventeen",
+   "grade": "확정",
+   "source_url": [
+    "https://en.yna.co.kr/view/AEN20260601005400315",
+    "https://www.billboard.com/wp-content/uploads/2025/12/YE-Touring-2025.pdf"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CL-YNA-SVT",
     "CLAUDE-TRACKER",
     "BB-YE2025"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "아이브",
@@ -170,12 +211,20 @@
    },
    "note": "추정 관객(≈40만) 산식 (KSPO 3회 31,500 / 교세라+도쿄돔 4회 160,000 / 아시아 9회 81,000 / 오세아니아 2회 20,000 / 북미 아레나 8회 109,600). 초기 대화: 교세라 79,000 + 도쿄돔 48,000.",
    "changes": "",
-   "sources": [
+   "estimate": 402000,
+   "estimateText": "≈ 40만",
+   "artist_id": "ive",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CLAUDE-TRACKER",
     "CLAUDE-CHATS-1"
-   ],
-   "estimate": 402000,
-   "estimateText": "≈ 40만"
+   ]
   },
   {
    "artist": "베이비몬스터",
@@ -203,11 +252,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": null,
-   "estimateText": null
+   "estimateText": null,
+   "artist_id": "babymonster",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "르세라핌",
@@ -236,14 +292,25 @@
    },
    "note": "회당 평균 $1.26M·8,794명(Claude 계산). 시애틀 2025-09-17 $2.013M 커리어 하이는 Claude 대화 기준.",
    "changes": "2026-10-04: 237,000 → Touring Data 237,441장·$34,149,246(27/31회 보고분). 2차 보도(Sina)는 31회 전체 321,073장이라 해 부분 확인으로 조정.",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "le_sserafim",
+   "grade": "부분",
+   "source_url": [
+    "https://touringdata.org/2025/11/04/le-sserafim-easy-crazy-hot-tour/",
+    "https://www.sina.cn/news/detail/5345170283563952.html"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CLAUDE-TRACKER",
     "TD-LSF-ECH",
     "SINA-LSF-ECH",
     "CLAUDE-CHATS-1"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "에스파",
@@ -272,11 +339,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 321500,
-   "estimateText": "≈ 32만"
+   "estimateText": "≈ 32만",
+   "artist_id": "aespa",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "NCT 드림",
@@ -305,11 +379,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 402000,
-   "estimateText": "≈ 40만"
+   "estimateText": "≈ 40만",
+   "artist_id": "nct_dream",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "투모로우바이투게더",
@@ -337,11 +418,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 600000,
-   "estimateText": "~ 60만"
+   "estimateText": "~ 60만",
+   "artist_id": "txt",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "투모로우바이투게더",
@@ -370,14 +458,25 @@
    },
    "note": "29회·17개 도시, 약 56.4만(BigHit 2026-02-15). 매출은 Touring Data 2025년 보고 17/29회. Billboard 2026 상반기 집계 $53M·412K·20회.",
    "changes": "2026-10-04 하이브 리서치: 회차·관객 공식 발표치 반영, Claude ~28만(추정)은 모델값으로 유지",
-   "sources": [
+   "estimate": 280000,
+   "estimateText": "~ 28만",
+   "artist_id": "txt",
+   "grade": "부분",
+   "source_url": [
+    "https://www.billboard.com/wp-content/uploads/2026/05/Midyear-Touring-2026.pdf",
+    "https://touringdata.org/2026/06/09/tomorrow-x-together-act-tomorrow-tour/",
+    "https://www.allkpop.com/article/2026/02/txt-concludes-fourth-world-tour-with-564000-fans-worldwide"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-MID2026",
     "TD-TXT-ACT",
     "AKP-TXT-ACT",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 280000,
-   "estimateText": "~ 28만"
+   ]
   },
   {
    "artist": "에이티즈",
@@ -405,46 +504,72 @@
    },
    "note": "공식 발표 15개 도시(인천~고베). 2026년 1~3월 아시아·호주 추가 일정은 위키/팬덤 기준(미확인). Billboard 2025 연간: 28회 40만·$70M(집계기간 기준).",
    "changes": "자리표시 날짜(2025-01-01~12-31)를 공식 일정으로 교체.",
-   "sources": [
+   "estimate": 600000,
+   "estimateText": "~ 60만",
+   "artist_id": "ateez",
+   "grade": "부분",
+   "source_url": [
+    "https://www.nme.com/news/music/ateez-2025-in-your-fantasy-world-tour-cities-dates-tickets-more-3851482",
+    "https://ateez.kqent.com/contents/686cba47ac46c80968ca7c87",
+    "https://www.billboard.com/wp-content/uploads/2025/12/YE-Touring-2025.pdf"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "NME-ATEEZ",
     "KQ-ATEEZ",
     "BB-YE2025",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 600000,
-   "estimateText": "~ 60만"
+   ]
   },
   {
    "artist": "엔하이픈",
    "tour": "WALK THE LINE",
-   "start": "2024-09-01",
-   "end": "2025-08-31",
+   "start": "2024-10-05",
+   "end": "2025-10-26",
    "yearHint": "2024–2025",
-   "shows": null,
-   "cities": null,
-   "region": "아시아·북미",
-   "tier": "아레나",
-   "attendance": null,
-   "attendanceText": null,
+   "shows": 32,
+   "cities": 19,
+   "region": "아시아·북미·유럽",
+   "tier": "스타디움·아레나",
+   "attendance": 670000,
+   "attendanceText": "670,000+ (BELIFT 발표)",
    "revenue": null,
    "revenueText": null,
    "claudeAcc": "개략",
-   "status": "partial",
+   "status": "verified",
    "group": "boy",
    "years": [
+    "2024",
     "2025"
    ],
    "ticket": {
     "name": "Weverse",
     "url": "https://weverse.io/"
    },
-   "note": "",
-   "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
+   "note": "2024-10-05 고양종합운동장 개막 ~ 2025-10-24–26 KSPO돔 FINAL. 32회·19개 도시·67만+ (BELIFT, Korea Herald 2025-10-27). Billboard 2025 연간(집계기간) $76.1M·556K·25회.",
+   "changes": "2026-10-05: 자리표시 날짜 2024-09-01~2025-08-31 → 2024-10-05~2025-10-26 (Weverse 공지·BELIFT), 회차·관객 반영",
    "estimate": 350000,
-   "estimateText": "~ 35만"
+   "estimateText": "~ 35만",
+   "artist_id": "enhypen",
+   "grade": "확정",
+   "source_url": [
+    "https://www.koreaherald.com/article/10602166",
+    "https://weverse.io/enhypen/notice/21925",
+    "https://weverse.io/enhypen/notice/29148"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "KH-ENH-WTL",
+    "WEVERSE-ENH-WTL-GOYANG",
+    "WEVERSE-ENH-WTL-FINAL",
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "지드래곤",
@@ -472,11 +597,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 600000,
-   "estimateText": "~ 60만"
+   "estimateText": "~ 60만",
+   "artist_id": "g_dragon",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "제이홉",
@@ -504,11 +636,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 400000,
-   "estimateText": "~ 40만"
+   "estimateText": "~ 40만",
+   "artist_id": "bts_jhope",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "데이식스",
@@ -536,13 +675,23 @@
    },
    "note": "인천 개막 ~ 서울 폐막, 45회 23개 도시(언론 보도 종합).",
    "changes": "자리표시 날짜 교체, 회차·도시 보강.",
-   "sources": [
+   "estimate": 300000,
+   "estimateText": "~ 30만",
+   "artist_id": "day6",
+   "grade": "부분",
+   "source_url": [
+    "https://www.nme.com/news/music/day6-announce-first-leg-of-2024-2025-world-tour-forever-young-3782814",
+    "https://www.soompi.com/article/1680491wpp/day6-announces-dates-and-cities-for-2024-2025-world-tour-forever-young"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "NME-DAY6",
     "SOOMPI-DAY6",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 300000,
-   "estimateText": "~ 30만"
+   ]
   },
   {
    "artist": "라이즈",
@@ -571,11 +720,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 270000,
-   "estimateText": "~ 27만"
+   "estimateText": "~ 27만",
+   "artist_id": "riize",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "엔믹스",
@@ -603,12 +759,21 @@
    },
    "note": "Live Nation 발표 글로벌 레그: 마드리드 개막 ~ LA 폐막 11개 도시. 국내/아시아 공연 포함 여부는 미확인.",
    "changes": "Claude 트래커의 2025년·아시아·북미 표기를 Live Nation 공식 일정(2026년, 유럽·북미)으로 교정.",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "nmixx",
+   "grade": "부분",
+   "source_url": [
+    "https://newsroom.livenation.com/news/nmixx-announce-debut-global-run-1st-world-tour-episode-1-zero-frontier/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "LN-NMIXX",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "있지",
@@ -636,14 +801,25 @@
    },
    "note": "서울(2/13–15) 개막, 발표된 마지막 일정은 싱가포르 10/3. 16개 도시. 총회차는 미확인(추가 일정 가능).",
    "changes": "자리표시 날짜 교체. 권역 ‘아시아·북미’→ 발표 일정 기준(북미 일정 미발표).",
-   "sources": [
+   "estimate": 180000,
+   "estimateText": "~ 18만",
+   "artist_id": "itzy",
+   "grade": "부분",
+   "source_url": [
+    "https://www.dipe.co.kr/2337236",
+    "https://k-hallyu.com/articles/itzy-announce-european-and-asian-dates-for-third-world-tour",
+    "https://www.soompi.com/article/1793787wpp/itzy-announces-2026-world-tour-tunnel-vision"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "DIPE-ITZY",
     "KH-ITZY2",
     "SOOMPI-ITZY",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 180000,
-   "estimateText": "~ 18만"
+   ]
   },
   {
    "artist": "스테이씨",
@@ -671,13 +847,23 @@
    },
    "note": "서울(4/12–13) 개막, 북미 레그 10월(토론토 종료). 종료일은 보도 종합 기준.",
    "changes": "자리표시 날짜 교체.",
-   "sources": [
+   "estimate": 80000,
+   "estimateText": "~ 8만",
+   "artist_id": "stayc",
+   "grade": "부분",
+   "source_url": [
+    "https://www.soompi.com/article/1732148wpp/stayc-announces-stops-for-2025-world-tour-stay-tuned",
+    "https://www.sportingnews.com/ca/tickets/news/stayc-2025-tickets-prices-cities-dates-stay-tuned-world-tour/f599c4cc95844cae68dc750f"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "SOOMPI-STAYC",
     "SN-STAYC",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 80000,
-   "estimateText": "~ 8만"
+   ]
   },
   {
    "artist": "BTS",
@@ -706,7 +892,25 @@
    },
    "note": "일정 88회·34도시(2027-03-16 종료). 관객 230만은 2026-08-11 기준 38회(스타뉴스 인용 Billboard). Claude 8/29 전망(추정): 총 약 453만 명(440~510만)·$817M($770~970M), 지역 평균 미국 58,400명·$12.1M/회, 아시아 44,500명·$7.1M/회. Touring Data 스냅샷 32/88회 보고 $345.2M·1,881,618장(시점 차로 Billboard $433.2M과 다름, 참고).",
    "changes": "Claude 트래커의 $433.2M(08-11, 38회)은 Billboard 2026-09-30 보고(‘$500M 돌파’)로 대체. Wikipedia는 $637.5M·50회로 표기(투어 박스스코어 탭 참조). / 2026-10-04 Claude 배치1 대조: Claude(8/29)는 85회·2027-03-14 종료 → 88회·불라칸 3/13·14·16 종료로 갱신(확인).",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "bts",
+   "grade": "부분",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/",
+    "https://www.starnewskorea.com/en/music/2026/08/28/2026082816554176386",
+    "https://en.edaily.co.kr/news/eda202610015795/",
+    "https://www.contactmusic.com/story/469/3553178/bts-add-pair-of-southeast-asia-dates-as-arirang-tour-expands-to-record-breaking-88-shows",
+    "https://ticketmaster.ph/activity/detail/26ph_bts",
+    "https://en.wikipedia.org/wiki/Arirang_World_Tour",
+    "https://touringdata.org/2026/01/13/bts-arirang-tour/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930",
     "CL-STARNEWS-BTS",
     "EDAILY-BTS",
@@ -716,9 +920,7 @@
     "WIKI-ARIRANG",
     "CLAUDE-CHATS-1",
     "TD-BTS"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "빅뱅",
@@ -747,11 +949,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 738000,
-   "estimateText": "≈ 74만"
+   "estimateText": "≈ 74만",
+   "artist_id": "bigbang",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "에스파",
@@ -780,12 +989,20 @@
    },
    "note": "추정 관객(≈34만) 산식 (고척 2회 36,000 / 타이베이돔 18,000 / 상파울루 ~25,000 / 북미 8회 112,000 / 파리 아코르 15,000 / 미발표 13회 130,000). 미국 9/15–10/11 10개 도시, 유럽 2027년 1–2월 (Claude 9/18).",
    "changes": "",
-   "sources": [
+   "estimate": 336000,
+   "estimateText": "≈ 34만",
+   "artist_id": "aespa",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CLAUDE-TRACKER",
     "CLAUDE-CHATS-1"
-   ],
-   "estimate": 336000,
-   "estimateText": "≈ 34만"
+   ]
   },
   {
    "artist": "스트레이 키즈",
@@ -814,12 +1031,21 @@
    },
    "note": "아시아 1차 약 18회 9도시. 51,297은 서울 5회이지 투어 총량이 아님",
    "changes": "Claude 검증 패스(08-29) 반영: 51,297은 서울 5회 수치.",
-   "sources": [
+   "estimate": 535000,
+   "estimateText": "≈ 54만",
+   "artist_id": "stray_kids",
+   "grade": "부분",
+   "source_url": [
+    "https://www.koreaherald.com/article/10785224"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CL-KH-SKZ",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 535000,
-   "estimateText": "≈ 54만"
+   ]
   },
   {
    "artist": "베이비몬스터",
@@ -848,11 +1074,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 363500,
-   "estimateText": "≈ 36만"
+   "estimateText": "≈ 36만",
+   "artist_id": "babymonster",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "르세라핌",
@@ -860,8 +1093,8 @@
    "start": "2026-07-11",
    "end": "2026-12-20",
    "yearHint": "2026",
-   "shows": 34,
-   "cities": null,
+   "shows": 36,
+   "cities": 24,
    "region": "아시아·북미·유럽",
    "tier": "아레나",
    "attendance": null,
@@ -869,7 +1102,7 @@
    "revenue": null,
    "revenueText": null,
    "claudeAcc": "부분",
-   "status": "conflict",
+   "status": "partial",
    "group": "girl",
    "years": [
     "2026"
@@ -878,16 +1111,31 @@
     "name": "Weverse",
     "url": "https://weverse.io/"
    },
-   "note": "북미 9회 9/16–10/8 (LA·타코마·새너제이·피닉스·포트워스·올랜도·시카고·워싱턴DC·뉴어크), 유럽 5회 10/16 런던–10/26 베를린(위키 확인). 마지막 공연: 교세라돔 오사카 12/19–20 (공식).",
-   "changes": "Claude(8/30·7/13)는 23개 도시·32회라 해 트래커 34회와 충돌 — 최종 회차 공식 집계 미확인. / 2026-10-04: 종료일 12-06(07 검증표 값) → 12-20 교세라돔 오사카(12/19–20, 공식 9/3 발표)로 갱신.",
-   "sources": [
+   "note": "36회 = 4/28 공식 발표 32회(23도시) + 마카오 2회(7/21 Weverse 추가) + 교세라돔 2회(9/3 공식). 2026-10-05 KST 기준 완료 20회(인천2·일본11·북미7, 시카고 10/2까지), 잔여 16회(워싱턴DC 10/5 현지~교세라돔 12/20).",
+   "changes": "Claude(8/30·7/13)는 23개 도시·32회라 해 트래커 34회와 충돌 — 최종 회차 공식 집계 미확인. / 2026-10-04: 종료일 12-06(07 검증표 값) → 12-20 교세라돔 오사카(12/19–20, 공식 9/3 발표)로 갱신. / 2026-10-05: 회차 충돌 34/36/32 해소 → 36회(공식 발표 32 + 추가 공지 4). 34는 마카오 또는 교세라 한쪽만 반영한 값",
+   "estimate": 357000,
+   "estimateText": "≈ 36만",
+   "artist_id": "le_sserafim",
+   "grade": "부분",
+   "source_url": [
+    "https://prtimes.jp/main/html/rd/p/000000690.000045862.html",
+    "https://weverse.io/lesserafim/notice/37666",
+    "https://en.wikipedia.org/wiki/Pureflow_Tour",
+    "https://www.le-sserafim.jp/news/0fbf87ba1d6c"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "PRT-LSF-PURE",
+    "WEVERSE-LSF-MACAU",
     "CLAUDE-TRACKER",
     "WIKI-PUREFLOW",
     "CLAUDE-CHATS-1",
     "LSF-JP-KYOCERA"
-   ],
-   "estimate": 357000,
-   "estimateText": "≈ 36만"
+   ]
   },
   {
    "artist": "트와이스",
@@ -915,11 +1163,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 360000,
-   "estimateText": "≈ 36만"
+   "estimateText": "≈ 36만",
+   "artist_id": "twice",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "투모로우바이투게더",
@@ -948,26 +1203,36 @@
    },
    "note": "발표 32회·23개 도시(2026-08-27), 추가 도시 발표 예정. 도쿄돔 2027-01-07~08.",
    "changes": "2026-10-04 하이브 리서치: 발표 일정 반영",
-   "sources": [
+   "estimate": 472000,
+   "estimateText": "≈ 47만",
+   "artist_id": "txt",
+   "grade": "부분",
+   "source_url": [
+    "https://weverse.io/txt/notice/38684",
+    "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WEVERSE-TXT-STW",
     "CONSEQ-TXT-STW",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 472000,
-   "estimateText": "≈ 47만"
+   ]
   },
   {
    "artist": "엔하이픈",
    "tour": "BLOOD SAGA",
    "start": "2026-05-01",
-   "end": null,
+   "end": "2027-03-09",
    "yearHint": "2026–2027",
    "shows": 35,
    "cities": 21,
    "region": "한국·남미·북미·아시아·일본·유럽",
    "tier": "아레나",
-   "attendance": 225280,
-   "attendanceText": "225,280 (서울 32,280 + 미주 12회 193,000)",
+   "attendance": 225250,
+   "attendanceText": "225,250 (범위: 서울 3회 32,250 + 미주 12회 193,000 · 부산 2회 미포함)",
    "revenue": 3648869,
    "revenueText": "$3.65M (서울 3회)",
    "claudeAcc": "부분",
@@ -981,16 +1246,33 @@
     "name": "Ticketmaster",
     "url": "https://www.ticketmaster.com/"
    },
-   "note": "2027-03 유럽(밀라노·파리·암스테르담·베를린·런던)까지, 종료일 미정. 총 35회는 Wikipedia 집계. 서울 07탭 32,280 유지(Korea Herald 32,250). 미주 193,000은 BELIFT 발표. 다음 마카오 10/16–17.",
-   "changes": "2026-10-04 하이브 리서치: 종료일 2026-08-31 → 2027-03(유럽, 일자 미정), 미주 관객 반영",
-   "sources": [
+   "note": "범위 표기 — 225,250 = 서울 KSPO 3회 32,250(BELIFT·Korea Herald) + 미주 12회 193,000(BELIFT). 서울만은 32,250. 07탭/Claude 서울값 32,280은 1차 출처 아님(1차 32,250으로 교체). 종료 2027-03-09 런던 O2. 총 35회(공식 투어 사이트·위키 집계, 부분). 2026-10-05 기준 완료 17·잔여 18.",
+   "changes": "2026-10-04 하이브 리서치: 종료일 2026-08-31 → 2027-03(유럽, 일자 미정), 미주 관객 반영 / 2026-10-05: 종료일 2027-03-09(런던 O2), 서울 관객 1차값 32,250으로 교체(합계 225,280→225,250)",
+   "estimate": 176000,
+   "estimateText": "≈ 18만",
+   "artist_id": "enhypen",
+   "grade": "부분",
+   "source_url": [
+    "https://en.koreaportal.com/articles/54783/20260908/enhypen-adds-berlin-london-shows-presale-opens-week.htm",
+    "https://www.theo2.co.uk/events/detail/enhypen-world-tour-blood-saga",
+    "https://www.enhypenbloodsagatour.com/",
+    "https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances",
+    "https://k-hallyu.com/articles/enhypen-conclude-americas-leg-of-blood-saga-tour-attracting-193000-fans",
+    "https://www.koreaherald.com/article/10730310"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "KP-ENH-EU",
+    "O2-ENH",
+    "ENH-BS-SITE",
     "WIKI-ENH-LIVE",
     "KH2-ENH-AM",
     "KH-ENH-BS",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 176000,
-   "estimateText": "≈ 18만"
+   ]
   },
   {
    "artist": "아일릿",
@@ -1018,11 +1300,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 90000,
-   "estimateText": "≈ 9만"
+   "estimateText": "≈ 9만",
+   "artist_id": "illit",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "아일릿",
@@ -1050,13 +1339,23 @@
    },
    "note": "인천 인스파이어 10/17–18, 지바 LaLa arena 12/23·24·26·27.",
    "changes": "2026-10-04 하이브 리서치: 시작일 10-01(자리표시) → 10-17, 종료 12-27",
-   "sources": [
+   "estimate": 40000,
+   "estimateText": "≈ 4만",
+   "artist_id": "illit",
+   "grade": "부분",
+   "source_url": [
+    "https://prtimes.jp/main/html/rd/p/000000726.000045862.html",
+    "https://weverse.io/illit/notice/37855"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "PRT-ILLIT-ENC",
     "WEVERSE-ILLIT-ENC",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 40000,
-   "estimateText": "≈ 4만"
+   ]
   },
   {
    "artist": "아이들",
@@ -1084,15 +1383,24 @@
    },
    "note": "큐브, 북미 10도시 취소(2026-04-20). 호주·싱가포르·일본·홍콩은 유지",
    "changes": "Claude 검증 패스: 북미 10도시 취소(큐브 2026-04-20).",
-   "sources": [
+   "estimate": 135000,
+   "estimateText": "≈ 14만",
+   "artist_id": "i_dle",
+   "grade": "확정",
+   "source_url": [
+    "https://www.koreaherald.com/article/10720946"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CL-KH-IDLE",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 135000,
-   "estimateText": "≈ 14만"
+   ]
   },
   {
-   "artist": "케이츠아이",
+   "artist": "캣츠아이",
    "tour": "Wildworld 2026",
    "start": "2026-09-01",
    "end": "2026-11-28",
@@ -1115,18 +1423,33 @@
     "name": "Ticketmaster",
     "url": "https://www.ticketmaster.com/"
    },
-   "note": "HYBE 2Q26 실적발표: 10개국 27개 도시 31회, 전석 매진. Claude 회당 14,000–16,000명은 가정(추정치).",
-   "changes": "2026-10-04: 시작 10/13(북미) → 9/1 더블린(유럽 레그)부터, 종료 11/28 멕시코시티로 갱신. 유럽 8 + 북미 18 + 멕시코시티 ≈ 27개 도시. / 2026-10-04 하이브 리서치: 총 공연 수 미확인 → 31회(HYBE 실적발표)",
-   "sources": [
+   "note": "HYBE 2Q26 실적발표: 10개국 27개 도시 31회, 전석 매진. Claude 회당 14,000–16,000명은 가정(추정치). 2026-10-05 기준 완료 9회(유럽), 잔여 22회(10/13 마이애미~11/28 멕시코시티).",
+   "changes": "2026-10-04: 시작 10/13(북미) → 9/1 더블린(유럽 레그)부터, 종료 11/28 멕시코시티로 갱신. 유럽 8 + 북미 18 + 멕시코시티 ≈ 27개 도시. / 2026-10-04 하이브 리서치: 총 공연 수 미확인 → 31회(HYBE 실적발표) / 2026-10-05: 표기 케이츠아이 → 캣츠아이",
+   "estimate": 120000,
+   "estimateText": "≈ 12만",
+   "artist_id": "katseye",
+   "grade": "부분",
+   "source_url": [
+    "https://newsroom.livenation.com/news/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/",
+    "https://news.pollstar.com/2026/05/13/katseye-announces-wildword-tour-of-europe-north-america/",
+    "https://zdnet.co.kr/view/?no=20260728154327",
+    "https://newsroom.livenation.com/news/katseye-announces-2026-headline-arena-tour-of-uk-eu-and-north-america/",
+    "https://consequence.net/2026/05/katseye-2026-wildworld-tour-sold-out-tickets/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)",
+    "Claude 리서치 기준 — 사용자 claude.ai K-pop 대화 배치 1 (2026-07~09, 12건)"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "LN-KATSEYE-NEWS",
     "POLLSTAR-KATSEYE",
     "HYBE-2Q26-ZDNET",
     "CLAUDE-TRACKER",
     "LN-KATSEYE",
     "CONSEQ-KATSEYE",
     "CLAUDE-CHATS-1"
-   ],
-   "estimate": 120000,
-   "estimateText": "≈ 12만"
+   ]
   },
   {
    "artist": "몬스타엑스",
@@ -1154,11 +1477,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 51000,
-   "estimateText": "≈ 5.1만"
+   "estimateText": "≈ 5.1만",
+   "artist_id": "monsta_x",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "마마무",
@@ -1186,11 +1516,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 35000,
-   "estimateText": "≈ 3.5만"
+   "estimateText": "≈ 3.5만",
+   "artist_id": "mamamoo",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "XG",
@@ -1218,11 +1555,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 35000,
-   "estimateText": "≈ 3.5만"
+   "estimateText": "≈ 3.5만",
+   "artist_id": "xg",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "리사",
@@ -1250,11 +1594,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 16000,
-   "estimateText": "≈ 1.6만"
+   "estimateText": "≈ 1.6만",
+   "artist_id": "lisa",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "제로베이스원",
@@ -1282,11 +1633,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": null,
-   "estimateText": null
+   "estimateText": null,
+   "artist_id": "zerobaseone",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "플레이브",
@@ -1314,46 +1672,69 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 60000,
-   "estimateText": "≈ 6만"
+   "estimateText": "≈ 6만",
+   "artist_id": "plave",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "보이넥스트도어",
    "tour": "TOUR ⟨KNOCK ON Vol.2⟩",
    "start": "2026-07-17",
-   "end": "2026-11-24",
-   "yearHint": "2026",
+   "end": "2027-01-30",
+   "yearHint": "2026–2027",
    "shows": 38,
    "cities": 24,
    "region": "아시아·북미",
    "tier": "아레나",
-   "attendance": 30571,
-   "attendanceText": "30,571",
+   "attendance": 31800,
+   "attendanceText": "31,800 (서울 3회, KOZ) · Billboard 보고 6회 69,300",
    "revenue": 5800000,
    "revenueText": "$5.8M (Billboard 보고 6회)",
    "claudeAcc": "확정",
    "status": "partial",
    "group": "boy",
    "years": [
-    "2026"
+    "2026",
+    "2027"
    ],
    "ticket": {
     "name": "Ticketmaster",
     "url": "https://www.ticketmaster.com/"
    },
-   "note": "38회·24개 도시(KOZ, 10월). Billboard 9/30: 보고 6회 $5.8M·69,300명. 서울 3회 30,571(07탭) — 소속사 발표 31,800 병기. 북미 10/30–11/24.",
-   "changes": "2026-10-04 하이브 리서치: 33회 → 38회(9/30 이후 자료, 07탭 대비 최신 우선), 종료일 11-24(발표 일정 기준)",
-   "sources": [
+   "note": "38회·24개 도시(KOZ, 10월). Billboard 9/30: 보고 6회 $5.8M·69,300명. 서울 3회 31,800(KOZ 발표; 07탭 30,571은 1차 아님). 북미 10/30–11/24 → 아시아 12/5 자카르타 ~ 2027-01-30 방콕. 2026-10-05 기준 완료 16회(5/13 발표 일정 기준: 서울3·부산2·일본11), 잔여 22회(38−16, 추가 4회 위치 미확인).",
+   "changes": "2026-10-04 하이브 리서치: 33회 → 38회(9/30 이후 자료, 07탭 대비 최신 우선), 종료일 11-24(발표 일정 기준) / 2026-10-05: 종료일 11-24 → 2027-01-30 방콕 (발표 일정)",
+   "estimate": 257500,
+   "estimateText": "≈ 26만",
+   "artist_id": "boynextdoor",
+   "grade": "부분",
+   "source_url": [
+    "https://news.tf.co.kr/read/entertain/2372326.htm",
+    "https://kpopnewswire.com/boynextdoor-world-tour-knock-on-vol-2-dates-venues-tickets-and-more/",
+    "https://www.liveinlimbo.com/2026/06/20/news/boynextdoors-first-world-tour-knock-on-vol-2-to-head-to-north-america-this-fall.html",
+    "https://biz.chosun.com/en/en-entertainment/2026/07/20/MJH53EUYXBEAHC74GHAPC7OCVM/",
+    "https://www.allkpop.com/article/2026/10/boynextdoor-enter-billboards-top-tours-chart-for-the-first-time-with-knock-on-vol2"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "TF-BND-BB",
+    "KNW-BND-SCHED",
     "LIL-BND-NA",
     "CHOSUN-BND",
     "AKP-BND-BB",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 257500,
-   "estimateText": "≈ 26만"
+   ]
   },
   {
    "artist": "보이넥스트도어",
@@ -1381,11 +1762,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 160000,
-   "estimateText": "~ 16만"
+   "estimateText": "~ 16만",
+   "artist_id": "boynextdoor",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "키스오브라이프",
@@ -1413,11 +1801,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 112500,
-   "estimateText": "≈ 11만"
+   "estimateText": "≈ 11만",
+   "artist_id": "kiss_of_life",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "NCT 위시",
@@ -1446,11 +1841,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 200000,
-   "estimateText": "~ 20만"
+   "estimateText": "~ 20만",
+   "artist_id": "nct_wish",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "엑소",
@@ -1478,11 +1880,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 170000,
-   "estimateText": "~ 17만"
+   "estimateText": "~ 17만",
+   "artist_id": "exo",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "샤이니",
@@ -1510,11 +1919,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 170000,
-   "estimateText": "~ 17만"
+   "estimateText": "~ 17만",
+   "artist_id": "shinee",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "더보이즈",
@@ -1542,11 +1958,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 180000,
-   "estimateText": "~ 18만"
+   "estimateText": "~ 18만",
+   "artist_id": "the_boyz",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "데이식스",
@@ -1574,11 +1997,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 240000,
-   "estimateText": "~ 24만"
+   "estimateText": "~ 24만",
+   "artist_id": "day6",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "피원하모니",
@@ -1607,11 +2037,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 150000,
-   "estimateText": "~ 15만"
+   "estimateText": "~ 15만",
+   "artist_id": "p1harmony",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "트레저",
@@ -1640,13 +2077,23 @@
    },
    "note": "서울 3회 + 일본 15회(교세라돔 2회 포함) + 아시아 9회 = 발표 일정 합산 27회, 14개 도시.",
    "changes": "자리표시 날짜 교체, 회차 보강(공식 일정 합산).",
-   "sources": [
+   "estimate": null,
+   "estimateText": null,
+   "artist_id": "treasure",
+   "grade": "부분",
+   "source_url": [
+    "https://ygex.jp/en/treasure/news/detail.php?id=1125826",
+    "https://www.facebook.com/OfficialTreasure/posts/1406174894213272/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "YGEX-TREASURE",
     "YG-TREASURE",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": null,
-   "estimateText": null
+   ]
   },
   {
    "artist": "TWS",
@@ -1675,14 +2122,25 @@
    },
    "note": "서울 3회(6/20–22) + 일본 13회 + 마카오·가오슝 각 1회 = 공지 기준 18회. 추가 공연 여부 미확인.",
    "changes": "자리표시 날짜 교체.",
-   "sources": [
+   "estimate": 110000,
+   "estimateText": "~ 11만",
+   "artist_id": "tws",
+   "grade": "부분",
+   "source_url": [
+    "https://weverse.io/tws/notice/26785",
+    "https://www.hybejapan.events/tws/24_7_with_us_in_japan",
+    "https://weverse.io/tws/notice/31558"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WEVERSE-TWS-SEOUL",
     "HYBEJP-TWS",
     "WEVERSE-TWS-MACAU",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 110000,
-   "estimateText": "~ 11만"
+   ]
   },
   {
    "artist": "TWS",
@@ -1710,11 +2168,17 @@
    },
    "note": "공지 일정 합산 15회(서울2·후쿠오카3·고베3·요코하마2·마카오2·방콕1·싱가포르1·가오슝1). Weverse 원문 직접 열람 실패 — 검색 색인 기준.",
    "changes": "2026-10-04 하이브 리서치: 신규 행.",
-   "sources": [
-    "WEVERSE-TWS-FORYOU"
-   ],
    "estimate": null,
-   "estimateText": null
+   "estimateText": null,
+   "artist_id": "tws",
+   "grade": "부분",
+   "source_url": [
+    "https://weverse.io/tws/notice/35444"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "WEVERSE-TWS-FORYOU"
+   ]
   },
   {
    "artist": "코르티스",
@@ -1742,13 +2206,23 @@
    },
    "note": "9개 도시 14회 전석 매진(BigHit). 관객·매출 미발표.",
    "changes": "2026-10-04 하이브 리서치: 종료일·회차 반영",
-   "sources": [
+   "estimate": 50000,
+   "estimateText": "~ 5만",
+   "artist_id": "cortis",
+   "grade": "부분",
+   "source_url": [
+    "https://weverse.io/cortis/notice/36310",
+    "https://www.starnewskorea.com/en/music/2026/08/04/2026080415550324689"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WEVERSE-CORTIS",
     "STARNEWS-CORTIS",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 50000,
-   "estimateText": "~ 5만"
+   ]
   },
   {
    "artist": "에버글로우",
@@ -1776,11 +2250,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 30000,
-   "estimateText": "~ 3만"
+   "estimateText": "~ 3만",
+   "artist_id": "everglow",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "원어스",
@@ -1808,18 +2289,25 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 50000,
-   "estimateText": "~ 5만"
+   "estimateText": "~ 5만",
+   "artist_id": "oneus",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "&TEAM",
    "tour": "CONCERT TOUR ⟨Blaze The Way⟩",
-   "start": null,
+   "start": "2026-05-13",
    "end": "2026-10-04",
-   "yearHint": "2026 (5월~)",
+   "yearHint": "2026",
    "shows": 23,
    "cities": 14,
    "region": "일본·한국",
@@ -1839,14 +2327,24 @@
     "url": "https://weverse.io/"
    },
    "note": "5월 요코하마 개막 → 9/5–6 벨루나돔 → 10/3–4 KSPO돔 앙코르로 종료. 14개 도시 23회(YX LABELS). 관객 미발표.",
-   "changes": "2026-10-04 하이브 리서치: 미확인 → 회차·종료일 확인",
-   "sources": [
+   "changes": "2026-10-04 하이브 리서치: 미확인 → 회차·종료일 확인 / 2026-10-05: 시작일 2026-05-13 K아레나 요코하마 (HYBE JAPAN 2/19 발표)",
+   "estimate": 120000,
+   "estimateText": "~ 12만",
+   "artist_id": "andteam",
+   "grade": "부분",
+   "source_url": [
+    "https://prtimes.jp/main/html/rd/p/000000648.000045862.html",
+    "https://biz.chosun.com/en/en-entertainment/2026/10/03/6Q4KJSCK3NHOZLBJ7NLCEZXXPQ/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
     "PRT-TEAM",
     "CHOSUN-TEAM",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 120000,
-   "estimateText": "~ 12만"
+   ]
   },
   {
    "artist": "이즈나",
@@ -1875,13 +2373,23 @@
    },
    "note": "서울 2회(9/19–20), 타이베이·마닐라·홍콩·싱가포르·쿠알라룸푸르, 일본 4개 도시(2027-03). 발표 일정 합산.",
    "changes": "자리표시 날짜 교체.",
-   "sources": [
+   "estimate": 30000,
+   "estimateText": "~ 3만",
+   "artist_id": "izna",
+   "grade": "부분",
+   "source_url": [
+    "https://www.soompi.com/article/1853677wpp/izna-announces-first-stops-for-2026-tour-who-dat-girl",
+    "https://special-izna-official.jp/whodatgirlinjapan/"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "SOOMPI-IZNA",
     "IZNA-JP",
     "CLAUDE-TRACKER"
-   ],
-   "estimate": 30000,
-   "estimateText": "~ 3만"
+   ]
   },
   {
    "artist": "우즈",
@@ -1909,11 +2417,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 80000,
-   "estimateText": "~ 8만"
+   "estimateText": "~ 8만",
+   "artist_id": "woodz",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   },
   {
    "artist": "유니스",
@@ -1941,11 +2456,18 @@
    },
    "note": "",
    "changes": "",
-   "sources": [
-    "CLAUDE-TRACKER"
-   ],
    "estimate": 20000,
-   "estimateText": "~ 2만"
+   "estimateText": "~ 2만",
+   "artist_id": "unis",
+   "grade": "미확",
+   "source_url": [],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
+    "CLAUDE-TRACKER"
+   ]
   }
  ],
  "records": [
@@ -1960,7 +2482,17 @@
    "estimate": true,
    "note": "07 검증표(8/29) 추정: 진행 38회 230만 + 잔여 50회 외삽 → 최종 500~540만·$8.8~9.8억. 정렬값은 중앙 520만. Claude 01 대화의 권역별 재계산은 약 453만(440~510만)·$8.17억. 공식 아님 — 실적은 Billboard 9/30 기준 매출 $500M+ 돌파.",
    "status": "estimate",
-   "sources": [
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "source_note": [
+    "Claude 투어 트래커 검증본 ‘07 검증’ 탭 (2026-08-29 패스, 사용자 제공)",
+    "사용자 claude.ai K-pop 자료 패키지 (대화 본문·아티팩트, 수집 2026-10-04) — Claude 추정 포함"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "CLAUDE-07",
     "BB-BTS-0930",
     "CLAUDE-FC"
@@ -1975,8 +2507,21 @@
    "attendance": 1983821,
    "attendanceText": "1,983,821",
    "estimate": false,
-   "note": "Touring Data 보고 54회 실집계 ($263.3M). 인천 앙코르 2회 미포함. (Claude 원값: 215만 추정)",
-   "status": "partial"
+   "note": "범위: 본편 54회 보고분 1,983,821명·$263.3M (Touring Data). 총 56회 = 본편 54 + 인천 앙코르 2 (JYP). Claude 트래커의 55회·215만은 1차 출처 없음 → 미채택.",
+   "status": "partial",
+   "artist_id": "stray_kids",
+   "grade": "부분",
+   "source_url": [
+    "https://touringdata.org/2025/08/14/stray-kids-dominate-tour/",
+    "https://www.asiae.co.kr/en/article/2025102008520516243",
+    "https://www.koreajoongangdaily.com/entertainment/stray-kids-dominate-and-left-no-crumbs-at-its-world-tour-finale/12108673"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "TD-SKZ",
+    "ASIAE-SKZ",
+    "JAD-SKZ"
+   ]
   },
   {
    "kind": "tour",
@@ -1987,8 +2532,19 @@
    "attendance": null,
    "attendanceText": "—",
    "estimate": false,
-   "note": "YG 발표 16도시 33회. 총관객 미집계. 이전 81회·200만+는 출처 없음",
-   "status": "claude"
+   "note": "YG 발표 16도시 33회 (조선·헤럴드). 총관객 미집계. 81회·200만+는 출처 없음 → 삭제 유지.",
+   "status": "verified",
+   "artist_id": "blackpink",
+   "grade": "확정",
+   "source_url": [
+    "https://www.chosun.com/english/kpop-culture-en/2026/01/28/YPEIMWHL45CTNDSCBKQI36TRYQ/",
+    "https://biz.heraldcorp.com/article/10782198"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "CL-CHOSUN-BP",
+    "HERALD-BP10"
+   ]
   },
   {
    "kind": "tour",
@@ -2000,7 +2556,11 @@
    "attendanceText": "1,800,000",
    "estimate": false,
    "note": "2022~23년 완료. 매출 3억 3천만 달러로 케이팝 투어 최대 매출 · 07 검증표 $330M, Claude 01 대화는 Billboard 기준 $331.8M이라 함 (07 값 유지)",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "blackpink",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2012,7 +2572,11 @@
    "attendanceText": "2,300,000",
    "estimate": false,
    "note": "빌보드 박스스코어 2026-08-11까지. 매출 $433.2M. 투어 진행 중",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2024,7 +2588,11 @@
    "attendanceText": "840,000",
    "estimate": false,
    "note": "온·오프라인 합산 90만 명 이상. 빌보드 반기 톱투어 7위",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "seventeen",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2032,11 +2600,28 @@
    "label": "SYNK: Parallel Line (비교선)",
    "region": "다지역",
    "shows": 43,
-   "attendance": 454000,
-   "attendanceText": "454,000",
+   "attendance": null,
+   "attendanceText": "미확인 (1차 총계 없음)",
    "estimate": false,
-   "note": "2024~25년 완료, 매출 2,486만 달러 · 454,000은 43회 중 38회 집계(위키). Claude 8/30 첫 버전은 52만 명 ‘공식’이라 해 충돌.",
-   "status": "conflict"
+   "note": "43회·28개 도시는 SM 발표(확정). 총관객 1차 집계 없음: 454,000(영문 위키, 보고 38/43회 합산)·52만(한국어 위키, 출처 미표기) 모두 위키값 → 미확인. 1차 부분치: Billboard 2025 연간(집계기간) 138,000명·$18M, 서울 앙코르 2회 2만(SM). 매출 $24.868M도 위키 합산.",
+   "status": "unverified",
+   "artist_id": "aespa",
+   "grade": "미확",
+   "source_url": [
+    "https://rollingstone.co.kr/main-trending/$/21645",
+    "https://www.hankooki.com/news/articleView.html?idxno=239297",
+    "https://www.billboard.com/wp-content/uploads/2025/12/YE-Touring-2025.pdf",
+    "https://en.wikipedia.org/wiki/Synk:_Parallel_Line",
+    "https://ko.wikipedia.org/wiki/SYNK_:_PARALLEL_LINE"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "RS-AESPA-PL",
+    "HK-AESPA-PL",
+    "BB-YE2025",
+    "WIKI-AESPA-PL",
+    "KOWIKI-AESPA-PL"
+   ]
   },
   {
    "kind": "tour",
@@ -2048,7 +2633,11 @@
    "attendanceText": "440,000",
    "estimate": false,
    "note": "2023~24년 완료, 19개국. 아시아 21·북미 6·유럽 5·중남미 3·오세아니아 2",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "ive",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2060,7 +2649,11 @@
    "attendanceText": "51,297",
    "estimate": false,
    "note": "서울 5회 수치. 투어 총관객 아님. 아시아 1차 레그 약 18회 9도시 발표",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "stray_kids",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2072,7 +2665,11 @@
    "attendanceText": "약 40만",
    "estimate": true,
    "note": "아레나 회당 1.2만 명 가정. 그룹 첫 유럽 공연 포함 · Claude 모델 간 편차: 36만(트래커 8/29)·40만(8/30 비교표)·33만(7/13 수익 계산)",
-   "status": "estimate"
+   "status": "estimate",
+   "artist_id": "le_sserafim",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2084,7 +2681,11 @@
    "attendanceText": "300,000",
    "estimate": false,
    "note": "데뷔 첫 월드투어. 아시아·북미",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "babymonster",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "tour",
@@ -2096,7 +2697,11 @@
    "attendanceText": "237,441",
    "estimate": false,
    "note": "도쿄돔 2회 8만 명 포함. 2026년 2월 잠실 폐막 · Touring Data 27/31회 보고분 $34.1M",
-   "status": "partial"
+   "status": "partial",
+   "artist_id": "le_sserafim",
+   "grade": "미확",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2108,7 +2713,11 @@
    "attendanceText": "246,000",
    "estimate": false,
    "note": "매출 4,950만 달러. 4회차 편성 도시",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2120,7 +2729,11 @@
    "attendanceText": "194,000",
    "estimate": false,
    "note": "매출 4,070만 달러. 북미 1차 레그 개막지",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2132,7 +2745,11 @@
    "attendanceText": "175,000",
    "estimate": false,
    "note": "브라질 개최 케이팝 투어 최대 규모",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "stray_kids",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2144,7 +2761,11 @@
    "attendanceText": "152,000",
    "estimate": false,
    "note": "매출 3,050만 달러. 관객이 태극기를 들고 아리랑을 부른 팬 프로젝트 진행",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2156,7 +2777,11 @@
    "attendanceText": "140,000",
    "estimate": false,
    "note": "구장 이틀 합산 최다 관중 기록. 그룹의 첫 볼티모어 공연",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2168,7 +2793,11 @@
    "attendanceText": "135,000",
    "estimate": false,
    "note": "매출 2,510만 달러. 취소된 과거 투어에서 빠졌던 지역",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "bts",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2180,7 +2809,11 @@
    "attendanceText": "120,000",
    "estimate": false,
    "note": "프랑스 내 한국 가수 최다 관객. 1회 매진 후 2회차 추가",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "stray_kids",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2192,7 +2825,11 @@
    "attendanceText": "120,000",
    "estimate": false,
    "note": "케이팝 최초 모룸비 단독 공연. 수요 폭증으로 2회차 추가",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "stray_kids",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2204,7 +2841,11 @@
    "attendanceText": "100,000+",
    "estimate": false,
    "note": "47분 만에 전석 매진. 걸그룹 최초 이틀 연속 매진",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "blackpink",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2216,7 +2857,11 @@
    "attendanceText": "80,000",
    "estimate": false,
    "note": "Easy Crazy Hot 투어 중 최대 회차",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "le_sserafim",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2228,7 +2873,11 @@
    "attendanceText": "76,489",
    "estimate": false,
    "note": "DEADLINE 개막지. 신곡 JUMP를 이 무대에서 처음 공개",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "blackpink",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2240,7 +2889,11 @@
    "attendanceText": "73,000",
    "estimate": false,
    "note": "빌보드 톱 박스스코어 18위. 케이팝 유일 톱30 진입",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "seventeen",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2252,7 +2905,11 @@
    "attendanceText": "55,000",
    "estimate": false,
    "note": "단일 공연 기준 남미 최대 회차",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "stray_kids",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2264,7 +2921,11 @@
    "attendanceText": "51,297",
    "estimate": false,
    "note": "RUN IT 개막. 오라캐스트 청각 보조 시스템 도입",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "stray_kids",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2276,7 +2937,11 @@
    "attendanceText": "50,374",
    "estimate": false,
    "note": "판매 51,086석 기준 순 관객. 전석 매진",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "blackpink",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2288,7 +2953,11 @@
    "attendanceText": "47,297",
    "estimate": false,
    "note": "데뷔 10주년 투어 국내 피날레",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "day6",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2300,7 +2969,11 @@
    "attendanceText": "46,974",
    "estimate": false,
    "note": "NEW_ 투어 폐막 공연",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "seventeen",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2312,7 +2985,11 @@
    "attendanceText": "28,438",
    "estimate": false,
    "note": "HERE&NOW 앙코르",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "zerobaseone",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2324,7 +3001,11 @@
    "attendanceText": "24,632",
    "estimate": false,
    "note": "네 번째 팬콘 DIVE into IVE",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "ive",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2336,7 +3017,11 @@
    "attendanceText": "32,664",
    "estimate": false,
    "note": "INTO THE WISH : Our WISH 앙코르. 데뷔 2년 차 국내 최다",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "nct_wish",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2344,11 +3029,20 @@
    "label": "KSPO돔 · 서울",
    "region": "국내",
    "shows": 3,
-   "attendance": 32280,
-   "attendanceText": "32,280",
+   "attendance": 32250,
+   "attendanceText": "32,250",
    "estimate": false,
-   "note": "BLOOD SAGA 개막. 6인 체제 첫 서울 공연",
-   "status": "claude"
+   "note": "BLOOD SAGA 개막 3회 (범위: 서울만). BELIFT 32,250 (Korea Herald). 07탭/Claude 32,280은 1차 아님.",
+   "status": "verified",
+   "artist_id": "enhypen",
+   "grade": "확정",
+   "source_url": [
+    "https://www.koreaherald.com/article/10730310"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "KH-ENH-BS"
+   ]
   },
   {
    "kind": "city",
@@ -2360,7 +3054,11 @@
    "attendanceText": "31,992",
    "estimate": false,
    "note": "RIIZING LOUD 국내 피날레",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "riize",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2372,7 +3070,11 @@
    "attendanceText": "31,875",
    "estimate": false,
    "note": "EXO PLANET #6 EXhOrizon. 데뷔 14년 차 단독 공연",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "exo",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2384,7 +3086,11 @@
    "attendanceText": "30,780",
    "estimate": false,
    "note": "SHINee WORLD VIII THE INVERT",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "shinee",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2392,11 +3098,20 @@
    "label": "KSPO돔 · 서울",
    "region": "국내",
    "shows": 3,
-   "attendance": 30571,
-   "attendanceText": "30,571",
+   "attendance": 31800,
+   "attendanceText": "31,800",
    "estimate": false,
-   "note": "KNOCK ON Vol.2 개막. 첫 월드투어 시작점",
-   "status": "claude"
+   "note": "KNOCK ON Vol.2 개막 3회. KOZ 발표 31,800 (조선비즈 7/20). 07탭/Claude 30,571은 1차 아님.",
+   "status": "verified",
+   "artist_id": "boynextdoor",
+   "grade": "확정",
+   "source_url": [
+    "https://biz.chosun.com/en/en-entertainment/2026/07/20/MJH53EUYXBEAHC74GHAPC7OCVM/"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
+    "CHOSUN-BND"
+   ]
   },
   {
    "kind": "city",
@@ -2408,7 +3123,11 @@
    "attendanceText": "26,513",
    "estimate": false,
    "note": "유닛 단독 CxM DOUBLE UP LIVE PARTY",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "seventeen_cxm",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2420,7 +3139,11 @@
    "attendanceText": "25,747",
    "estimate": false,
    "note": "INTER-ZECTION",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "the_boyz",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2432,7 +3155,11 @@
    "attendanceText": "25,723",
    "estimate": false,
    "note": "The DECADE 부산 공연",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "day6",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2444,7 +3171,11 @@
    "attendanceText": "10,002",
    "estimate": false,
    "note": "P1ustage H MOST WANTED 앙코르",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "p1harmony",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2456,7 +3187,11 @@
    "attendanceText": "10,000",
    "estimate": false,
    "note": "Pureflow 개막. 두 회차 모두 발매 당일 매진, 위버스 동시 생중계",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "le_sserafim",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   },
   {
    "kind": "city",
@@ -2468,7 +3203,11 @@
    "attendanceText": "19,129",
    "estimate": false,
    "note": "X: NEXUS 개막",
-   "status": "claude"
+   "status": "claude",
+   "artist_id": "monsta_x",
+   "grade": "추정",
+   "source_url": [],
+   "collected_at": "2026-10-04"
   }
  ],
  "billboard2025": {
@@ -2478,64 +3217,80 @@
     "artist": "Stray Kids",
     "gross": 185700000.0,
     "attendance": 1300000.0,
-    "shows": 31
+    "shows": 31,
+    "artist_id": "stray_kids"
    },
    {
     "artist": "SEVENTEEN",
     "gross": 142400000.0,
     "attendance": 964000.0,
-    "shows": 34
+    "shows": 34,
+    "artist_id": "seventeen"
    },
    {
     "artist": "j-hope",
     "gross": 79900000.0,
     "attendance": 504000.0,
-    "shows": 33
+    "shows": 33,
+    "artist_id": "bts_jhope"
    },
    {
     "artist": "ENHYPEN",
     "gross": 76100000.0,
     "attendance": 556000.0,
-    "shows": 25
+    "shows": 25,
+    "artist_id": "enhypen"
    },
    {
     "artist": "ATEEZ",
     "gross": 70000000.0,
     "attendance": 400000.0,
-    "shows": 28
+    "shows": 28,
+    "artist_id": "ateez"
    },
    {
     "artist": "TOMORROW X TOGETHER",
     "gross": 64300000.0,
     "attendance": 485000.0,
-    "shows": 39
+    "shows": 39,
+    "artist_id": "txt"
    },
    {
     "artist": "Jin",
     "gross": 46100000.0,
     "attendance": 287000.0,
-    "shows": 18
+    "shows": 18,
+    "artist_id": "bts_jin"
    },
    {
     "artist": "LE SSERAFIM",
     "gross": 34100000.0,
     "attendance": 237000.0,
-    "shows": 27
+    "shows": 27,
+    "artist_id": "le_sserafim"
    },
    {
     "artist": "G-Dragon",
     "gross": 27100000.0,
     "attendance": 117000.0,
-    "shows": 9
+    "shows": 9,
+    "artist_id": "g_dragon"
    },
    {
     "artist": "aespa",
     "gross": 18000000.0,
     "attendance": 138000.0,
-    "shows": 15
+    "shows": 15,
+    "artist_id": "aespa"
    }
   ],
-  "sources": [
+  "status": "verified",
+  "grade": "확정",
+  "source_url": [
+   "https://www.billboard.com/wp-content/uploads/2025/12/YE-Touring-2025.pdf"
+  ],
+  "collected_at": "2026-10-05",
+  "source_ids": [
    "BB-YE2025"
   ]
  },
@@ -2545,9 +3300,7 @@
   "날짜 미정 행: 에버글로우, 원어스, &TEAM, 우즈, 유니스(전체), NCT 위시·피원하모니·라이즈(시작일), 베이비몬스터·아일릿 앙코르·보이넥스트도어·엑소·샤이니·더보이즈·코르티스·지드래곤(종료일)",
   "BTS ARIRANG: 08-11 기준 $433.2M/38회 + 8월 $171.7M/12회 합과 Wikipedia $637.5M/50회가 정확히 맞지 않음(집계 기간 중복 추정) — 공식 누적치 대기",
   "RUN IT 투어 전체 회차·관객, 르세라핌 Pureflow 관객(Claude 40만은 추정)",
-  "KATSEYE Wildworld 총 공연 수 미확인",
-  "aespa Parallel Line 최종 관객: 454,000(38/43회) vs 52만(Claude ‘공식’) 충돌",
-  "LE SSERAFIM Pureflow 최종 회차: 34회(트래커) vs 32회(Claude 8/30) vs 36회(Claude 위키 아티팩트) — 교세라돔 2회 추가 반영 여부 미확인"
+  "aespa Parallel Line 총관객: 1차 집계 없음(위키 454,000·52만 모두 비1차) → 미확인 유지"
  ],
  "estimateNote": "‘추정 관객’ 열은 Claude 트래커 아티팩트(8/29)의 모델값: ≈ = 공연장 단위·체급 혼합 모델, ~ = 회차까지 가정한 러프 추정(±50%). 공식 집계 아님 — 실집계는 ‘관객’ 열.",
  "btsMonthly": {
@@ -2561,7 +3314,15 @@
     "gross": 76200000,
     "rank": "월간 1위",
     "status": "partial",
-    "sources": [
+    "grade": "부분",
+    "source_url": [
+     "https://www.billboard.com/pro/bts-monthly-touring-report-comeback-shows/"
+    ],
+    "source_note": [
+     "사용자 claude.ai K-pop 자료 패키지 (대화 본문·아티팩트, 수집 2026-10-04) — Claude 추정 포함"
+    ],
+    "collected_at": "2026-10-04",
+    "source_ids": [
      "BB-BTS-APR",
      "CLAUDE-FC"
     ]
@@ -2572,8 +3333,17 @@
     "att": 641000,
     "gross": 127800000,
     "rank": "월간 1위",
-    "status": "claude",
-    "sources": [
+    "status": "verified",
+    "grade": "확정",
+    "source_url": [
+     "https://www.theticketingbusiness.com/2026/07/bts-spurs-hybe-to-post-record-concert-revenue/"
+    ],
+    "source_note": [
+     "사용자 claude.ai K-pop 자료 패키지 (대화 본문·아티팩트, 수집 2026-10-04) — Claude 추정 포함"
+    ],
+    "collected_at": "2026-10-05",
+    "source_ids": [
+     "TTB-HYBE-2Q26",
      "CLAUDE-FC"
     ]
    },
@@ -2584,7 +3354,13 @@
     "gross": 120500000,
     "rank": "월간 2위",
     "status": "claude",
-    "sources": [
+    "grade": "추정",
+    "source_url": [],
+    "source_note": [
+     "사용자 claude.ai K-pop 자료 패키지 (대화 본문·아티팩트, 수집 2026-10-04) — Claude 추정 포함"
+    ],
+    "collected_at": "2026-10-04",
+    "source_ids": [
      "CLAUDE-FC"
     ]
    },
@@ -2595,13 +3371,29 @@
     "gross": 171700000,
     "rank": "월간 박스스코어 역대 2위",
     "status": "verified",
-    "sources": [
+    "grade": "확정",
+    "source_url": [
+     "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+    ],
+    "collected_at": "2026-10-04",
+    "source_ids": [
      "BB-BTS-0930"
     ]
    }
   ],
   "note": "4·5·7월은 Claude 01 대화가 Billboard 월간 보고를 인용한 값(4월만 링크 확인). 8월은 Billboard 9/30 보고. 권역별 회당 평균(Claude 인용, Outlook Respawn): 미국 58,400명·$12.1M, 아시아 44,500명·$7.1M. 기록(스타뉴스 인용): 보컬 그룹 역대 최고 매출 투어, 아시아 아티스트 최고 매출(Born Pink 경신), 자체 최다 관객(LY:SY 2,019,800명) 경신.",
-  "sources": [
+  "grade": "부분",
+  "source_url": [
+   "https://www.billboard.com/pro/bts-monthly-touring-report-comeback-shows/",
+   "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/",
+   "https://respawn.outlookindia.com/pop-culture/pop-culture-news/bts-arirang-world-tour-124m-billboard-top-touring-act-2026-bts-top-touring-act-2026-arirang-tour-bts-highest-grossing-kpop-tour-2026",
+   "https://www.starnewskorea.com/en/music/2026/08/28/2026082816554176386"
+  ],
+  "source_note": [
+   "사용자 claude.ai K-pop 자료 패키지 (대화 본문·아티팩트, 수집 2026-10-04) — Claude 추정 포함"
+  ],
+  "collected_at": "2026-10-05",
+  "source_ids": [
    "BB-BTS-APR",
    "BB-BTS-0930",
    "RESPAWN-BTS",
@@ -2612,9 +3404,6 @@
  "westStatus": {
   "title": "걸그룹 미주·유럽 투어 현황 (Claude 9/18 기준)",
   "status": "claude",
-  "sources": [
-   "CLAUDE-FC"
-  ],
   "columns": [
    "그룹",
    "투어",
@@ -2687,6 +3476,15 @@
     "2026-01 종료"
    ]
   ],
-  "note": "Claude 대화가 ‘9월 중순 4팀 동시 서구권 아레나’ 구간으로 정리. 르세라핌 12/19–20 교세라돔 폐막은 공식 확인됨. KATSEYE는 마농 휴식·소피아 유럽 구간 불참 (Claude 대화 기준)."
+  "note": "Claude 대화가 ‘9월 중순 4팀 동시 서구권 아레나’ 구간으로 정리. 르세라핌 12/19–20 교세라돔 폐막은 공식 확인됨. KATSEYE는 마농 휴식·소피아 유럽 구간 불참 (Claude 대화 기준).",
+  "grade": "추정",
+  "source_url": [],
+  "source_note": [
+   "사용자 claude.ai K-pop 자료 패키지 (대화 본문·아티팩트, 수집 2026-10-04) — Claude 추정 포함"
+  ],
+  "collected_at": "2026-10-04",
+  "source_ids": [
+   "CLAUDE-FC"
+  ]
  }
 }

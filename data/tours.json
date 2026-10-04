@@ -12,7 +12,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "taylor_swift",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -27,7 +35,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "단일 투어 최다 관객",
-   "sources": [
+   "artist_id": "coldplay",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours",
+    "https://news.pollstar.com/2026/09/21/top-tours-the-weeknd-adds-378m-to-world-tours-4-year-gross-now-at-1-07b/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT",
     "POLLSTAR-WEEKND"
@@ -43,7 +59,14 @@
    "ongoing": true,
    "status": "verified",
    "note": "리스본(9/5–6)까지 집계. 아시아 17회 남음(11/5 쿠알라룸푸르 종료 예정)",
-   "sources": [
+   "artist_id": "the_weeknd",
+   "grade": "확정",
+   "source_url": [
+    "https://news.pollstar.com/2026/09/21/top-tours-the-weeknd-adds-378m-to-world-tours-4-year-gross-now-at-1-07b/",
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "POLLSTAR-WEEKND",
     "BB-BTS-0930"
    ]
@@ -58,7 +81,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "elton_john",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://www.billboard.com/pro/elton-john-farewell-tour-ends-939-million/",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "BB-ELTON",
     "WIKI-ATT"
@@ -74,7 +105,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "ed_sheeran",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -89,7 +128,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "ed_sheeran",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -104,7 +151,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "u2",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -119,7 +174,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "bruce_springsteen_and_e_street_band",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -134,7 +197,15 @@
    "ongoing": true,
    "status": "verified",
    "note": "2026년 7월 보고분까지 합산",
-   "sources": [
+   "artist_id": "metallica",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -149,7 +220,17 @@
    "ongoing": true,
    "status": "partial",
    "note": "Billboard 본문은 '5억 달러 돌파'(8월 보고분까지)만 명시. $637.5M·50회는 Wikipedia(해당 Billboard 기사 인용) 기준. 누적 관객 미확인(8월 12회 801,000명). 총 88회·34개 도시, 2027-03-16까지, 약 40회 남음. Claude 트래커(2026-08-11 기준 38회·230만·$433.2M)는 Billboard 9/30 보고로 대체됨. 8/11 누적+8월분 합과 $637.5M이 정확히 일치하지 않아 공식 최종치 대기 총 88회(불라칸 2027-03-16 종료). Claude 전망 $817M(범위 $770~970M)은 추정.",
-   "sources": [
+   "artist_id": "bts",
+   "grade": "부분",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/",
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://news.sbs.co.kr/english/article.do?news_id=N1008779430",
+    "https://en.edaily.co.kr/news/eda202610015795/",
+    "https://www.starnewskorea.com/en/music/2026/08/28/2026082816554176386"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930",
     "WIKI-GROSS",
     "SBS-BTS",
@@ -167,7 +248,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "harry_styles",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -182,7 +271,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "p_nk",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -197,7 +294,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객 집계표는 175회 기준",
-   "sources": [
+   "artist_id": "guns_n_roses",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -212,7 +317,14 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객은 Billboard 반올림 수치(2.8M)",
-   "sources": [
+   "artist_id": "beyonc",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://www.billboard.com/pro/beyonce-renaissance-world-tour-earnings-billboard-boxscore-ranking/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "BB-RENAISSANCE"
    ]
@@ -227,7 +339,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "rammstein",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -242,7 +362,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객 집계표는 147회 기준",
-   "sources": [
+   "artist_id": "the_rolling_stones",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -257,7 +385,14 @@
    "ongoing": false,
    "status": "verified",
    "note": "누적 관객 미확인",
-   "sources": [
+   "artist_id": "the_rolling_stones",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS"
    ]
   },
@@ -271,7 +406,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "coldplay",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -286,7 +429,14 @@
    "ongoing": null,
    "status": "verified",
    "note": "누적 관객·진행 여부 미확인 (Grok 대화는 진행 중으로 표기)",
-   "sources": [
+   "artist_id": "shakira",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS"
    ]
   },
@@ -300,7 +450,14 @@
    "ongoing": false,
    "status": "verified",
    "note": "누적 관객 미확인",
-   "sources": [
+   "artist_id": "zach_bryan",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS"
    ]
   },
@@ -314,7 +471,13 @@
    "ongoing": false,
    "status": "verified",
    "note": "Grok 대화 표에 없던 항목 (2026-07-22 종료). Grok의 '$1.08B는 커리어 합계' 언급과 별개",
-   "sources": [
+   "artist_id": "bad_bunny",
+   "grade": "확정",
+   "source_url": [
+    "https://www.billboard.com/lists/bad-bunny-record-breaking-world-tour/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BADBUNNY"
    ]
   },
@@ -328,7 +491,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객 집계표는 220회 기준",
-   "sources": [
+   "artist_id": "roger_waters",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -343,7 +514,14 @@
    "ongoing": false,
    "status": "partial",
    "note": "총매출은 Eric Alper 집계. 회차·관객은 관객 집계표(165회). Grok 대화는 107회로 표기",
-   "sources": [
+   "artist_id": "ac_dc",
+   "grade": "부분",
+   "source_url": [
+    "https://www.thatericalper.com/2026/07/01/the-20-highest-grossing-concert-tours-of-all-time-ranked-updated-for-july-2026/",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "ALPER-0701",
     "WIKI-ATT"
    ]
@@ -358,7 +536,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객 집계표는 159회 기준",
-   "sources": [
+   "artist_id": "metallica",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -373,7 +559,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "madonna",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -388,7 +582,14 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객은 Billboard 반올림 수치(1.6M)",
-   "sources": [
+   "artist_id": "beyonc",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://www.billboard.com/pro/beyonce-cowboy-carter-biggest-country-tour-history/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "BB-COWBOY"
    ]
@@ -403,7 +604,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "u2",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -418,7 +627,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "누적 관객 미확인 (2007년분만 1,858,456명 확인)",
-   "sources": [
+   "artist_id": "the_police",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -433,7 +650,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "",
-   "sources": [
+   "artist_id": "the_rolling_stones",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -448,7 +673,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객은 연도별 표(2014) 기준",
-   "sources": [
+   "artist_id": "one_direction",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -463,7 +696,15 @@
    "ongoing": false,
    "status": "verified",
    "note": "관객은 연도별 표(2013) 기준",
-   "sources": [
+   "artist_id": "bon_jovi",
+   "grade": "확정",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours",
+    "https://en.wikipedia.org/wiki/List_of_most-attended_concert_tours"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
    ]
@@ -478,10 +719,22 @@
    "ongoing": false,
    "status": "partial",
    "note": "Touring Data 보고 54회(본편) 기준. 인천 앙코르 2회 포함 시 총 56회(관객·매출 미보고). Claude 트래커 추정 215만·$260M을 대체",
-   "sources": [
+   "artist_id": "stray_kids",
+   "grade": "부분",
+   "source_url": [
+    "https://touringdata.org/2025/08/14/stray-kids-dominate-tour/",
+    "https://en.wikipedia.org/wiki/Dominate_World_Tour",
+    "https://www.billboard.com/pro/stray-kids-dominate-world-tour-k-pop-boxscore-records/",
+    "https://www.asiae.co.kr/en/article/2025102008520516243",
+    "https://www.koreajoongangdaily.com/entertainment/stray-kids-dominate-and-left-no-crumbs-at-its-world-tour-finale/12108673"
+   ],
+   "collected_at": "2026-10-05",
+   "source_ids": [
     "TD-SKZ",
     "WIKI-SKZ-DOM",
-    "CL-BB-SKZ"
+    "CL-BB-SKZ",
+    "ASIAE-SKZ",
+    "JAD-SKZ"
    ]
   },
   {
@@ -494,7 +747,16 @@
    "ongoing": false,
    "status": "partial",
    "note": "Touring Data 집계(헤럴드경제 인용). 걸그룹 역대 최고 투어 매출. 관객은 약 181만(반올림)",
-   "sources": [
+   "artist_id": "blackpink",
+   "grade": "부분",
+   "source_url": [
+    "https://biz.heraldcorp.com/article/10782198"
+   ],
+   "source_note": [
+    "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "HERALD-BP10",
     "CLAUDE-TRACKER"
    ]
@@ -504,49 +766,85 @@
   {
    "text": "BTS ARIRANG, 그룹 단일 투어 역대 7번째·팝 그룹 최초 5억 달러 돌파 (앞선 6팀은 모두 록 밴드)",
    "status": "verified",
-   "sources": [
+   "grade": "확정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930"
    ]
   },
   {
    "text": "BTS 2026년 8월: 12회 / 801,000장 / $171.7M → 월간 Boxscore 역대 2위 (1위 Beyoncé 2023년 8월 $179.3M), Top Tours 통산 5번째 1위",
    "status": "verified",
-   "sources": [
+   "grade": "확정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930"
    ]
   },
   {
    "text": "BTS 메트라이프 스타디움(8/1–2) 2회 $32.7M·158,000장",
    "status": "verified",
-   "sources": [
+   "grade": "확정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930"
    ]
   },
   {
    "text": "The Weeknd 2026년 8월 995,000장 — 월간 최다 관객 기록 (기존 Harry Styles 2023년 6월 967,000장)",
    "status": "verified",
-   "sources": [
+   "grade": "확정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930"
    ]
   },
   {
    "text": "10억 달러 단일 투어 클럽: Taylor Swift · Coldplay · The Weeknd 3팀",
    "status": "verified",
-   "sources": [
+   "grade": "확정",
+   "source_url": [
+    "https://news.pollstar.com/2026/09/21/top-tours-the-weeknd-adds-378m-to-world-tours-4-year-gross-now-at-1-07b/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "POLLSTAR-WEEKND"
    ]
   },
   {
    "text": "Top Tours 월간 1위 횟수: Bad Bunny 10 > Beyoncé·Coldplay·Elton John 7 > BTS 5",
    "status": "verified",
-   "sources": [
+   "grade": "확정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930"
    ]
   },
   {
    "text": "BTS 최종 매출 10억 달러 근접 전망 (Billboard 전망치, 확정 아님)",
    "status": "forecast",
-   "sources": [
+   "grade": "추정",
+   "source_url": [
+    "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/",
+    "https://news.sbs.co.kr/english/article.do?news_id=N1008779430"
+   ],
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "BB-BTS-0930",
     "SBS-BTS"
    ]
@@ -554,7 +852,16 @@
   {
    "text": "5억 달러 그룹 6팀 = U2, Rolling Stones, Guns N' Roses, Coldplay, Metallica, Rammstein (Wikipedia 표 기반 추정; Billboard 공식 명단은 미공개 → 미확인)",
    "status": "unverified",
-   "sources": [
+   "grade": "미확",
+   "source_url": [
+    "https://en.wikipedia.org/wiki/List_of_highest-grossing_concert_tours"
+   ],
+   "source_note": [
+    "Grok 대화 기준 (사용자 과거 대화, 외부 검증 전)"
+   ],
+   "primary_source": false,
+   "collected_at": "2026-10-04",
+   "source_ids": [
     "WIKI-GROSS",
     "GROK"
    ]

@@ -36,7 +36,7 @@
       var rows = get(json, d.path);
       if (!Array.isArray(rows)) throw new Error('data-path "' + d.path + '" 가 배열이 아님');
       (d.filter || '').split(';').filter(Boolean).forEach(function (f) { var p = f.split('='); rows = rows.filter(function (r) { return String(r[p[0]]) === p[1]; }); });
-      var stF = d.status || 'status', estF = d.estimate || 'estimate', srcF = d.sources || 'sources';
+      var stF = d.status || 'status', estF = d.estimate || 'estimate', srcF = d.sources || 'source_ids';
       var hl = d.highlight ? d.highlight.split('|') : null;
       var items;
       if (d.chart === 'count') {
@@ -44,7 +44,8 @@
         items = Object.keys(m).sort().map(function (k) { return { label: (d.labelPrefix || '') + k + (d.labelSuffix || ''), value: m[k], st: d.statusDefault, est: false, row: {} }; });
       } else {
         items = rows.map(function (r) {
-          var st = r[stF] || d.statusDefault || null;
+          var GM = { '확정': 'verified', '부분': 'partial', '개략': 'partial', '충돌': 'conflict', '미확': 'unverified', '추정': 'estimate' };
+          var st = (r.grade && GM[r.grade]) || r[stF] || d.statusDefault || null;
           return { label: r[d.label] + (d.label2 && r[d.label2] ? ' · ' + r[d.label2] : ''), value: r[d.value] == null ? null : +r[d.value], text: d.text ? r[d.text] : null,
             st: st, est: !!r[estF] || st === 'estimate' || st === 'forecast', grp: d.group ? r[d.group] : null,
             hl: hl ? hl.indexOf(String(r[d.highlightField || d.label])) >= 0 : false, note: d.note ? r[d.note] : null, srcs: r[srcF] || [], row: r };
