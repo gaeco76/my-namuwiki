@@ -1,0 +1,798 @@
+{
+ "asOf": "2026-10-04",
+ "youtube": {
+  "title": "K-pop 그룹 공식 유튜브 채널 구독자 순위",
+  "snapshot": "2026-10-04 KST (Chukkae, YouTube 공개 수치 = 유효숫자 3자리 반올림)",
+  "rows": [
+   {
+    "rank": 1,
+    "group": "Blackpink",
+    "ko": "블랙핑크",
+    "type": "girl",
+    "gen": 3,
+    "company": "YG Entertainment",
+    "subs": 101000000,
+    "weekly": 0
+   },
+   {
+    "rank": 2,
+    "group": "BTS",
+    "ko": "방탄소년단",
+    "type": "boy",
+    "gen": 3,
+    "company": "Big Hit Music",
+    "subs": 86100000,
+    "weekly": 100000
+   },
+   {
+    "rank": 3,
+    "group": "Stray Kids",
+    "ko": "스트레이 키즈",
+    "type": "boy",
+    "gen": 4,
+    "company": "JYP Entertainment",
+    "subs": 25300000,
+    "weekly": 0
+   },
+   {
+    "rank": 4,
+    "group": "Twice",
+    "ko": "트와이스",
+    "type": "girl",
+    "gen": 3,
+    "company": "JYP Entertainment",
+    "subs": 19500000,
+    "weekly": 0
+   },
+   {
+    "rank": 5,
+    "group": "SEVENTEEN",
+    "ko": "세븐틴",
+    "type": "boy",
+    "gen": 3,
+    "company": "Pledis Entertainment",
+    "subs": 18000000,
+    "weekly": 100000
+   },
+   {
+    "rank": 6,
+    "group": "BIGBANG",
+    "ko": "빅뱅",
+    "type": "boy",
+    "gen": 2,
+    "company": null,
+    "subs": 17000000,
+    "weekly": 0
+   },
+   {
+    "rank": 7,
+    "group": "ENHYPEN",
+    "ko": "엔하이픈",
+    "type": "boy",
+    "gen": 4,
+    "company": "Belift Lab",
+    "subs": 14600000,
+    "weekly": 100000
+   },
+   {
+    "rank": 8,
+    "group": "Tomorrow X Together",
+    "ko": "투모로우바이투게더",
+    "type": "boy",
+    "gen": 4,
+    "company": "Big Hit Music",
+    "subs": 13900000,
+    "weekly": 0
+   },
+   {
+    "rank": 9,
+    "group": "Babymonster",
+    "ko": "베이비몬스터",
+    "type": "girl",
+    "gen": 5,
+    "company": "YG Entertainment",
+    "subs": 13300000,
+    "weekly": 100000
+   },
+   {
+    "rank": 10,
+    "group": "Itzy",
+    "ko": "있지",
+    "type": "girl",
+    "gen": 4,
+    "company": "JYP Entertainment",
+    "subs": 10000000,
+    "weekly": 0
+   },
+   {
+    "rank": 11,
+    "group": "EXO",
+    "ko": "엑소",
+    "type": "boy",
+    "gen": 3,
+    "company": "SM Entertainment",
+    "subs": 9920000,
+    "weekly": 0
+   },
+   {
+    "rank": 12,
+    "group": "I-dle",
+    "ko": "아이들",
+    "type": "girl",
+    "gen": 4,
+    "company": "Cube Entertainment",
+    "subs": 9870000,
+    "weekly": 10000
+   },
+   {
+    "rank": 13,
+    "group": "aespa",
+    "ko": "에스파",
+    "type": "girl",
+    "gen": 4,
+    "company": "SM Entertainment",
+    "subs": 8960000,
+    "weekly": 10000
+   },
+   {
+    "rank": 14,
+    "group": "Le Sserafim",
+    "ko": "르세라핌",
+    "type": "girl",
+    "gen": 4,
+    "company": "Source Music",
+    "subs": 8820000,
+    "weekly": 40000
+   },
+   {
+    "rank": 15,
+    "group": "NewJeans",
+    "ko": "뉴진스",
+    "type": "girl",
+    "gen": 4,
+    "company": "ADOR",
+    "subs": 8680000,
+    "weekly": 10000
+   },
+   {
+    "rank": 16,
+    "group": "TREASURE",
+    "ko": "트레저",
+    "type": "boy",
+    "gen": 4,
+    "company": "YG Entertainment",
+    "subs": 8060000,
+    "weekly": 0
+   },
+   {
+    "rank": 17,
+    "group": "CORTIS",
+    "ko": "코르티스",
+    "type": "boy",
+    "gen": 5,
+    "company": "Big Hit Music",
+    "subs": 7210000,
+    "weekly": 100000
+   },
+   {
+    "rank": 18,
+    "group": "NCT DREAM",
+    "ko": "엔시티 드림",
+    "type": "boy",
+    "gen": 3,
+    "company": "SM Entertainment",
+    "subs": 7090000,
+    "weekly": 0
+   },
+   {
+    "rank": 19,
+    "group": "Illit",
+    "ko": "아일릿",
+    "type": "girl",
+    "gen": 5,
+    "company": "Belift Lab",
+    "subs": 6960000,
+    "weekly": 110000
+   },
+   {
+    "rank": 20,
+    "group": "MAMAMOO",
+    "ko": "마마무",
+    "type": "girl",
+    "gen": 3,
+    "company": "RBW",
+    "subs": 6830000,
+    "weekly": 0
+   },
+   {
+    "rank": 21,
+    "group": "2NE1",
+    "ko": "투애니원",
+    "type": "girl",
+    "gen": 2,
+    "company": "YG Entertainment",
+    "subs": 6070000,
+    "weekly": 0
+   },
+   {
+    "rank": 22,
+    "group": "NCT 127",
+    "ko": "엔시티 127",
+    "type": "boy",
+    "gen": 3,
+    "company": "SM Entertainment",
+    "subs": 5660000,
+    "weekly": 0
+   },
+   {
+    "rank": 23,
+    "group": "ATEEZ",
+    "ko": "에이티즈",
+    "type": "boy",
+    "gen": 4,
+    "company": "KQ Entertainment",
+    "subs": 5650000,
+    "weekly": 30000
+   },
+   {
+    "rank": 24,
+    "group": "Red Velvet",
+    "ko": "레드벨벳",
+    "type": "girl",
+    "gen": 3,
+    "company": "SM Entertainment",
+    "subs": 5610000,
+    "weekly": 0
+   },
+   {
+    "rank": 25,
+    "group": "Ive",
+    "ko": "아이브",
+    "type": "girl",
+    "gen": 4,
+    "company": "Starship Entertainment",
+    "subs": 5270000,
+    "weekly": 10000
+   },
+   {
+    "rank": 26,
+    "group": "Nmixx",
+    "ko": "엔믹스",
+    "type": "girl",
+    "gen": 4,
+    "company": "JYP Entertainment",
+    "subs": 4780000,
+    "weekly": 10000
+   },
+   {
+    "rank": 27,
+    "group": "Hearts2Hearts",
+    "ko": "하츠투하츠",
+    "type": "girl",
+    "gen": 5,
+    "company": "SM Entertainment",
+    "subs": 4130000,
+    "weekly": 60000
+   },
+   {
+    "rank": 28,
+    "group": "Girls' Generation",
+    "ko": "소녀시대",
+    "type": "girl",
+    "gen": 2,
+    "company": "SM Entertainment",
+    "subs": 3060000,
+    "weekly": 10000
+   },
+   {
+    "rank": 29,
+    "group": "tripleS",
+    "ko": "트리플에스",
+    "type": "girl",
+    "gen": 5,
+    "company": "MODHAUS",
+    "subs": 2960000,
+    "weekly": 0
+   },
+   {
+    "rank": 30,
+    "group": "SHINee",
+    "ko": "샤이니",
+    "type": "boy",
+    "gen": 2,
+    "company": "SM Entertainment",
+    "subs": 2640000,
+    "weekly": 0
+   },
+   {
+    "rank": 31,
+    "group": "MONSTA X",
+    "ko": "몬스타엑스",
+    "type": "boy",
+    "gen": 3,
+    "company": "Starship Entertainment",
+    "subs": 2620000,
+    "weekly": 0
+   },
+   {
+    "rank": 32,
+    "group": "Kep1er",
+    "ko": "케플러",
+    "type": "girl",
+    "gen": 4,
+    "company": "WAKEONE",
+    "subs": 2530000,
+    "weekly": 0
+   },
+   {
+    "rank": 33,
+    "group": "BOYNEXTDOOR",
+    "ko": "보이넥스트도어",
+    "type": "boy",
+    "gen": 5,
+    "company": "KOZ Entertainment",
+    "subs": 2510000,
+    "weekly": 10000
+   },
+   {
+    "rank": 34,
+    "group": "TWS",
+    "ko": "투어스",
+    "type": "boy",
+    "gen": 5,
+    "company": "Pledis Entertainment",
+    "subs": 2280000,
+    "weekly": 20000
+   },
+   {
+    "rank": 35,
+    "group": "RIIZE",
+    "ko": "라이즈",
+    "type": "boy",
+    "gen": 5,
+    "company": "SM Entertainment",
+    "subs": 2170000,
+    "weekly": 10000
+   },
+   {
+    "rank": 36,
+    "group": "Kiss of Life",
+    "ko": "키스오브라이프",
+    "type": "girl",
+    "gen": 5,
+    "company": "S2 Entertainment",
+    "subs": 2150000,
+    "weekly": 0
+   },
+   {
+    "rank": 37,
+    "group": "ZEROBASEONE",
+    "ko": "제로베이스원",
+    "type": "boy",
+    "gen": 5,
+    "company": "WAKEONE",
+    "subs": 2120000,
+    "weekly": 0
+   },
+   {
+    "rank": 38,
+    "group": "izna",
+    "ko": "이즈나",
+    "type": "girl",
+    "gen": 5,
+    "company": "WAKEONE",
+    "subs": 2050000,
+    "weekly": 0
+   },
+   {
+    "rank": 39,
+    "group": "LNGSHOT",
+    "ko": "롱샷",
+    "type": "boy",
+    "gen": 5,
+    "company": "MORE VISION",
+    "subs": 2030000,
+    "weekly": 10000
+   },
+   {
+    "rank": 40,
+    "group": "STAYC",
+    "ko": "스테이씨",
+    "type": "girl",
+    "gen": 4,
+    "company": "High Up Entertainment",
+    "subs": 1860000,
+    "weekly": 0
+   },
+   {
+    "rank": 41,
+    "group": "Dreamcatcher",
+    "ko": "드림캐쳐",
+    "type": "girl",
+    "gen": 3,
+    "company": "Dreamcatcher Company",
+    "subs": 1780000,
+    "weekly": 0
+   },
+   {
+    "rank": 42,
+    "group": "P1Harmony",
+    "ko": "피원하모니",
+    "type": "boy",
+    "gen": 4,
+    "company": "FNC Entertainment",
+    "subs": 1770000,
+    "weekly": 0
+   },
+   {
+    "rank": 43,
+    "group": "&TEAM",
+    "ko": "앤팀",
+    "type": "boy",
+    "gen": 4,
+    "company": "YX LABELS",
+    "subs": 1690000,
+    "weekly": 20000
+   },
+   {
+    "rank": 44,
+    "group": "MEOVV",
+    "ko": "미야오",
+    "type": "girl",
+    "gen": 5,
+    "company": "The Black Label",
+    "subs": 1630000,
+    "weekly": 10000
+   },
+   {
+    "rank": 45,
+    "group": "ONEUS",
+    "ko": "원어스",
+    "type": "boy",
+    "gen": 4,
+    "company": "B.Wave Entertainment",
+    "subs": 1590000,
+    "weekly": 0
+   },
+   {
+    "rank": 46,
+    "group": "NCT WISH",
+    "ko": "엔시티 위시",
+    "type": "boy",
+    "gen": 5,
+    "company": "SM Entertainment",
+    "subs": 1560000,
+    "weekly": 10000
+   },
+   {
+    "rank": 47,
+    "group": "RESCENE",
+    "ko": "리센느",
+    "type": "girl",
+    "gen": 5,
+    "company": "The Muze Entertainment",
+    "subs": 1250000,
+    "weekly": 30000
+   },
+   {
+    "rank": 48,
+    "group": "XLOV",
+    "ko": "엑스러브",
+    "type": "boy",
+    "gen": 5,
+    "company": "StrangeLab",
+    "subs": 1230000,
+    "weekly": 0
+   },
+   {
+    "rank": 49,
+    "group": "ALLDAY PROJECT",
+    "ko": "올데이 프로젝트",
+    "type": "coed",
+    "gen": 5,
+    "company": "The Black Label",
+    "subs": 1180000,
+    "weekly": 20000
+   },
+   {
+    "rank": 50,
+    "group": "Wonder Girls",
+    "ko": "원더걸스",
+    "type": "girl",
+    "gen": 2,
+    "company": "JYP Entertainment",
+    "subs": 1120000,
+    "weekly": 0
+   },
+   {
+    "rank": 51,
+    "group": "Oh My Girl",
+    "ko": "오마이걸",
+    "type": "girl",
+    "gen": 3,
+    "company": "DSP Media",
+    "subs": 1050000,
+    "weekly": 0
+   },
+   {
+    "rank": 52,
+    "group": "Tuide",
+    "ko": "튜이드",
+    "type": "girl",
+    "gen": 5,
+    "company": "ABD",
+    "subs": 980000,
+    "weekly": 104000
+   },
+   {
+    "rank": 53,
+    "group": "UNCHILD",
+    "ko": "언차일드",
+    "type": "girl",
+    "gen": 5,
+    "company": "High Up Entertainment",
+    "subs": 950000,
+    "weekly": null
+   },
+   {
+    "rank": 54,
+    "group": "idntt",
+    "ko": "아이덴티티",
+    "type": "boy",
+    "gen": 5,
+    "company": "MODHAUS",
+    "subs": 865000,
+    "weekly": 1000
+   },
+   {
+    "rank": 55,
+    "group": "ALPHA DRIVE ONE",
+    "ko": "알파드라이브원",
+    "type": "boy",
+    "gen": 5,
+    "company": "WAKEONE",
+    "subs": 795000,
+    "weekly": 7000
+   },
+   {
+    "rank": 56,
+    "group": "CLOSE YOUR EYES",
+    "ko": "클로즈 유어 아이즈",
+    "type": "boy",
+    "gen": 5,
+    "company": "UNCORE",
+    "subs": 731000,
+    "weekly": 3000
+   },
+   {
+    "rank": 57,
+    "group": "KiiiKiii",
+    "ko": "키키",
+    "type": "girl",
+    "gen": 5,
+    "company": "Starship Entertainment",
+    "subs": 715000,
+    "weekly": 15000
+   },
+   {
+    "rank": 58,
+    "group": "KickFlip",
+    "ko": "킥플립",
+    "type": "boy",
+    "gen": 5,
+    "company": "JYP Entertainment",
+    "subs": 711000,
+    "weekly": 6000
+   },
+   {
+    "rank": 59,
+    "group": "KARA",
+    "ko": "카라",
+    "type": "girl",
+    "gen": 2,
+    "company": null,
+    "subs": 704000,
+    "weekly": 1000
+   },
+   {
+    "rank": 60,
+    "group": "PURPLE KISS",
+    "ko": "퍼플키스",
+    "type": "girl",
+    "gen": 4,
+    "company": "RBW",
+    "subs": 697000,
+    "weekly": 0
+   },
+   {
+    "rank": 61,
+    "group": "AHOF",
+    "ko": "아홉",
+    "type": "boy",
+    "gen": 5,
+    "company": "F&F Entertainment",
+    "subs": 639000,
+    "weekly": 1000
+   },
+   {
+    "rank": 62,
+    "group": "Baby DONT Cry",
+    "ko": "베이비돈크라이",
+    "type": "girl",
+    "gen": 5,
+    "company": "P NATION",
+    "subs": 636000,
+    "weekly": 0
+   },
+   {
+    "rank": 63,
+    "group": "82MAJOR",
+    "ko": "에이티투메이저",
+    "type": "boy",
+    "gen": 5,
+    "company": "Great M Entertainment",
+    "subs": 576000,
+    "weekly": 2000
+   },
+   {
+    "rank": 64,
+    "group": "fromis_9",
+    "ko": "프로미스나인",
+    "type": "girl",
+    "gen": 4,
+    "company": "ASND Entertainment",
+    "subs": 367000,
+    "weekly": 2000
+   },
+   {
+    "rank": 65,
+    "group": "THE BOYZ",
+    "ko": "더보이즈",
+    "type": "boy",
+    "gen": 3,
+    "company": null,
+    "subs": 213000,
+    "weekly": 1000
+   },
+   {
+    "rank": 66,
+    "group": "Ourbirthday",
+    "ko": "아워벌스데이",
+    "type": "girl",
+    "gen": 5,
+    "company": "Innit Entertainment",
+    "subs": 162000,
+    "weekly": 3000
+   }
+  ],
+  "status": "verified",
+  "sources": [
+   "CHUKKAE-YT-1004"
+  ],
+  "notes": [
+   "그룹 공식 채널만 집계 (HYBE LABELS·SMTOWN 등 레이블 채널 제외)",
+   "세대 구분은 Chukkae 분류 기준 (예: Chukkae는 SEVENTEEN·NCT DREAM을 3세대, RIIZE·TWS를 5세대로 분류)",
+   "이전 값: BLACKPINK 약 1억 100만 (Grok 대화, 2026-08) → 변동 없음. 2026-02 아티스트 최초 1억 돌파 (연합뉴스)",
+   "Claude 대화 ‘걸그룹 유튜브 구독자 순위 정렬 웹페이지’(8/29)·‘데뷔 시기별 구독자’(9/9)에는 실제 구독자 수치가 추출본에 포함되지 않아, 위 표는 2026-10-04 스냅샷으로 새로 채움"
+  ]
+ },
+ "multiGroup": {
+  "title": "복수 그룹 활동 멤버 연결 (Claude 대화 기준, 266행/260명 데이터셋)",
+  "status": "claude",
+  "rows": [
+   {
+    "person": "사쿠라",
+    "groups": "IZ*ONE ↔ LE SSERAFIM"
+   },
+   {
+    "person": "김채원",
+    "groups": "IZ*ONE ↔ LE SSERAFIM"
+   },
+   {
+    "person": "장원영",
+    "groups": "IZ*ONE ↔ IVE"
+   },
+   {
+    "person": "안유진",
+    "groups": "IZ*ONE ↔ IVE"
+   },
+   {
+    "person": "마크",
+    "groups": "NCT 127 ↔ NCT DREAM"
+   },
+   {
+    "person": "해찬",
+    "groups": "NCT 127 ↔ NCT DREAM"
+   }
+  ],
+  "note": "동명이인은 자동 병합하지 않음 (예: IZ*ONE 민주 ≠ ILLIT 민주)",
+  "sources": [
+   "CLAUDE-CHATS-1"
+  ]
+ },
+ "instagram": {
+  "title": "BLACKPINK 멤버 인스타그램 팔로워",
+  "rows": [
+   {
+    "member": "리사 (LISA)",
+    "handle": "@lalalalisa_m",
+    "followers": 105966648,
+    "text": "105,966,648",
+    "asOf": "2026-10-03 09:19 KST",
+    "status": "verified",
+    "sources": [
+     "LIVECOUNTS-LJ",
+     "CFB-LISA"
+    ]
+   },
+   {
+    "member": "제니 (JENNIE)",
+    "handle": "@jennierubyjane",
+    "followers": 89428341,
+    "text": "89,428,341",
+    "asOf": "2026-10-03 09:19 KST",
+    "status": "verified",
+    "sources": [
+     "LIVECOUNTS-LJ",
+     "CFB-JENNIE"
+    ]
+   },
+   {
+    "member": "로제 (ROSÉ)",
+    "handle": "@roses_are_rosie",
+    "followers": 84400000,
+    "text": "약 8,440만",
+    "asOf": "2026 (정확한 일자 미확인)",
+    "status": "partial",
+    "sources": [
+     "KPOPBEEN-IG"
+    ]
+   },
+   {
+    "member": "지수 (JISOO)",
+    "handle": "@sooyaaa__",
+    "followers": 80300000,
+    "text": "약 8,030만",
+    "asOf": "2026 (정확한 일자 미확인)",
+    "status": "partial",
+    "sources": [
+     "KPOPBEEN-IG"
+    ]
+   }
+  ],
+  "notes": [
+   "리사: 아시아 여성 최초 인스타그램 1억 팔로워 (kpopbeen)",
+   "4인 합계 약 3.6억 (kpopbeen 집계)",
+   "Claude 대화 ‘블랙핑크 멤버별 SNS 구독자수 비교’(9/18) 추출본에는 팔로워 수치가 없고 앰버서더 DB 내용만 있음 → 아티스트 탭 ‘브랜드·앰버서더’로 이동"
+  ],
+  "others": [
+   {
+    "member": "V (BTS)",
+    "text": "약 7,000만"
+   },
+   {
+    "member": "지민 (BTS)",
+    "text": "약 5,500만"
+   },
+   {
+    "member": "제이홉 (BTS)",
+    "text": "약 5,300만"
+   },
+   {
+    "member": "진 (BTS)",
+    "text": "약 5,200만"
+   },
+   {
+    "member": "슈가 (BTS)",
+    "text": "약 5,130만"
+   },
+   {
+    "member": "차은우 (ASTRO)",
+    "text": "약 4,800만"
+   }
+  ],
+  "othersSources": [
+   "KPOPBEEN-IG"
+  ]
+ }
+}

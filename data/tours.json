@@ -1,0 +1,563 @@
+{
+ "asOf": "2026-10-04",
+ "definition": "Boxscore = 프로모터가 보고한 티켓 매출(굿즈 제외), 동일 투어 누적, 명목 달러(USD). Billboard·Pollstar·위키 수치는 집계 시점/방식에 따라 다를 수 있음.",
+ "tours": [
+  {
+   "artist": "Taylor Swift",
+   "tour": "The Eras Tour",
+   "gross": 2077618725,
+   "period": "2023–2024",
+   "shows": 149,
+   "attendance": 10168008,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Coldplay",
+   "tour": "Music of the Spheres World Tour",
+   "gross": 1524423018,
+   "period": "2022–2025",
+   "shows": 223,
+   "attendance": 13138644,
+   "ongoing": false,
+   "status": "verified",
+   "note": "단일 투어 최다 관객",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT",
+    "POLLSTAR-WEEKND"
+   ]
+  },
+  {
+   "artist": "The Weeknd",
+   "tour": "After Hours til Dawn Tour",
+   "gross": 1070000000,
+   "period": "2022–2026",
+   "shows": 158,
+   "attendance": 8157456,
+   "ongoing": true,
+   "status": "verified",
+   "note": "리스본(9/5–6)까지 집계. 아시아 17회 남음(11/5 쿠알라룸푸르 종료 예정)",
+   "sources": [
+    "POLLSTAR-WEEKND",
+    "BB-BTS-0930"
+   ]
+  },
+  {
+   "artist": "Elton John",
+   "tour": "Farewell Yellow Brick Road",
+   "gross": 939100000,
+   "period": "2018–2023",
+   "shows": 330,
+   "attendance": 5994810,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "BB-ELTON",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Ed Sheeran",
+   "tour": "+−=÷× Tour",
+   "gross": 875700000,
+   "period": "2022–2025",
+   "shows": 169,
+   "attendance": 8800000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Ed Sheeran",
+   "tour": "÷ Tour",
+   "gross": 776200000,
+   "period": "2017–2019",
+   "shows": 255,
+   "attendance": 8908150,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "U2",
+   "tour": "360° Tour",
+   "gross": 736421586,
+   "period": "2009–2011",
+   "shows": 110,
+   "attendance": 7272046,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Bruce Springsteen & E Street Band",
+   "tour": "2023–2025 Tour",
+   "gross": 729700000,
+   "period": "2023–2025",
+   "shows": 129,
+   "attendance": 4900000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Metallica",
+   "tour": "M72 World Tour",
+   "gross": 668400000,
+   "period": "2023–2027",
+   "shows": 86,
+   "attendance": 5321900,
+   "ongoing": true,
+   "status": "verified",
+   "note": "2026년 7월 보고분까지 합산",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "BTS",
+   "tour": "ARIRANG World Tour",
+   "gross": 637514422,
+   "period": "2026–2027",
+   "shows": 50,
+   "attendance": null,
+   "ongoing": true,
+   "status": "partial",
+   "note": "Billboard 본문은 '5억 달러 돌파'(8월 보고분까지)만 명시. $637.5M·50회는 Wikipedia(해당 Billboard 기사 인용) 기준. 누적 관객 미확인(8월 12회 801,000명). 총 88회·34개 도시, 2027-03-16까지, 약 40회 남음. Claude 트래커(2026-08-11 기준 38회·230만·$433.2M)는 Billboard 9/30 보고로 대체됨. 8/11 누적+8월분 합과 $637.5M이 정확히 일치하지 않아 공식 최종치 대기 총 88회(불라칸 2027-03-16 종료). Claude 전망 $817M(범위 $770~970M)은 추정.",
+   "sources": [
+    "BB-BTS-0930",
+    "WIKI-GROSS",
+    "SBS-BTS",
+    "EDAILY-BTS",
+    "CL-STARNEWS-BTS"
+   ]
+  },
+  {
+   "artist": "Harry Styles",
+   "tour": "Love On Tour",
+   "gross": 617325000,
+   "period": "2021–2023",
+   "shows": 169,
+   "attendance": 5000000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "P!nk",
+   "tour": "Summer Carnival",
+   "gross": 584700000,
+   "period": "2023–2024",
+   "shows": 97,
+   "attendance": 4800000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Guns N' Roses",
+   "tour": "Not in This Lifetime… Tour",
+   "gross": 584200000,
+   "period": "2016–2019",
+   "shows": 158,
+   "attendance": 5371891,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객 집계표는 175회 기준",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Beyoncé",
+   "tour": "Renaissance World Tour",
+   "gross": 579879268,
+   "period": "2023",
+   "shows": 56,
+   "attendance": 2800000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객은 Billboard 반올림 수치(2.8M)",
+   "sources": [
+    "WIKI-GROSS",
+    "BB-RENAISSANCE"
+   ]
+  },
+  {
+   "artist": "Rammstein",
+   "tour": "Stadium Tour",
+   "gross": 563000000,
+   "period": "2019–2024",
+   "shows": 141,
+   "attendance": 5025129,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "The Rolling Stones",
+   "tour": "A Bigger Bang Tour",
+   "gross": 558255524,
+   "period": "2005–2007",
+   "shows": 144,
+   "attendance": 4700000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객 집계표는 147회 기준",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "The Rolling Stones",
+   "tour": "No Filter Tour",
+   "gross": 546500000,
+   "period": "2017–2021",
+   "shows": 58,
+   "attendance": null,
+   "ongoing": false,
+   "status": "verified",
+   "note": "누적 관객 미확인",
+   "sources": [
+    "WIKI-GROSS"
+   ]
+  },
+  {
+   "artist": "Coldplay",
+   "tour": "A Head Full of Dreams Tour",
+   "gross": 523033675,
+   "period": "2016–2017",
+   "shows": 114,
+   "attendance": 5389586,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Shakira",
+   "tour": "Las Mujeres Ya No Lloran World Tour",
+   "gross": 479200000,
+   "period": "2025–2026",
+   "shows": 108,
+   "attendance": null,
+   "ongoing": null,
+   "status": "verified",
+   "note": "누적 관객·진행 여부 미확인 (Grok 대화는 진행 중으로 표기)",
+   "sources": [
+    "WIKI-GROSS"
+   ]
+  },
+  {
+   "artist": "Zach Bryan",
+   "tour": "The Quittin' Time Tour",
+   "gross": 477700000,
+   "period": "2024–2025",
+   "shows": 92,
+   "attendance": null,
+   "ongoing": false,
+   "status": "verified",
+   "note": "누적 관객 미확인",
+   "sources": [
+    "WIKI-GROSS"
+   ]
+  },
+  {
+   "artist": "Bad Bunny",
+   "tour": "Debí Tirar Más Fotos World Tour",
+   "gross": 467500000,
+   "period": "2025–2026",
+   "shows": 55,
+   "attendance": 3100000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "Grok 대화 표에 없던 항목 (2026-07-22 종료). Grok의 '$1.08B는 커리어 합계' 언급과 별개",
+   "sources": [
+    "BB-BADBUNNY"
+   ]
+  },
+  {
+   "artist": "Roger Waters",
+   "tour": "The Wall Live",
+   "gross": 459000000,
+   "period": "2010–2013",
+   "shows": 219,
+   "attendance": 4129863,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객 집계표는 220회 기준",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "AC/DC",
+   "tour": "Black Ice World Tour",
+   "gross": 441900000,
+   "period": "2008–2010",
+   "shows": 165,
+   "attendance": 4900000,
+   "ongoing": false,
+   "status": "partial",
+   "note": "총매출은 Eric Alper 집계. 회차·관객은 관객 집계표(165회). Grok 대화는 107회로 표기",
+   "sources": [
+    "ALPER-0701",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Metallica",
+   "tour": "WorldWired Tour",
+   "gross": 430000000,
+   "period": "2016–2019",
+   "shows": 143,
+   "attendance": 4198613,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객 집계표는 159회 기준",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Madonna",
+   "tour": "Sticky & Sweet Tour",
+   "gross": 411000000,
+   "period": "2008–2009",
+   "shows": 85,
+   "attendance": 3545899,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Beyoncé",
+   "tour": "Cowboy Carter Tour",
+   "gross": 407600113,
+   "period": "2025",
+   "shows": 32,
+   "attendance": 1600000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객은 Billboard 반올림 수치(1.6M)",
+   "sources": [
+    "WIKI-GROSS",
+    "BB-COWBOY"
+   ]
+  },
+  {
+   "artist": "U2",
+   "tour": "Vertigo Tour",
+   "gross": 389000000,
+   "period": "2005–2006",
+   "shows": 131,
+   "attendance": 4619021,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "The Police",
+   "tour": "Reunion Tour",
+   "gross": 358825665,
+   "period": "2007–2008",
+   "shows": 146,
+   "attendance": null,
+   "ongoing": false,
+   "status": "verified",
+   "note": "누적 관객 미확인 (2007년분만 1,858,456명 확인)",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "The Rolling Stones",
+   "tour": "Licks Tour",
+   "gross": 311000000,
+   "period": "2002–2003",
+   "shows": 117,
+   "attendance": 3500000,
+   "ongoing": false,
+   "status": "verified",
+   "note": "",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "One Direction",
+   "tour": "Where We Are Tour",
+   "gross": 290000000,
+   "period": "2014",
+   "shows": 69,
+   "attendance": 3439563,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객은 연도별 표(2014) 기준",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Bon Jovi",
+   "tour": "Because We Can",
+   "gross": 259500000,
+   "period": "2013",
+   "shows": 102,
+   "attendance": 2657502,
+   "ongoing": false,
+   "status": "verified",
+   "note": "관객은 연도별 표(2013) 기준",
+   "sources": [
+    "WIKI-GROSS",
+    "WIKI-ATT"
+   ]
+  },
+  {
+   "artist": "Stray Kids",
+   "tour": "dominATE World Tour",
+   "gross": 263289917,
+   "period": "2024–2025",
+   "shows": 54,
+   "attendance": 1983821,
+   "ongoing": false,
+   "status": "partial",
+   "note": "Touring Data 보고 54회(본편) 기준. 인천 앙코르 2회 포함 시 총 56회(관객·매출 미보고). Claude 트래커 추정 215만·$260M을 대체",
+   "sources": [
+    "TD-SKZ",
+    "WIKI-SKZ-DOM",
+    "CL-BB-SKZ"
+   ]
+  },
+  {
+   "artist": "BLACKPINK",
+   "tour": "Born Pink World Tour",
+   "gross": 331800000,
+   "period": "2022–2023",
+   "shows": 66,
+   "attendance": 1810000,
+   "ongoing": false,
+   "status": "partial",
+   "note": "Touring Data 집계(헤럴드경제 인용). 걸그룹 역대 최고 투어 매출. 관객은 약 181만(반올림)",
+   "sources": [
+    "HERALD-BP10",
+    "CLAUDE-TRACKER"
+   ]
+  }
+ ],
+ "milestones": [
+  {
+   "text": "BTS ARIRANG, 그룹 단일 투어 역대 7번째·팝 그룹 최초 5억 달러 돌파 (앞선 6팀은 모두 록 밴드)",
+   "status": "verified",
+   "sources": [
+    "BB-BTS-0930"
+   ]
+  },
+  {
+   "text": "BTS 2026년 8월: 12회 / 801,000장 / $171.7M → 월간 Boxscore 역대 2위 (1위 Beyoncé 2023년 8월 $179.3M), Top Tours 통산 5번째 1위",
+   "status": "verified",
+   "sources": [
+    "BB-BTS-0930"
+   ]
+  },
+  {
+   "text": "BTS 메트라이프 스타디움(8/1–2) 2회 $32.7M·158,000장",
+   "status": "verified",
+   "sources": [
+    "BB-BTS-0930"
+   ]
+  },
+  {
+   "text": "The Weeknd 2026년 8월 995,000장 — 월간 최다 관객 기록 (기존 Harry Styles 2023년 6월 967,000장)",
+   "status": "verified",
+   "sources": [
+    "BB-BTS-0930"
+   ]
+  },
+  {
+   "text": "10억 달러 단일 투어 클럽: Taylor Swift · Coldplay · The Weeknd 3팀",
+   "status": "verified",
+   "sources": [
+    "POLLSTAR-WEEKND"
+   ]
+  },
+  {
+   "text": "Top Tours 월간 1위 횟수: Bad Bunny 10 > Beyoncé·Coldplay·Elton John 7 > BTS 5",
+   "status": "verified",
+   "sources": [
+    "BB-BTS-0930"
+   ]
+  },
+  {
+   "text": "BTS 최종 매출 10억 달러 근접 전망 (Billboard 전망치, 확정 아님)",
+   "status": "forecast",
+   "sources": [
+    "BB-BTS-0930",
+    "SBS-BTS"
+   ]
+  },
+  {
+   "text": "5억 달러 그룹 6팀 = U2, Rolling Stones, Guns N' Roses, Coldplay, Metallica, Rammstein (Wikipedia 표 기반 추정; Billboard 공식 명단은 미공개 → 미확인)",
+   "status": "unverified",
+   "sources": [
+    "WIKI-GROSS",
+    "GROK"
+   ]
+  }
+ ]
+}

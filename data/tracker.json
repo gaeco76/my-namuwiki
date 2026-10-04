@@ -1,0 +1,2692 @@
+{
+ "asOf": "2026-10-04",
+ "claudeCut": "2026-08-29",
+ "intro": "사용자의 Claude 리서치 ‘K-POP 해외투어 트래커’(2025.01–2027.06, 검증본 2026-08-29)를 병합하고 2026-10-04에 일부 재검증.",
+ "tours": [
+  {
+   "artist": "스트레이 키즈",
+   "tour": "WORLD TOUR ⟨dominATE⟩",
+   "start": "2024-08-24",
+   "end": "2025-10-19",
+   "yearHint": "2024–2025",
+   "shows": 56,
+   "cities": 34,
+   "region": "5개 대륙",
+   "tier": "스타디움",
+   "attendance": 1983821,
+   "attendanceText": "1,983,821 (보고 54회)",
+   "revenue": 263289917,
+   "revenueText": "$263.3M (보고 54회)",
+   "claudeAcc": "충돌",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Live Nation",
+    "url": "https://www.livenation.com/"
+   },
+   "note": "본편 54회(2024-08-24 서울 ~ 2025-07-30 로마) + 인천 앙코르 2회(2025-10-18~19) = 56회. 보고분 54회 1,983,821명·$263,289,917 (Touring Data). 인천 2회 관객·매출은 미보고.",
+   "changes": "회차 충돌(54/55/56) 해소: 54=본편 보고분, 56=앙코르 포함. 55는 출처 없음. Claude의 215만·$260M 추정치를 Touring Data 실집계로 교체.",
+   "sources": [
+    "TD-SKZ",
+    "WIKI-SKZ-DOM",
+    "CL-BB-SKZ",
+    "CL-KH-SKZ",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "블랙핑크",
+   "tour": "WORLD TOUR ⟨DEADLINE⟩",
+   "start": "2025-07-05",
+   "end": "2026-01-26",
+   "yearHint": "2025–2026",
+   "shows": 33,
+   "cities": 16,
+   "region": "아시아·북미·유럽",
+   "tier": "스타디움",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "확정",
+   "status": "verified",
+   "group": "girl",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "YG 발표 16도시 33회(2025-07-05 고양 ~ 2026-01-26 홍콩 카이탁). 총관객·총매출은 Billboard/Touring Data 미보고(TBA, 0/29 보고). Claude 9/18은 ‘미국 20개 도시·35회·북미 약 55만 명’이라 했으나 공식 16도시 33회와 충돌 → 미반영.",
+   "changes": "2026-10-04 재조사: 총량 여전히 미공개. SNS에 도는 ‘163만·$277.9M’은 추정치라 미반영. 81회·200만+는 삭제 유지.",
+   "sources": [
+    "CL-CHOSUN-BP",
+    "HERALD-BP10",
+    "TD-BP-DEADLINE",
+    "CLAUDE-TRACKER",
+    "CLAUDE-CHATS-1"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "세븐틴",
+   "tour": "RIGHT HERE WORLD TOUR",
+   "start": "2024-10-01",
+   "end": "2025-03-31",
+   "yearHint": "2024–2025",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "스타디움",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 700000,
+   "estimateText": "~ 70만"
+  },
+  {
+   "artist": "세븐틴",
+   "tour": "WORLD TOUR [NEW_]",
+   "start": "2025-09-13",
+   "end": "2026-04-05",
+   "yearHint": "2025–2026",
+   "shows": 31,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "스타디움",
+   "attendance": 840000,
+   "attendanceText": "840,000",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "확정",
+   "status": "verified",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "플레디스 31회 84만. 빌보드 반기 25회 57.4만은 기간 집계 / Billboard 2025 연간: 34회 96.4만·$142.4M(집계기간, 다른 투어 포함 가능).",
+   "changes": "",
+   "sources": [
+    "CL-YNA-SVT",
+    "CLAUDE-TRACKER",
+    "BB-YE2025"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "아이브",
+   "tour": "SHOW WHAT I AM",
+   "start": "2025-10-31",
+   "end": "2026-09-13",
+   "yearHint": "2025–2026",
+   "shows": 28,
+   "cities": null,
+   "region": "아시아·북미·오세아니아",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Live Nation",
+    "url": "https://www.livenation.com/"
+   },
+   "note": "추정 관객(≈40만) 산식 (KSPO 3회 31,500 / 교세라+도쿄돔 4회 160,000 / 아시아 9회 81,000 / 오세아니아 2회 20,000 / 북미 아레나 8회 109,600). 초기 대화: 교세라 79,000 + 도쿄돔 48,000.",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER",
+    "CLAUDE-CHATS-1"
+   ],
+   "estimate": 402000,
+   "estimateText": "≈ 40만"
+  },
+  {
+   "artist": "베이비몬스터",
+   "tour": "1st WORLD TOUR ⟨Hello Monsters⟩",
+   "start": "2025-01-25",
+   "end": "2025-09-12",
+   "yearHint": "2025",
+   "shows": 32,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": 300000,
+   "attendanceText": "300,000",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "확정",
+   "status": "verified",
+   "group": "girl",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "르세라핌",
+   "tour": "Easy Crazy Hot Tour",
+   "start": "2025-04-19",
+   "end": "2026-02-01",
+   "yearHint": "2025–2026",
+   "shows": 31,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "돔",
+   "attendance": 237441,
+   "attendanceText": "237,441 (27/31회 보고)",
+   "revenue": 34149246,
+   "revenueText": "$34.1M (27/31회)",
+   "claudeAcc": "확정",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "회당 평균 $1.26M·8,794명(Claude 계산). 시애틀 2025-09-17 $2.013M 커리어 하이는 Claude 대화 기준.",
+   "changes": "2026-10-04: 237,000 → Touring Data 237,441장·$34,149,246(27/31회 보고분). 2차 보도(Sina)는 31회 전체 321,073장이라 해 부분 확인으로 조정.",
+   "sources": [
+    "CLAUDE-TRACKER",
+    "TD-LSF-ECH",
+    "SINA-LSF-ECH",
+    "CLAUDE-CHATS-1"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "에스파",
+   "tour": "SYNK: aeXIS LINE",
+   "start": "2025-08-29",
+   "end": "2026-04-26",
+   "yearHint": "2025–2026",
+   "shows": 25,
+   "cities": null,
+   "region": "아시아",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 321500,
+   "estimateText": "≈ 32만"
+  },
+  {
+   "artist": "NCT 드림",
+   "tour": "THE DREAM SHOW 4",
+   "start": "2025-07-10",
+   "end": "2026-03-29",
+   "yearHint": "2025–2026",
+   "shows": 26,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 402000,
+   "estimateText": "≈ 40만"
+  },
+  {
+   "artist": "투모로우바이투게더",
+   "tour": "ACT : PROMISE",
+   "start": "2024-08-01",
+   "end": "2025-05-25",
+   "yearHint": "2024–2025",
+   "shows": 55,
+   "cities": null,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 600000,
+   "estimateText": "~ 60만"
+  },
+  {
+   "artist": "투모로우바이투게더",
+   "tour": "ACT : TOMORROW",
+   "start": "2025-08-22",
+   "end": "2026-02-14",
+   "yearHint": "2025–2026",
+   "shows": 29,
+   "cities": 17,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": 564000,
+   "attendanceText": "약 564,000 (BigHit)",
+   "revenue": 36666355,
+   "revenueText": "$36.7M (보고 17/29회)",
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "29회·17개 도시, 약 56.4만(BigHit 2026-02-15). 매출은 Touring Data 2025년 보고 17/29회. Billboard 2026 상반기 집계 $53M·412K·20회.",
+   "changes": "2026-10-04 하이브 리서치: 회차·관객 공식 발표치 반영, Claude ~28만(추정)은 모델값으로 유지",
+   "sources": [
+    "BB-MID2026",
+    "TD-TXT-ACT",
+    "AKP-TXT-ACT",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 280000,
+   "estimateText": "~ 28만"
+  },
+  {
+   "artist": "에이티즈",
+   "tour": "IN YOUR FANTASY",
+   "start": "2025-07-05",
+   "end": "2025-10-23",
+   "yearHint": "2025",
+   "shows": null,
+   "cities": 15,
+   "region": "한국·북미·멕시코·일본 (+2026 아시아·오세아니아 확장)",
+   "tier": "스타디움",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Frontier Touring",
+    "url": "https://www.frontiertouring.com/"
+   },
+   "note": "공식 발표 15개 도시(인천~고베). 2026년 1~3월 아시아·호주 추가 일정은 위키/팬덤 기준(미확인). Billboard 2025 연간: 28회 40만·$70M(집계기간 기준).",
+   "changes": "자리표시 날짜(2025-01-01~12-31)를 공식 일정으로 교체.",
+   "sources": [
+    "NME-ATEEZ",
+    "KQ-ATEEZ",
+    "BB-YE2025",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 600000,
+   "estimateText": "~ 60만"
+  },
+  {
+   "artist": "엔하이픈",
+   "tour": "WALK THE LINE",
+   "start": "2024-09-01",
+   "end": "2025-08-31",
+   "yearHint": "2024–2025",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 350000,
+   "estimateText": "~ 35만"
+  },
+  {
+   "artist": "지드래곤",
+   "tour": "2025 WORLD TOUR ⟨Übermensch⟩",
+   "start": "2025-03-01",
+   "end": null,
+   "yearHint": "2025",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "solo",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 600000,
+   "estimateText": "~ 60만"
+  },
+  {
+   "artist": "제이홉",
+   "tour": "HOPE ON THE STAGE",
+   "start": "2025-02-28",
+   "end": "2025-06-30",
+   "yearHint": "2025",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "solo",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 400000,
+   "estimateText": "~ 40만"
+  },
+  {
+   "artist": "데이식스",
+   "tour": "3rd WORLD TOUR ⟨Forever Young⟩",
+   "start": "2024-09-20",
+   "end": "2025-05-18",
+   "yearHint": "2025",
+   "shows": 45,
+   "cities": 23,
+   "region": "한국·아시아·일본·오세아니아·북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "인천 개막 ~ 서울 폐막, 45회 23개 도시(언론 보도 종합).",
+   "changes": "자리표시 날짜 교체, 회차·도시 보강.",
+   "sources": [
+    "NME-DAY6",
+    "SOOMPI-DAY6",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 300000,
+   "estimateText": "~ 30만"
+  },
+  {
+   "artist": "라이즈",
+   "tour": "CONCERT TOUR ⟨RIIZING LOUD⟩",
+   "start": null,
+   "end": "2026-03-08",
+   "yearHint": "2025–2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": 31992,
+   "attendanceText": "31,992",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 270000,
+   "estimateText": "~ 27만"
+  },
+  {
+   "artist": "엔믹스",
+   "tour": "1st WORLD TOUR ⟨EPISODE 1: ZERO FRONTIER⟩",
+   "start": "2026-03-17",
+   "end": "2026-04-09",
+   "yearHint": "2025",
+   "shows": 11,
+   "cities": 11,
+   "region": "유럽·북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "Live Nation 발표 글로벌 레그: 마드리드 개막 ~ LA 폐막 11개 도시. 국내/아시아 공연 포함 여부는 미확인.",
+   "changes": "Claude 트래커의 2025년·아시아·북미 표기를 Live Nation 공식 일정(2026년, 유럽·북미)으로 교정.",
+   "sources": [
+    "LN-NMIXX",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "있지",
+   "tour": "3rd WORLD TOUR ⟨Tunnel Vision⟩",
+   "start": "2026-02-13",
+   "end": "2026-10-03",
+   "yearHint": "2025–2026",
+   "shows": null,
+   "cities": 16,
+   "region": "한국·오세아니아·아시아·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "서울(2/13–15) 개막, 발표된 마지막 일정은 싱가포르 10/3. 16개 도시. 총회차는 미확인(추가 일정 가능).",
+   "changes": "자리표시 날짜 교체. 권역 ‘아시아·북미’→ 발표 일정 기준(북미 일정 미발표).",
+   "sources": [
+    "DIPE-ITZY",
+    "KH-ITZY2",
+    "SOOMPI-ITZY",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 180000,
+   "estimateText": "~ 18만"
+  },
+  {
+   "artist": "스테이씨",
+   "tour": "2025 TOUR ⟨Stay Tuned⟩",
+   "start": "2025-04-12",
+   "end": "2025-10-23",
+   "yearHint": "2025",
+   "shows": null,
+   "cities": 22,
+   "region": "한국·일본·아시아·오세아니아·북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "서울(4/12–13) 개막, 북미 레그 10월(토론토 종료). 종료일은 보도 종합 기준.",
+   "changes": "자리표시 날짜 교체.",
+   "sources": [
+    "SOOMPI-STAYC",
+    "SN-STAYC",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 80000,
+   "estimateText": "~ 8만"
+  },
+  {
+   "artist": "BTS",
+   "tour": "WORLD TOUR 'ARIRANG'",
+   "start": "2026-04-09",
+   "end": "2027-03-16",
+   "yearHint": "2026–2027",
+   "shows": 88,
+   "cities": 34,
+   "region": "6개 대륙",
+   "tier": "스타디움",
+   "attendance": 2300000,
+   "attendanceText": "2,300,000 (진행분 38회)",
+   "revenue": null,
+   "revenueText": "$500M+ (Billboard, 8월 보고분까지)",
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "일정 88회·34도시(2027-03-16 종료). 관객 230만은 2026-08-11 기준 38회(스타뉴스 인용 Billboard). Claude 8/29 전망(추정): 총 약 453만 명(440~510만)·$817M($770~970M), 지역 평균 미국 58,400명·$12.1M/회, 아시아 44,500명·$7.1M/회. Touring Data 스냅샷 32/88회 보고 $345.2M·1,881,618장(시점 차로 Billboard $433.2M과 다름, 참고).",
+   "changes": "Claude 트래커의 $433.2M(08-11, 38회)은 Billboard 2026-09-30 보고(‘$500M 돌파’)로 대체. Wikipedia는 $637.5M·50회로 표기(투어 박스스코어 탭 참조). / 2026-10-04 Claude 배치1 대조: Claude(8/29)는 85회·2027-03-14 종료 → 88회·불라칸 3/13·14·16 종료로 갱신(확인).",
+   "sources": [
+    "BB-BTS-0930",
+    "CL-STARNEWS-BTS",
+    "EDAILY-BTS",
+    "CLAUDE-TRACKER",
+    "CM-BTS88",
+    "TM-PH-BTS",
+    "WIKI-ARIRANG",
+    "CLAUDE-CHATS-1",
+    "TD-BTS"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "빅뱅",
+   "tour": "BIGBANG 2026 WORLD TOUR",
+   "start": "2026-08-01",
+   "end": "2027-02-28",
+   "yearHint": "2026–2027",
+   "shows": 31,
+   "cities": 18,
+   "region": "5개 권역",
+   "tier": "스타디움",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 738000,
+   "estimateText": "≈ 74만"
+  },
+  {
+   "artist": "에스파",
+   "tour": "SYNK: COMPLæXITY",
+   "start": "2026-08-07",
+   "end": "2027-02-02",
+   "yearHint": "2026–2027",
+   "shows": 26,
+   "cities": null,
+   "region": "아시아·미주·유럽",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "추정 관객(≈34만) 산식 (고척 2회 36,000 / 타이베이돔 18,000 / 상파울루 ~25,000 / 북미 8회 112,000 / 파리 아코르 15,000 / 미발표 13회 130,000). 미국 9/15–10/11 10개 도시, 유럽 2027년 1–2월 (Claude 9/18).",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER",
+    "CLAUDE-CHATS-1"
+   ],
+   "estimate": 336000,
+   "estimateText": "≈ 34만"
+  },
+  {
+   "artist": "스트레이 키즈",
+   "tour": "WORLD TOUR ⟨RUN IT⟩",
+   "start": "2026-07-25",
+   "end": "2027-03-07",
+   "yearHint": "2026–2027",
+   "shows": 18,
+   "cities": 9,
+   "region": "아시아",
+   "tier": "돔",
+   "attendance": 51297,
+   "attendanceText": "51,297 (서울)",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "Live Nation",
+    "url": "https://www.livenation.com/"
+   },
+   "note": "아시아 1차 약 18회 9도시. 51,297은 서울 5회이지 투어 총량이 아님",
+   "changes": "Claude 검증 패스(08-29) 반영: 51,297은 서울 5회 수치.",
+   "sources": [
+    "CL-KH-SKZ",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 535000,
+   "estimateText": "≈ 54만"
+  },
+  {
+   "artist": "베이비몬스터",
+   "tour": "춤 (Choom) WORLD TOUR",
+   "start": "2026-06-26",
+   "end": null,
+   "yearHint": "2026–2027",
+   "shows": 29,
+   "cities": 18,
+   "region": "5개 대륙",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 363500,
+   "estimateText": "≈ 36만"
+  },
+  {
+   "artist": "르세라핌",
+   "tour": "Pureflow Tour",
+   "start": "2026-07-11",
+   "end": "2026-12-20",
+   "yearHint": "2026",
+   "shows": 34,
+   "cities": null,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "conflict",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "북미 9회 9/16–10/8 (LA·타코마·새너제이·피닉스·포트워스·올랜도·시카고·워싱턴DC·뉴어크), 유럽 5회 10/16 런던–10/26 베를린(위키 확인). 마지막 공연: 교세라돔 오사카 12/19–20 (공식).",
+   "changes": "Claude(8/30·7/13)는 23개 도시·32회라 해 트래커 34회와 충돌 — 최종 회차 공식 집계 미확인. / 2026-10-04: 종료일 12-06(07 검증표 값) → 12-20 교세라돔 오사카(12/19–20, 공식 9/3 발표)로 갱신.",
+   "sources": [
+    "CLAUDE-TRACKER",
+    "WIKI-PUREFLOW",
+    "CLAUDE-CHATS-1",
+    "LSF-JP-KYOCERA"
+   ],
+   "estimate": 357000,
+   "estimateText": "≈ 36만"
+  },
+  {
+   "artist": "트와이스",
+   "tour": "THIS IS FOR WORLD TOUR",
+   "start": "2026-01-09",
+   "end": "2026-05-31",
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "북미·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 360000,
+   "estimateText": "≈ 36만"
+  },
+  {
+   "artist": "투모로우바이투게더",
+   "tour": "STEAL THE WIND",
+   "start": "2026-11-13",
+   "end": "2027-06-20",
+   "yearHint": "2026–2027",
+   "shows": 32,
+   "cities": 23,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나·돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "발표 32회·23개 도시(2026-08-27), 추가 도시 발표 예정. 도쿄돔 2027-01-07~08.",
+   "changes": "2026-10-04 하이브 리서치: 발표 일정 반영",
+   "sources": [
+    "WEVERSE-TXT-STW",
+    "CONSEQ-TXT-STW",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 472000,
+   "estimateText": "≈ 47만"
+  },
+  {
+   "artist": "엔하이픈",
+   "tour": "BLOOD SAGA",
+   "start": "2026-05-01",
+   "end": null,
+   "yearHint": "2026–2027",
+   "shows": 35,
+   "cities": 21,
+   "region": "한국·남미·북미·아시아·일본·유럽",
+   "tier": "아레나",
+   "attendance": 225280,
+   "attendanceText": "225,280 (서울 32,280 + 미주 12회 193,000)",
+   "revenue": 3648869,
+   "revenueText": "$3.65M (서울 3회)",
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "2027-03 유럽(밀라노·파리·암스테르담·베를린·런던)까지, 종료일 미정. 총 35회는 Wikipedia 집계. 서울 07탭 32,280 유지(Korea Herald 32,250). 미주 193,000은 BELIFT 발표. 다음 마카오 10/16–17.",
+   "changes": "2026-10-04 하이브 리서치: 종료일 2026-08-31 → 2027-03(유럽, 일자 미정), 미주 관객 반영",
+   "sources": [
+    "WIKI-ENH-LIVE",
+    "KH2-ENH-AM",
+    "KH-ENH-BS",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 176000,
+   "estimateText": "≈ 18만"
+  },
+  {
+   "artist": "아일릿",
+   "tour": "LIVE 'PRESS START♥︎'",
+   "start": "2026-03-14",
+   "end": "2026-08-22",
+   "yearHint": "2026",
+   "shows": 15,
+   "cities": 7,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 90000,
+   "estimateText": "≈ 9만"
+  },
+  {
+   "artist": "아일릿",
+   "tour": "'PRESS START♥︎' 앙코르",
+   "start": "2026-10-17",
+   "end": "2026-12-27",
+   "yearHint": "2026",
+   "shows": 6,
+   "cities": 2,
+   "region": "한국·일본",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "인천 인스파이어 10/17–18, 지바 LaLa arena 12/23·24·26·27.",
+   "changes": "2026-10-04 하이브 리서치: 시작일 10-01(자리표시) → 10-17, 종료 12-27",
+   "sources": [
+    "PRT-ILLIT-ENC",
+    "WEVERSE-ILLIT-ENC",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 40000,
+   "estimateText": "≈ 4만"
+  },
+  {
+   "artist": "아이들",
+   "tour": "Syncopation World Tour",
+   "start": "2026-02-21",
+   "end": "2026-06-28",
+   "yearHint": "2026",
+   "shows": 11,
+   "cities": null,
+   "region": "아시아·오세아니아",
+   "tier": "돔",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "확정",
+   "status": "verified",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "큐브, 북미 10도시 취소(2026-04-20). 호주·싱가포르·일본·홍콩은 유지",
+   "changes": "Claude 검증 패스: 북미 10도시 취소(큐브 2026-04-20).",
+   "sources": [
+    "CL-KH-IDLE",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 135000,
+   "estimateText": "≈ 14만"
+  },
+  {
+   "artist": "케이츠아이",
+   "tour": "Wildworld 2026",
+   "start": "2026-09-01",
+   "end": "2026-11-28",
+   "yearHint": "2026",
+   "shows": 31,
+   "cities": 27,
+   "region": "유럽·북미·멕시코",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "HYBE 2Q26 실적발표: 10개국 27개 도시 31회, 전석 매진. Claude 회당 14,000–16,000명은 가정(추정치).",
+   "changes": "2026-10-04: 시작 10/13(북미) → 9/1 더블린(유럽 레그)부터, 종료 11/28 멕시코시티로 갱신. 유럽 8 + 북미 18 + 멕시코시티 ≈ 27개 도시. / 2026-10-04 하이브 리서치: 총 공연 수 미확인 → 31회(HYBE 실적발표)",
+   "sources": [
+    "POLLSTAR-KATSEYE",
+    "HYBE-2Q26-ZDNET",
+    "CLAUDE-TRACKER",
+    "LN-KATSEYE",
+    "CONSEQ-KATSEYE",
+    "CLAUDE-CHATS-1"
+   ],
+   "estimate": 120000,
+   "estimateText": "≈ 12만"
+  },
+  {
+   "artist": "몬스타엑스",
+   "tour": "[THE X : NEXUS]",
+   "start": "2026-01-30",
+   "end": "2026-10-24",
+   "yearHint": "2026",
+   "shows": null,
+   "cities": 8,
+   "region": "한국·북미",
+   "tier": "아레나",
+   "attendance": 19129,
+   "attendanceText": "19,129",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 51000,
+   "estimateText": "≈ 5.1만"
+  },
+  {
+   "artist": "마마무",
+   "tour": "4WARD 재결합 투어",
+   "start": "2026-08-12",
+   "end": "2026-08-30",
+   "yearHint": "2026",
+   "shows": 7,
+   "cities": 7,
+   "region": "북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "SeatGeek",
+    "url": "https://seatgeek.com/concert-tickets/kpop"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 35000,
+   "estimateText": "≈ 3.5만"
+  },
+  {
+   "artist": "XG",
+   "tour": "The Core",
+   "start": "2026-11-03",
+   "end": "2026-11-22",
+   "yearHint": "2026",
+   "shows": 7,
+   "cities": 7,
+   "region": "북미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 35000,
+   "estimateText": "≈ 3.5만"
+  },
+  {
+   "artist": "리사",
+   "tour": "Viva La Lisa",
+   "start": "2026-11-13",
+   "end": "2026-11-28",
+   "yearHint": "2026",
+   "shows": 4,
+   "cities": 1,
+   "region": "북미",
+   "tier": "레지던시",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "solo",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 16000,
+   "estimateText": "≈ 1.6만"
+  },
+  {
+   "artist": "제로베이스원",
+   "tour": "HERE&NOW 앙코르",
+   "start": "2026-03-13",
+   "end": "2026-03-15",
+   "yearHint": "2026",
+   "shows": 3,
+   "cities": 1,
+   "region": "한국",
+   "tier": "아레나",
+   "attendance": 28438,
+   "attendanceText": "28,438",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "확정",
+   "status": "verified",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "인터파크",
+    "url": "https://tickets.interpark.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "플레이브",
+   "tour": "KEEP IT MANIC",
+   "start": "2026-09-12",
+   "end": "2026-09-13",
+   "yearHint": "2026",
+   "shows": 2,
+   "cities": 1,
+   "region": "한국",
+   "tier": "스타디움",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 60000,
+   "estimateText": "≈ 6만"
+  },
+  {
+   "artist": "보이넥스트도어",
+   "tour": "TOUR ⟨KNOCK ON Vol.2⟩",
+   "start": "2026-07-17",
+   "end": "2026-11-24",
+   "yearHint": "2026",
+   "shows": 38,
+   "cities": 24,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": 30571,
+   "attendanceText": "30,571",
+   "revenue": 5800000,
+   "revenueText": "$5.8M (Billboard 보고 6회)",
+   "claudeAcc": "확정",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "38회·24개 도시(KOZ, 10월). Billboard 9/30: 보고 6회 $5.8M·69,300명. 서울 3회 30,571(07탭) — 소속사 발표 31,800 병기. 북미 10/30–11/24.",
+   "changes": "2026-10-04 하이브 리서치: 33회 → 38회(9/30 이후 자료, 07탭 대비 최신 우선), 종료일 11-24(발표 일정 기준)",
+   "sources": [
+    "LIL-BND-NA",
+    "CHOSUN-BND",
+    "AKP-BND-BB",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 257500,
+   "estimateText": "≈ 26만"
+  },
+  {
+   "artist": "보이넥스트도어",
+   "tour": "TOUR ⟨KNOCK ON Vol.1⟩",
+   "start": "2024-12-14",
+   "end": "2025-07-27",
+   "yearHint": "2024–2025",
+   "shows": 23,
+   "cities": 13,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 160000,
+   "estimateText": "~ 16만"
+  },
+  {
+   "artist": "키스오브라이프",
+   "tour": "KISS ROAD",
+   "start": "2024-10-26",
+   "end": "2025-05-04",
+   "yearHint": "2024–2025",
+   "shows": 45,
+   "cities": null,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2025"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 112500,
+   "estimateText": "≈ 11만"
+  },
+  {
+   "artist": "NCT 위시",
+   "tour": "INTO THE WISH : Our WISH",
+   "start": null,
+   "end": "2026-04-19",
+   "yearHint": "2025–2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": 32664,
+   "attendanceText": "32,664",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 200000,
+   "estimateText": "~ 20만"
+  },
+  {
+   "artist": "엑소",
+   "tour": "EXO PLANET #6 ⟨EXhOrizon⟩",
+   "start": "2026-04-10",
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": 31875,
+   "attendanceText": "31,875",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 170000,
+   "estimateText": "~ 17만"
+  },
+  {
+   "artist": "샤이니",
+   "tour": "SHINee WORLD VIII ⟨THE INVERT⟩",
+   "start": "2026-05-29",
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": 30780,
+   "attendanceText": "30,780",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 170000,
+   "estimateText": "~ 17만"
+  },
+  {
+   "artist": "더보이즈",
+   "tour": "INTER-ZECTION",
+   "start": "2026-04-24",
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": 25747,
+   "attendanceText": "25,747",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "인터파크",
+    "url": "https://tickets.interpark.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 180000,
+   "estimateText": "~ 18만"
+  },
+  {
+   "artist": "데이식스",
+   "tour": "10주년 투어 ⟨The DECADE⟩",
+   "start": "2026-03-21",
+   "end": "2026-07-05",
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미",
+   "tier": "아레나",
+   "attendance": 47297,
+   "attendanceText": "47,297",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "인터파크",
+    "url": "https://tickets.interpark.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 240000,
+   "estimateText": "~ 24만"
+  },
+  {
+   "artist": "피원하모니",
+   "tour": "P1ustage H : MOST WANTED",
+   "start": null,
+   "end": "2026-03-08",
+   "yearHint": "2025–2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나",
+   "attendance": 10002,
+   "attendanceText": "10,002",
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "개략",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 150000,
+   "estimateText": "~ 15만"
+  },
+  {
+   "artist": "트레저",
+   "tour": "2025-26 TOUR [PULSE ON]",
+   "start": "2025-10-10",
+   "end": "2026-05-30",
+   "yearHint": "2025–2026",
+   "shows": 27,
+   "cities": 14,
+   "region": "한국·일본·아시아",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "서울 3회 + 일본 15회(교세라돔 2회 포함) + 아시아 9회 = 발표 일정 합산 27회, 14개 도시.",
+   "changes": "자리표시 날짜 교체, 회차 보강(공식 일정 합산).",
+   "sources": [
+    "YGEX-TREASURE",
+    "YG-TREASURE",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "TWS",
+   "tour": "24/7 : With:Us",
+   "start": "2025-06-20",
+   "end": "2026-01-31",
+   "yearHint": "2025",
+   "shows": 18,
+   "cities": null,
+   "region": "한국·일본·마카오·대만",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2025",
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "서울 3회(6/20–22) + 일본 13회 + 마카오·가오슝 각 1회 = 공지 기준 18회. 추가 공연 여부 미확인.",
+   "changes": "자리표시 날짜 교체.",
+   "sources": [
+    "WEVERSE-TWS-SEOUL",
+    "HYBEJP-TWS",
+    "WEVERSE-TWS-MACAU",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 110000,
+   "estimateText": "~ 11만"
+  },
+  {
+   "artist": "TWS",
+   "tour": "2026 TOUR ⟨24/7:FOR:YOU⟩",
+   "start": "2026-06-27",
+   "end": "2026-10-24",
+   "yearHint": "2026",
+   "shows": 15,
+   "cities": 8,
+   "region": "한국·일본·마카오·태국·싱가포르·대만",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "—",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "공지 일정 합산 15회(서울2·후쿠오카3·고베3·요코하마2·마카오2·방콕1·싱가포르1·가오슝1). Weverse 원문 직접 열람 실패 — 검색 색인 기준.",
+   "changes": "2026-10-04 하이브 리서치: 신규 행.",
+   "sources": [
+    "WEVERSE-TWS-FORYOU"
+   ],
+   "estimate": null,
+   "estimateText": null
+  },
+  {
+   "artist": "코르티스",
+   "tour": "PUT YOUR PHONE DOWN",
+   "start": "2026-07-18",
+   "end": "2026-09-06",
+   "yearHint": "2026",
+   "shows": 14,
+   "cities": 9,
+   "region": "한국·북미·일본",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "부분",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "9개 도시 14회 전석 매진(BigHit). 관객·매출 미발표.",
+   "changes": "2026-10-04 하이브 리서치: 종료일·회차 반영",
+   "sources": [
+    "WEVERSE-CORTIS",
+    "STARNEWS-CORTIS",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 50000,
+   "estimateText": "~ 5만"
+  },
+  {
+   "artist": "에버글로우",
+   "tour": "WORLD TOUR ⟨Re:Code⟩",
+   "start": null,
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "unverified",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 30000,
+   "estimateText": "~ 3만"
+  },
+  {
+   "artist": "원어스",
+   "tour": "WORLD TOUR ⟨Full Moon⟩",
+   "start": null,
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아·북미·유럽",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "unverified",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 50000,
+   "estimateText": "~ 5만"
+  },
+  {
+   "artist": "&TEAM",
+   "tour": "CONCERT TOUR ⟨Blaze The Way⟩",
+   "start": null,
+   "end": "2026-10-04",
+   "yearHint": "2026 (5월~)",
+   "shows": 23,
+   "cities": 14,
+   "region": "일본·한국",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "boy",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Weverse",
+    "url": "https://weverse.io/"
+   },
+   "note": "5월 요코하마 개막 → 9/5–6 벨루나돔 → 10/3–4 KSPO돔 앙코르로 종료. 14개 도시 23회(YX LABELS). 관객 미발표.",
+   "changes": "2026-10-04 하이브 리서치: 미확인 → 회차·종료일 확인",
+   "sources": [
+    "PRT-TEAM",
+    "CHOSUN-TEAM",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 120000,
+   "estimateText": "~ 12만"
+  },
+  {
+   "artist": "이즈나",
+   "tour": "CONCERT TOUR ⟨Who Dat Girl?⟩",
+   "start": "2026-09-19",
+   "end": "2027-03-28",
+   "yearHint": "2026",
+   "shows": 11,
+   "cities": 10,
+   "region": "한국·아시아·일본",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "partial",
+   "group": "girl",
+   "years": [
+    "2026",
+    "2027"
+   ],
+   "ticket": {
+    "name": "인터파크",
+    "url": "https://tickets.interpark.com/"
+   },
+   "note": "서울 2회(9/19–20), 타이베이·마닐라·홍콩·싱가포르·쿠알라룸푸르, 일본 4개 도시(2027-03). 발표 일정 합산.",
+   "changes": "자리표시 날짜 교체.",
+   "sources": [
+    "SOOMPI-IZNA",
+    "IZNA-JP",
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 30000,
+   "estimateText": "~ 3만"
+  },
+  {
+   "artist": "우즈",
+   "tour": "WORLD TOUR ⟨Archive.1⟩",
+   "start": null,
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "아시아",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "unverified",
+   "group": "solo",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "NOL 티켓",
+    "url": "https://world.nol.com/en/ticket"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 80000,
+   "estimateText": "~ 8만"
+  },
+  {
+   "artist": "유니스",
+   "tour": "EverAfter / Ever Last",
+   "start": null,
+   "end": null,
+   "yearHint": "2026",
+   "shows": null,
+   "cities": null,
+   "region": "북미·중남미",
+   "tier": "아레나",
+   "attendance": null,
+   "attendanceText": null,
+   "revenue": null,
+   "revenueText": null,
+   "claudeAcc": "미확",
+   "status": "unverified",
+   "group": "girl",
+   "years": [
+    "2026"
+   ],
+   "ticket": {
+    "name": "Ticketmaster",
+    "url": "https://www.ticketmaster.com/"
+   },
+   "note": "",
+   "changes": "",
+   "sources": [
+    "CLAUDE-TRACKER"
+   ],
+   "estimate": 20000,
+   "estimateText": "~ 2만"
+  }
+ ],
+ "records": [
+  {
+   "kind": "tour",
+   "artist": "BTS",
+   "label": "ARIRANG (전체 추정)",
+   "region": "다지역",
+   "shows": 88,
+   "attendance": 5200000,
+   "attendanceText": "500만~540만",
+   "estimate": true,
+   "note": "07 검증표(8/29) 추정: 진행 38회 230만 + 잔여 50회 외삽 → 최종 500~540만·$8.8~9.8억. 정렬값은 중앙 520만. Claude 01 대화의 권역별 재계산은 약 453만(440~510만)·$8.17억. 공식 아님 — 실적은 Billboard 9/30 기준 매출 $500M+ 돌파.",
+   "status": "estimate",
+   "sources": [
+    "CLAUDE-07",
+    "BB-BTS-0930",
+    "CLAUDE-FC"
+   ]
+  },
+  {
+   "kind": "tour",
+   "artist": "스트레이 키즈",
+   "label": "dominATE",
+   "region": "다지역",
+   "shows": 54,
+   "attendance": 1983821,
+   "attendanceText": "1,983,821",
+   "estimate": false,
+   "note": "Touring Data 보고 54회 실집계 ($263.3M). 인천 앙코르 2회 미포함. (Claude 원값: 215만 추정)",
+   "status": "partial"
+  },
+  {
+   "kind": "tour",
+   "artist": "블랙핑크",
+   "label": "DEADLINE",
+   "region": "다지역",
+   "shows": 33,
+   "attendance": null,
+   "attendanceText": "—",
+   "estimate": false,
+   "note": "YG 발표 16도시 33회. 총관객 미집계. 이전 81회·200만+는 출처 없음",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "블랙핑크",
+   "label": "Born Pink (비교선)",
+   "region": "다지역",
+   "shows": 66,
+   "attendance": 1800000,
+   "attendanceText": "1,800,000",
+   "estimate": false,
+   "note": "2022~23년 완료. 매출 3억 3천만 달러로 케이팝 투어 최대 매출 · 07 검증표 $330M, Claude 01 대화는 Billboard 기준 $331.8M이라 함 (07 값 유지)",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "BTS",
+   "label": "ARIRANG (집계 확인분)",
+   "region": "다지역",
+   "shows": 38,
+   "attendance": 2300000,
+   "attendanceText": "2,300,000",
+   "estimate": false,
+   "note": "빌보드 박스스코어 2026-08-11까지. 매출 $433.2M. 투어 진행 중",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "세븐틴",
+   "label": "NEW_",
+   "region": "다지역",
+   "shows": 31,
+   "attendance": 840000,
+   "attendanceText": "840,000",
+   "estimate": false,
+   "note": "온·오프라인 합산 90만 명 이상. 빌보드 반기 톱투어 7위",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "에스파",
+   "label": "SYNK: Parallel Line (비교선)",
+   "region": "다지역",
+   "shows": 43,
+   "attendance": 454000,
+   "attendanceText": "454,000",
+   "estimate": false,
+   "note": "2024~25년 완료, 매출 2,486만 달러 · 454,000은 43회 중 38회 집계(위키). Claude 8/30 첫 버전은 52만 명 ‘공식’이라 해 충돌.",
+   "status": "conflict"
+  },
+  {
+   "kind": "tour",
+   "artist": "아이브",
+   "label": "SHOW WHAT I HAVE (비교선)",
+   "region": "다지역",
+   "shows": 37,
+   "attendance": 440000,
+   "attendanceText": "440,000",
+   "estimate": false,
+   "note": "2023~24년 완료, 19개국. 아시아 21·북미 6·유럽 5·중남미 3·오세아니아 2",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "스트레이 키즈",
+   "label": "RUN IT (서울)",
+   "region": "국내",
+   "shows": 5,
+   "attendance": 51297,
+   "attendanceText": "51,297",
+   "estimate": false,
+   "note": "서울 5회 수치. 투어 총관객 아님. 아시아 1차 레그 약 18회 9도시 발표",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "르세라핌",
+   "label": "Pureflow (추정)",
+   "region": "다지역",
+   "shows": 34,
+   "attendance": 400000,
+   "attendanceText": "약 40만",
+   "estimate": true,
+   "note": "아레나 회당 1.2만 명 가정. 그룹 첫 유럽 공연 포함 · Claude 모델 간 편차: 36만(트래커 8/29)·40만(8/30 비교표)·33만(7/13 수익 계산)",
+   "status": "estimate"
+  },
+  {
+   "kind": "tour",
+   "artist": "베이비몬스터",
+   "label": "Hello Monsters",
+   "region": "다지역",
+   "shows": 32,
+   "attendance": 300000,
+   "attendanceText": "300,000",
+   "estimate": false,
+   "note": "데뷔 첫 월드투어. 아시아·북미",
+   "status": "claude"
+  },
+  {
+   "kind": "tour",
+   "artist": "르세라핌",
+   "label": "Easy Crazy Hot",
+   "region": "다지역",
+   "shows": 31,
+   "attendance": 237441,
+   "attendanceText": "237,441",
+   "estimate": false,
+   "note": "도쿄돔 2회 8만 명 포함. 2026년 2월 잠실 폐막 · Touring Data 27/31회 보고분 $34.1M",
+   "status": "partial"
+  },
+  {
+   "kind": "city",
+   "artist": "BTS",
+   "label": "얼리전트 스타디움 · 라스베이거스",
+   "region": "북미",
+   "shows": 4,
+   "attendance": 246000,
+   "attendanceText": "246,000",
+   "estimate": false,
+   "note": "매출 4,950만 달러. 4회차 편성 도시",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "BTS",
+   "label": "레이먼드 제임스 스타디움 · 탬파",
+   "region": "북미",
+   "shows": 3,
+   "attendance": 194000,
+   "attendanceText": "194,000",
+   "estimate": false,
+   "note": "매출 4,070만 달러. 북미 1차 레그 개막지",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "스트레이 키즈",
+   "label": "브라질 레그 (리우+상파울루)",
+   "region": "남미",
+   "shows": 3,
+   "attendance": 175000,
+   "attendanceText": "175,000",
+   "estimate": false,
+   "note": "브라질 개최 케이팝 투어 최대 규모",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "BTS",
+   "label": "스탠퍼드 스타디움",
+   "region": "북미",
+   "shows": 3,
+   "attendance": 152000,
+   "attendanceText": "152,000",
+   "estimate": false,
+   "note": "매출 3,050만 달러. 관객이 태극기를 들고 아리랑을 부른 팬 프로젝트 진행",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "BTS",
+   "label": "M&T 뱅크 스타디움 · 볼티모어",
+   "region": "북미",
+   "shows": 2,
+   "attendance": 140000,
+   "attendanceText": "140,000",
+   "estimate": false,
+   "note": "구장 이틀 합산 최다 관중 기록. 그룹의 첫 볼티모어 공연",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "BTS",
+   "label": "마드리드",
+   "region": "유럽",
+   "shows": 2,
+   "attendance": 135000,
+   "attendanceText": "135,000",
+   "estimate": false,
+   "note": "매출 2,510만 달러. 취소된 과거 투어에서 빠졌던 지역",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "스트레이 키즈",
+   "label": "스타드 드 프랑스 · 파리",
+   "region": "유럽",
+   "shows": 2,
+   "attendance": 120000,
+   "attendanceText": "120,000",
+   "estimate": false,
+   "note": "프랑스 내 한국 가수 최다 관객. 1회 매진 후 2회차 추가",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "스트레이 키즈",
+   "label": "에스타지우 두 모룸비 · 상파울루",
+   "region": "남미",
+   "shows": 2,
+   "attendance": 120000,
+   "attendanceText": "120,000",
+   "estimate": false,
+   "note": "케이팝 최초 모룸비 단독 공연. 수요 폭증으로 2회차 추가",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "블랙핑크",
+   "label": "소파이 스타디움 · 잉글우드",
+   "region": "북미",
+   "shows": 2,
+   "attendance": 100000,
+   "attendanceText": "100,000+",
+   "estimate": false,
+   "note": "47분 만에 전석 매진. 걸그룹 최초 이틀 연속 매진",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "르세라핌",
+   "label": "도쿄돔",
+   "region": "일본",
+   "shows": 2,
+   "attendance": 80000,
+   "attendanceText": "80,000",
+   "estimate": false,
+   "note": "Easy Crazy Hot 투어 중 최대 회차",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "블랙핑크",
+   "label": "고양종합운동장",
+   "region": "국내",
+   "shows": 2,
+   "attendance": 76489,
+   "attendanceText": "76,489",
+   "estimate": false,
+   "note": "DEADLINE 개막지. 신곡 JUMP를 이 무대에서 처음 공개",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "세븐틴",
+   "label": "카이탁 스타디움 · 홍콩",
+   "region": "아시아",
+   "shows": 2,
+   "attendance": 73000,
+   "attendanceText": "73,000",
+   "estimate": false,
+   "note": "빌보드 톱 박스스코어 18위. 케이팝 유일 톱30 진입",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "스트레이 키즈",
+   "label": "에스타지우 닐톤 산투스 · 리우",
+   "region": "남미",
+   "shows": 1,
+   "attendance": 55000,
+   "attendanceText": "55,000",
+   "estimate": false,
+   "note": "단일 공연 기준 남미 최대 회차",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "스트레이 키즈",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 5,
+   "attendance": 51297,
+   "attendanceText": "51,297",
+   "estimate": false,
+   "note": "RUN IT 개막. 오라캐스트 청각 보조 시스템 도입",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "블랙핑크",
+   "label": "로저스 스타디움 · 토론토",
+   "region": "북미",
+   "shows": 1,
+   "attendance": 50374,
+   "attendanceText": "50,374",
+   "estimate": false,
+   "note": "판매 51,086석 기준 순 관객. 전석 매진",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "데이식스",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 47297,
+   "attendanceText": "47,297",
+   "estimate": false,
+   "note": "데뷔 10주년 투어 국내 피날레",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "세븐틴",
+   "label": "인천아시아드주경기장 앙코르",
+   "region": "국내",
+   "shows": 2,
+   "attendance": 46974,
+   "attendanceText": "46,974",
+   "estimate": false,
+   "note": "NEW_ 투어 폐막 공연",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "제로베이스원",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 28438,
+   "attendanceText": "28,438",
+   "estimate": false,
+   "note": "HERE&NOW 앙코르",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "아이브",
+   "label": "인스파이어 아레나 · 인천",
+   "region": "국내",
+   "shows": 2,
+   "attendance": 24632,
+   "attendanceText": "24,632",
+   "estimate": false,
+   "note": "네 번째 팬콘 DIVE into IVE",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "NCT 위시",
+   "label": "KSPO돔 · 서울 앙코르",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 32664,
+   "attendanceText": "32,664",
+   "estimate": false,
+   "note": "INTO THE WISH : Our WISH 앙코르. 데뷔 2년 차 국내 최다",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "엔하이픈",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 32280,
+   "attendanceText": "32,280",
+   "estimate": false,
+   "note": "BLOOD SAGA 개막. 6인 체제 첫 서울 공연",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "라이즈",
+   "label": "KSPO돔 · 서울 피날레",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 31992,
+   "attendanceText": "31,992",
+   "estimate": false,
+   "note": "RIIZING LOUD 국내 피날레",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "엑소",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 31875,
+   "attendanceText": "31,875",
+   "estimate": false,
+   "note": "EXO PLANET #6 EXhOrizon. 데뷔 14년 차 단독 공연",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "샤이니",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 30780,
+   "attendanceText": "30,780",
+   "estimate": false,
+   "note": "SHINee WORLD VIII THE INVERT",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "보이넥스트도어",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 30571,
+   "attendanceText": "30,571",
+   "estimate": false,
+   "note": "KNOCK ON Vol.2 개막. 첫 월드투어 시작점",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "세븐틴 에스쿱스X민규",
+   "label": "인스파이어 아레나 · 인천",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 26513,
+   "attendanceText": "26,513",
+   "estimate": false,
+   "note": "유닛 단독 CxM DOUBLE UP LIVE PARTY",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "더보이즈",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 25747,
+   "attendanceText": "25,747",
+   "estimate": false,
+   "note": "INTER-ZECTION",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "데이식스",
+   "label": "부산 벡스코",
+   "region": "국내",
+   "shows": 2,
+   "attendance": 25723,
+   "attendanceText": "25,723",
+   "estimate": false,
+   "note": "The DECADE 부산 공연",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "피원하모니",
+   "label": "핸드볼경기장 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 10002,
+   "attendanceText": "10,002",
+   "estimate": false,
+   "note": "P1ustage H MOST WANTED 앙코르",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "르세라핌",
+   "label": "인스파이어 아레나 · 인천",
+   "region": "국내",
+   "shows": 2,
+   "attendance": 10000,
+   "attendanceText": "10,000",
+   "estimate": false,
+   "note": "Pureflow 개막. 두 회차 모두 발매 당일 매진, 위버스 동시 생중계",
+   "status": "claude"
+  },
+  {
+   "kind": "city",
+   "artist": "몬스타엑스",
+   "label": "KSPO돔 · 서울",
+   "region": "국내",
+   "shows": 3,
+   "attendance": 19129,
+   "attendanceText": "19,129",
+   "estimate": false,
+   "note": "X: NEXUS 개막",
+   "status": "claude"
+  }
+ ],
+ "billboard2025": {
+  "title": "Billboard 2025 연간 K-pop 투어 (집계기간 기준, 투어 총량 아님)",
+  "rows": [
+   {
+    "artist": "Stray Kids",
+    "gross": 185700000.0,
+    "attendance": 1300000.0,
+    "shows": 31
+   },
+   {
+    "artist": "SEVENTEEN",
+    "gross": 142400000.0,
+    "attendance": 964000.0,
+    "shows": 34
+   },
+   {
+    "artist": "j-hope",
+    "gross": 79900000.0,
+    "attendance": 504000.0,
+    "shows": 33
+   },
+   {
+    "artist": "ENHYPEN",
+    "gross": 76100000.0,
+    "attendance": 556000.0,
+    "shows": 25
+   },
+   {
+    "artist": "ATEEZ",
+    "gross": 70000000.0,
+    "attendance": 400000.0,
+    "shows": 28
+   },
+   {
+    "artist": "TOMORROW X TOGETHER",
+    "gross": 64300000.0,
+    "attendance": 485000.0,
+    "shows": 39
+   },
+   {
+    "artist": "Jin",
+    "gross": 46100000.0,
+    "attendance": 287000.0,
+    "shows": 18
+   },
+   {
+    "artist": "LE SSERAFIM",
+    "gross": 34100000.0,
+    "attendance": 237000.0,
+    "shows": 27
+   },
+   {
+    "artist": "G-Dragon",
+    "gross": 27100000.0,
+    "attendance": 117000.0,
+    "shows": 9
+   },
+   {
+    "artist": "aespa",
+    "gross": 18000000.0,
+    "attendance": 138000.0,
+    "shows": 15
+   }
+  ],
+  "sources": [
+   "BB-YE2025"
+  ]
+ },
+ "unresolved": [
+  "BLACKPINK DEADLINE 총관객·총매출: Billboard/Touring Data 미보고(TBA)",
+  "Stray Kids dominATE 인천 앙코르 2회 관객·매출 미보고 (위키 약 6만은 미확인)",
+  "날짜 미정 행: 에버글로우, 원어스, &TEAM, 우즈, 유니스(전체), NCT 위시·피원하모니·라이즈(시작일), 베이비몬스터·아일릿 앙코르·보이넥스트도어·엑소·샤이니·더보이즈·코르티스·지드래곤(종료일)",
+  "BTS ARIRANG: 08-11 기준 $433.2M/38회 + 8월 $171.7M/12회 합과 Wikipedia $637.5M/50회가 정확히 맞지 않음(집계 기간 중복 추정) — 공식 누적치 대기",
+  "RUN IT 투어 전체 회차·관객, 르세라핌 Pureflow 관객(Claude 40만은 추정)",
+  "KATSEYE Wildworld 총 공연 수 미확인",
+  "aespa Parallel Line 최종 관객: 454,000(38/43회) vs 52만(Claude ‘공식’) 충돌",
+  "LE SSERAFIM Pureflow 최종 회차: 34회(트래커) vs 32회(Claude 8/30) vs 36회(Claude 위키 아티팩트) — 교세라돔 2회 추가 반영 여부 미확인"
+ ],
+ "estimateNote": "‘추정 관객’ 열은 Claude 트래커 아티팩트(8/29)의 모델값: ≈ = 공연장 단위·체급 혼합 모델, ~ = 회차까지 가정한 러프 추정(±50%). 공식 집계 아님 — 실집계는 ‘관객’ 열.",
+ "btsMonthly": {
+  "title": "BTS ARIRANG 월간 박스스코어",
+  "status": "partial",
+  "rows": [
+   {
+    "month": "2026-04",
+    "shows": 8,
+    "att": 417000,
+    "gross": 76200000,
+    "rank": "월간 1위",
+    "status": "partial",
+    "sources": [
+     "BB-BTS-APR",
+     "CLAUDE-FC"
+    ]
+   },
+   {
+    "month": "2026-05",
+    "shows": 12,
+    "att": 641000,
+    "gross": 127800000,
+    "rank": "월간 1위",
+    "status": "claude",
+    "sources": [
+     "CLAUDE-FC"
+    ]
+   },
+   {
+    "month": "2026-07",
+    "shows": 8,
+    "att": 582000,
+    "gross": 120500000,
+    "rank": "월간 2위",
+    "status": "claude",
+    "sources": [
+     "CLAUDE-FC"
+    ]
+   },
+   {
+    "month": "2026-08",
+    "shows": 12,
+    "att": 801000,
+    "gross": 171700000,
+    "rank": "월간 박스스코어 역대 2위",
+    "status": "verified",
+    "sources": [
+     "BB-BTS-0930"
+    ]
+   }
+  ],
+  "note": "4·5·7월은 Claude 01 대화가 Billboard 월간 보고를 인용한 값(4월만 링크 확인). 8월은 Billboard 9/30 보고. 권역별 회당 평균(Claude 인용, Outlook Respawn): 미국 58,400명·$12.1M, 아시아 44,500명·$7.1M. 기록(스타뉴스 인용): 보컬 그룹 역대 최고 매출 투어, 아시아 아티스트 최고 매출(Born Pink 경신), 자체 최다 관객(LY:SY 2,019,800명) 경신.",
+  "sources": [
+   "BB-BTS-APR",
+   "BB-BTS-0930",
+   "RESPAWN-BTS",
+   "CL-STARNEWS-BTS",
+   "CLAUDE-FC"
+  ]
+ },
+ "westStatus": {
+  "title": "걸그룹 미주·유럽 투어 현황 (Claude 9/18 기준)",
+  "status": "claude",
+  "sources": [
+   "CLAUDE-FC"
+  ],
+  "columns": [
+   "그룹",
+   "투어",
+   "미주 구간",
+   "유럽 구간",
+   "상태(9/18)"
+  ],
+  "rows": [
+   [
+    "LE SSERAFIM",
+    "PUREFLOW",
+    "9.16~10.8, 9회 (LA·터코마·산호세·피닉스·포트워스·올랜도·시카고·워싱턴DC·뉴어크)",
+    "10.16 런던 → 10.18 암스테르담 → 10.21 파리 → 10.23 코펜하겐 → 10.26 베를린",
+    "미주 진행 중, 유럽 첫 진출"
+   ],
+   [
+    "aespa",
+    "SYNK : COMPLæXITY",
+    "9.15~10.11 (해밀턴·벨몬트파크·워싱턴DC·애틀랜타·마이애미·댈러스·LA·오클랜드·시애틀·밴쿠버)",
+    "2027년 1~2월 (맨체스터·런던·베를린·파리 2027-02-02 폐막)",
+    "미주 진행 중"
+   ],
+   [
+    "KATSEYE",
+    "THE WILDWORLD TOUR",
+    "10.13 마이애미 ~ 11.27–28 멕시코시티",
+    "9.1 더블린 ~ 9.17 코펜하겐 (런던 O2 2회·맨체스터·파리·암스테르담·쾰른·안트베르펜)",
+    "유럽 종료, 미주 대기"
+   ],
+   [
+    "ITZY",
+    "TUNNEL VISION",
+    "미발표",
+    "9.11 런던 → 9.13 암스테르담 → 9.15 파리 → 9.17 프랑크푸르트",
+    "유럽 종료"
+   ],
+   [
+    "TWICE",
+    "THIS IS FOR",
+    "1.9 밴쿠버 ~ 3월, 20개 도시",
+    "5월 ~ 6.3 런던 O2 (리스본·바르셀로나·파리·베를린·쾰른·암스테르담)",
+    "종료 (42개 지역 56회)"
+   ],
+   [
+    "IVE",
+    "SHOW WHAT I AM",
+    "7.21 토론토 ~ 8.9 밴쿠버, 8개 도시",
+    "없음",
+    "미주 종료"
+   ],
+   [
+    "NMIXX",
+    "EPISODE 1: ZERO FRONTIER",
+    "3월 말~4월 (토론토·브루클린·내셔널하버·어빙·오클랜드·LA)",
+    "3월 중순 (마드리드·암스테르담·파리·프랑크푸르트·런던)",
+    "종료"
+   ],
+   [
+    "BABYMONSTER",
+    "춤 (CHOOM)",
+    "추후 발표",
+    "추후 발표",
+    "6.26 서울 개막, 아시아·오세아니아만 확정"
+   ],
+   [
+    "BLACKPINK",
+    "DEADLINE",
+    "Claude: 미주 20개 도시 35회·북미 약 55만 (공식 16도시 33회와 충돌 → 미반영)",
+    "스타드 드 프랑스 등",
+    "2026-01 종료"
+   ]
+  ],
+  "note": "Claude 대화가 ‘9월 중순 4팀 동시 서구권 아레나’ 구간으로 정리. 르세라핌 12/19–20 교세라돔 폐막은 공식 확인됨. KATSEYE는 마농 휴식·소피아 유럽 구간 불참 (Claude 대화 기준)."
+ }
+}
