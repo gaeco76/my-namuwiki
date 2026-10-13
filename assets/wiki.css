@@ -352,3 +352,4 @@ sup.fn a:target,sup.fn a.flash{background:var(--b-p-bg);border-radius:3px}
 /* v2.2: primary_source:false → 2차 출처 표시 */
 .badge.b-s{background:transparent;color:var(--muted,#777);border:1px dashed currentColor;font-weight:500}
 .badge.b-s::before{content:'2°';margin-right:3px;font-size:.85em}
+.wiki-body p,.wiki-body li,.wiki-body dd{overflow-wrap:anywhere}

@@ -13,7 +13,8 @@
     "company": "YG Entertainment",
     "subs": 101000000,
     "weekly": 0,
-    "artist_id": "blackpink"
+    "artist_id": "blackpink",
+    "dataset": "social_youtube"
    },
    {
     "rank": 2,
@@ -24,7 +25,8 @@
     "company": "Big Hit Music",
     "subs": 86100000,
     "weekly": 100000,
-    "artist_id": "bts"
+    "artist_id": "bts",
+    "dataset": "social_youtube"
    },
    {
     "rank": 3,
@@ -35,7 +37,8 @@
     "company": "JYP Entertainment",
     "subs": 25300000,
     "weekly": 0,
-    "artist_id": "stray_kids"
+    "artist_id": "stray_kids",
+    "dataset": "social_youtube"
    },
    {
     "rank": 4,
@@ -46,7 +49,8 @@
     "company": "JYP Entertainment",
     "subs": 19500000,
     "weekly": 0,
-    "artist_id": "twice"
+    "artist_id": "twice",
+    "dataset": "social_youtube"
    },
    {
     "rank": 5,
@@ -57,7 +61,8 @@
     "company": "Pledis Entertainment",
     "subs": 18000000,
     "weekly": 100000,
-    "artist_id": "seventeen"
+    "artist_id": "seventeen",
+    "dataset": "social_youtube"
    },
    {
     "rank": 6,
@@ -68,7 +73,8 @@
     "company": null,
     "subs": 17000000,
     "weekly": 0,
-    "artist_id": "bigbang"
+    "artist_id": "bigbang",
+    "dataset": "social_youtube"
    },
    {
     "rank": 7,
@@ -79,7 +85,8 @@
     "company": "Belift Lab",
     "subs": 14600000,
     "weekly": 100000,
-    "artist_id": "enhypen"
+    "artist_id": "enhypen",
+    "dataset": "social_youtube"
    },
    {
     "rank": 8,
@@ -90,7 +97,8 @@
     "company": "Big Hit Music",
     "subs": 13900000,
     "weekly": 0,
-    "artist_id": "txt"
+    "artist_id": "txt",
+    "dataset": "social_youtube"
    },
    {
     "rank": 9,
@@ -101,7 +109,8 @@
     "company": "YG Entertainment",
     "subs": 13300000,
     "weekly": 100000,
-    "artist_id": "babymonster"
+    "artist_id": "babymonster",
+    "dataset": "social_youtube"
    },
    {
     "rank": 10,
@@ -112,7 +121,8 @@
     "company": "JYP Entertainment",
     "subs": 10000000,
     "weekly": 0,
-    "artist_id": "itzy"
+    "artist_id": "itzy",
+    "dataset": "social_youtube"
    },
    {
     "rank": 11,
@@ -123,7 +133,8 @@
     "company": "SM Entertainment",
     "subs": 9920000,
     "weekly": 0,
-    "artist_id": "exo"
+    "artist_id": "exo",
+    "dataset": "social_youtube"
    },
    {
     "rank": 12,
@@ -134,7 +145,8 @@
     "company": "Cube Entertainment",
     "subs": 9870000,
     "weekly": 10000,
-    "artist_id": "i_dle"
+    "artist_id": "i_dle",
+    "dataset": "social_youtube"
    },
    {
     "rank": 13,
@@ -145,7 +157,8 @@
     "company": "SM Entertainment",
     "subs": 8960000,
     "weekly": 10000,
-    "artist_id": "aespa"
+    "artist_id": "aespa",
+    "dataset": "social_youtube"
    },
    {
     "rank": 14,
@@ -156,7 +169,8 @@
     "company": "Source Music",
     "subs": 8820000,
     "weekly": 40000,
-    "artist_id": "le_sserafim"
+    "artist_id": "le_sserafim",
+    "dataset": "social_youtube"
    },
    {
     "rank": 15,
@@ -167,7 +181,8 @@
     "company": "ADOR",
     "subs": 8680000,
     "weekly": 10000,
-    "artist_id": "newjeans"
+    "artist_id": "newjeans",
+    "dataset": "social_youtube"
    },
    {
     "rank": 16,
@@ -178,7 +193,8 @@
     "company": "YG Entertainment",
     "subs": 8060000,
     "weekly": 0,
-    "artist_id": "treasure"
+    "artist_id": "treasure",
+    "dataset": "social_youtube"
    },
    {
     "rank": 17,
@@ -189,7 +205,8 @@
     "company": "Big Hit Music",
     "subs": 7210000,
     "weekly": 100000,
-    "artist_id": "cortis"
+    "artist_id": "cortis",
+    "dataset": "social_youtube"
    },
    {
     "rank": 18,
@@ -200,7 +217,8 @@
     "company": "SM Entertainment",
     "subs": 7090000,
     "weekly": 0,
-    "artist_id": "nct_dream"
+    "artist_id": "nct_dream",
+    "dataset": "social_youtube"
    },
    {
     "rank": 19,
@@ -211,7 +229,8 @@
     "company": "Belift Lab",
     "subs": 6960000,
     "weekly": 110000,
-    "artist_id": "illit"
+    "artist_id": "illit",
+    "dataset": "social_youtube"
    },
    {
     "rank": 20,
@@ -222,7 +241,8 @@
     "company": "RBW",
     "subs": 6830000,
     "weekly": 0,
-    "artist_id": "mamamoo"
+    "artist_id": "mamamoo",
+    "dataset": "social_youtube"
    },
    {
     "rank": 21,
@@ -233,7 +253,8 @@
     "company": "YG Entertainment",
     "subs": 6070000,
     "weekly": 0,
-    "artist_id": "2ne1"
+    "artist_id": "2ne1",
+    "dataset": "social_youtube"
    },
    {
     "rank": 22,
@@ -244,7 +265,8 @@
     "company": "SM Entertainment",
     "subs": 5660000,
     "weekly": 0,
-    "artist_id": "nct_127"
+    "artist_id": "nct_127",
+    "dataset": "social_youtube"
    },
    {
     "rank": 23,
@@ -255,7 +277,8 @@
     "company": "KQ Entertainment",
     "subs": 5650000,
     "weekly": 30000,
-    "artist_id": "ateez"
+    "artist_id": "ateez",
+    "dataset": "social_youtube"
    },
    {
     "rank": 24,
@@ -266,7 +289,8 @@
     "company": "SM Entertainment",
     "subs": 5610000,
     "weekly": 0,
-    "artist_id": "red_velvet"
+    "artist_id": "red_velvet",
+    "dataset": "social_youtube"
    },
    {
     "rank": 25,
@@ -277,7 +301,8 @@
     "company": "Starship Entertainment",
     "subs": 5270000,
     "weekly": 10000,
-    "artist_id": "ive"
+    "artist_id": "ive",
+    "dataset": "social_youtube"
    },
    {
     "rank": 26,
@@ -288,7 +313,8 @@
     "company": "JYP Entertainment",
     "subs": 4780000,
     "weekly": 10000,
-    "artist_id": "nmixx"
+    "artist_id": "nmixx",
+    "dataset": "social_youtube"
    },
    {
     "rank": 27,
@@ -299,7 +325,8 @@
     "company": "SM Entertainment",
     "subs": 4130000,
     "weekly": 60000,
-    "artist_id": "hearts2hearts"
+    "artist_id": "hearts2hearts",
+    "dataset": "social_youtube"
    },
    {
     "rank": 28,
@@ -310,7 +337,8 @@
     "company": "SM Entertainment",
     "subs": 3060000,
     "weekly": 10000,
-    "artist_id": "girls_generation"
+    "artist_id": "girls_generation",
+    "dataset": "social_youtube"
    },
    {
     "rank": 29,
@@ -321,7 +349,8 @@
     "company": "MODHAUS",
     "subs": 2960000,
     "weekly": 0,
-    "artist_id": "triples"
+    "artist_id": "triples",
+    "dataset": "social_youtube"
    },
    {
     "rank": 30,
@@ -332,7 +361,8 @@
     "company": "SM Entertainment",
     "subs": 2640000,
     "weekly": 0,
-    "artist_id": "shinee"
+    "artist_id": "shinee",
+    "dataset": "social_youtube"
    },
    {
     "rank": 31,
@@ -343,7 +373,8 @@
     "company": "Starship Entertainment",
     "subs": 2620000,
     "weekly": 0,
-    "artist_id": "monsta_x"
+    "artist_id": "monsta_x",
+    "dataset": "social_youtube"
    },
    {
     "rank": 32,
@@ -354,7 +385,8 @@
     "company": "WAKEONE",
     "subs": 2530000,
     "weekly": 0,
-    "artist_id": "kep1er"
+    "artist_id": "kep1er",
+    "dataset": "social_youtube"
    },
    {
     "rank": 33,
@@ -365,7 +397,8 @@
     "company": "KOZ Entertainment",
     "subs": 2510000,
     "weekly": 10000,
-    "artist_id": "boynextdoor"
+    "artist_id": "boynextdoor",
+    "dataset": "social_youtube"
    },
    {
     "rank": 34,
@@ -376,7 +409,8 @@
     "company": "Pledis Entertainment",
     "subs": 2280000,
     "weekly": 20000,
-    "artist_id": "tws"
+    "artist_id": "tws",
+    "dataset": "social_youtube"
    },
    {
     "rank": 35,
@@ -387,7 +421,8 @@
     "company": "SM Entertainment",
     "subs": 2170000,
     "weekly": 10000,
-    "artist_id": "riize"
+    "artist_id": "riize",
+    "dataset": "social_youtube"
    },
    {
     "rank": 36,
@@ -398,7 +433,8 @@
     "company": "S2 Entertainment",
     "subs": 2150000,
     "weekly": 0,
-    "artist_id": "kiss_of_life"
+    "artist_id": "kiss_of_life",
+    "dataset": "social_youtube"
    },
    {
     "rank": 37,
@@ -409,7 +445,8 @@
     "company": "WAKEONE",
     "subs": 2120000,
     "weekly": 0,
-    "artist_id": "zerobaseone"
+    "artist_id": "zerobaseone",
+    "dataset": "social_youtube"
    },
    {
     "rank": 38,
@@ -420,7 +457,8 @@
     "company": "WAKEONE",
     "subs": 2050000,
     "weekly": 0,
-    "artist_id": "izna"
+    "artist_id": "izna",
+    "dataset": "social_youtube"
    },
    {
     "rank": 39,
@@ -431,7 +469,8 @@
     "company": "MORE VISION",
     "subs": 2030000,
     "weekly": 10000,
-    "artist_id": "lngshot"
+    "artist_id": "lngshot",
+    "dataset": "social_youtube"
    },
    {
     "rank": 40,
@@ -442,7 +481,8 @@
     "company": "High Up Entertainment",
     "subs": 1860000,
     "weekly": 0,
-    "artist_id": "stayc"
+    "artist_id": "stayc",
+    "dataset": "social_youtube"
    },
    {
     "rank": 41,
@@ -453,7 +493,8 @@
     "company": "Dreamcatcher Company",
     "subs": 1780000,
     "weekly": 0,
-    "artist_id": "dreamcatcher"
+    "artist_id": "dreamcatcher",
+    "dataset": "social_youtube"
    },
    {
     "rank": 42,
@@ -464,7 +505,8 @@
     "company": "FNC Entertainment",
     "subs": 1770000,
     "weekly": 0,
-    "artist_id": "p1harmony"
+    "artist_id": "p1harmony",
+    "dataset": "social_youtube"
    },
    {
     "rank": 43,
@@ -475,7 +517,8 @@
     "company": "YX LABELS",
     "subs": 1690000,
     "weekly": 20000,
-    "artist_id": "andteam"
+    "artist_id": "andteam",
+    "dataset": "social_youtube"
    },
    {
     "rank": 44,
@@ -486,7 +529,8 @@
     "company": "The Black Label",
     "subs": 1630000,
     "weekly": 10000,
-    "artist_id": "meovv"
+    "artist_id": "meovv",
+    "dataset": "social_youtube"
    },
    {
     "rank": 45,
@@ -497,7 +541,8 @@
     "company": "B.Wave Entertainment",
     "subs": 1590000,
     "weekly": 0,
-    "artist_id": "oneus"
+    "artist_id": "oneus",
+    "dataset": "social_youtube"
    },
    {
     "rank": 46,
@@ -508,7 +553,8 @@
     "company": "SM Entertainment",
     "subs": 1560000,
     "weekly": 10000,
-    "artist_id": "nct_wish"
+    "artist_id": "nct_wish",
+    "dataset": "social_youtube"
    },
    {
     "rank": 47,
@@ -519,7 +565,8 @@
     "company": "The Muze Entertainment",
     "subs": 1250000,
     "weekly": 30000,
-    "artist_id": "rescene"
+    "artist_id": "rescene",
+    "dataset": "social_youtube"
    },
    {
     "rank": 48,
@@ -530,7 +577,8 @@
     "company": "StrangeLab",
     "subs": 1230000,
     "weekly": 0,
-    "artist_id": "xlov"
+    "artist_id": "xlov",
+    "dataset": "social_youtube"
    },
    {
     "rank": 49,
@@ -541,7 +589,8 @@
     "company": "The Black Label",
     "subs": 1180000,
     "weekly": 20000,
-    "artist_id": "allday_project"
+    "artist_id": "allday_project",
+    "dataset": "social_youtube"
    },
    {
     "rank": 50,
@@ -552,7 +601,8 @@
     "company": "JYP Entertainment",
     "subs": 1120000,
     "weekly": 0,
-    "artist_id": "wonder_girls"
+    "artist_id": "wonder_girls",
+    "dataset": "social_youtube"
    },
    {
     "rank": 51,
@@ -563,7 +613,8 @@
     "company": "DSP Media",
     "subs": 1050000,
     "weekly": 0,
-    "artist_id": "oh_my_girl"
+    "artist_id": "oh_my_girl",
+    "dataset": "social_youtube"
    },
    {
     "rank": 52,
@@ -574,7 +625,8 @@
     "company": "ABD",
     "subs": 980000,
     "weekly": 104000,
-    "artist_id": "tuide"
+    "artist_id": "tuide",
+    "dataset": "social_youtube"
    },
    {
     "rank": 53,
@@ -585,7 +637,8 @@
     "company": "High Up Entertainment",
     "subs": 950000,
     "weekly": null,
-    "artist_id": "unchild"
+    "artist_id": "unchild",
+    "dataset": "social_youtube"
    },
    {
     "rank": 54,
@@ -596,7 +649,8 @@
     "company": "MODHAUS",
     "subs": 865000,
     "weekly": 1000,
-    "artist_id": "idntt"
+    "artist_id": "idntt",
+    "dataset": "social_youtube"
    },
    {
     "rank": 55,
@@ -607,7 +661,8 @@
     "company": "WAKEONE",
     "subs": 795000,
     "weekly": 7000,
-    "artist_id": "alpha_drive_one"
+    "artist_id": "alpha_drive_one",
+    "dataset": "social_youtube"
    },
    {
     "rank": 56,
@@ -618,7 +673,8 @@
     "company": "UNCORE",
     "subs": 731000,
     "weekly": 3000,
-    "artist_id": "close_your_eyes"
+    "artist_id": "close_your_eyes",
+    "dataset": "social_youtube"
    },
    {
     "rank": 57,
@@ -629,7 +685,8 @@
     "company": "Starship Entertainment",
     "subs": 715000,
     "weekly": 15000,
-    "artist_id": "kiiikiii"
+    "artist_id": "kiiikiii",
+    "dataset": "social_youtube"
    },
    {
     "rank": 58,
@@ -640,7 +697,8 @@
     "company": "JYP Entertainment",
     "subs": 711000,
     "weekly": 6000,
-    "artist_id": "kickflip"
+    "artist_id": "kickflip",
+    "dataset": "social_youtube"
    },
    {
     "rank": 59,
@@ -651,7 +709,8 @@
     "company": null,
     "subs": 704000,
     "weekly": 1000,
-    "artist_id": "kara"
+    "artist_id": "kara",
+    "dataset": "social_youtube"
    },
    {
     "rank": 60,
@@ -662,7 +721,8 @@
     "company": "RBW",
     "subs": 697000,
     "weekly": 0,
-    "artist_id": "purple_kiss"
+    "artist_id": "purple_kiss",
+    "dataset": "social_youtube"
    },
    {
     "rank": 61,
@@ -673,7 +733,8 @@
     "company": "F&F Entertainment",
     "subs": 639000,
     "weekly": 1000,
-    "artist_id": "ahof"
+    "artist_id": "ahof",
+    "dataset": "social_youtube"
    },
    {
     "rank": 62,
@@ -684,7 +745,8 @@
     "company": "P NATION",
     "subs": 636000,
     "weekly": 0,
-    "artist_id": "baby_dont_cry"
+    "artist_id": "baby_dont_cry",
+    "dataset": "social_youtube"
    },
    {
     "rank": 63,
@@ -695,7 +757,8 @@
     "company": "Great M Entertainment",
     "subs": 576000,
     "weekly": 2000,
-    "artist_id": "82major"
+    "artist_id": "82major",
+    "dataset": "social_youtube"
    },
    {
     "rank": 64,
@@ -706,7 +769,8 @@
     "company": "ASND Entertainment",
     "subs": 367000,
     "weekly": 2000,
-    "artist_id": "fromis_9"
+    "artist_id": "fromis_9",
+    "dataset": "social_youtube"
    },
    {
     "rank": 65,
@@ -717,7 +781,8 @@
     "company": null,
     "subs": 213000,
     "weekly": 1000,
-    "artist_id": "the_boyz"
+    "artist_id": "the_boyz",
+    "dataset": "social_youtube"
    },
    {
     "rank": 66,
@@ -728,7 +793,8 @@
     "company": "Innit Entertainment",
     "subs": 162000,
     "weekly": 3000,
-    "artist_id": "ourbirthday"
+    "artist_id": "ourbirthday",
+    "dataset": "social_youtube"
    }
   ],
   "status": "verified",
@@ -807,7 +873,8 @@
     "source_ids": [
      "LIVECOUNTS-LJ",
      "CFB-LISA"
-    ]
+    ],
+    "dataset": "social_instagram"
    },
    {
     "member": "제니 (JENNIE)",
@@ -826,7 +893,8 @@
     "source_ids": [
      "LIVECOUNTS-LJ",
      "CFB-JENNIE"
-    ]
+    ],
+    "dataset": "social_instagram"
    },
    {
     "member": "로제 (ROSÉ)",
@@ -843,7 +911,8 @@
     "collected_at": "2026-10-04",
     "source_ids": [
      "KPOPBEEN-IG"
-    ]
+    ],
+    "dataset": "social_instagram"
    },
    {
     "member": "지수 (JISOO)",
@@ -860,7 +929,8 @@
     "collected_at": "2026-10-04",
     "source_ids": [
      "KPOPBEEN-IG"
-    ]
+    ],
+    "dataset": "social_instagram"
    }
   ],
   "notes": [

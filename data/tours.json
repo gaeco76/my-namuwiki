@@ -23,7 +23,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Coldplay",
@@ -47,7 +48,8 @@
     "WIKI-GROSS",
     "WIKI-ATT",
     "POLLSTAR-WEEKND"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "The Weeknd",
@@ -69,7 +71,8 @@
    "source_ids": [
     "POLLSTAR-WEEKND",
     "BB-BTS-0930"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Elton John",
@@ -93,7 +96,8 @@
     "WIKI-GROSS",
     "BB-ELTON",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Ed Sheeran",
@@ -116,7 +120,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Ed Sheeran",
@@ -139,7 +144,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "U2",
@@ -162,7 +168,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Bruce Springsteen & E Street Band",
@@ -185,7 +192,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Metallica",
@@ -208,7 +216,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "BTS",
@@ -236,7 +245,8 @@
     "SBS-BTS",
     "EDAILY-BTS",
     "CL-STARNEWS-BTS"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Harry Styles",
@@ -259,7 +269,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "P!nk",
@@ -282,7 +293,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Guns N' Roses",
@@ -305,7 +317,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Beyoncé",
@@ -327,7 +340,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "BB-RENAISSANCE"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Rammstein",
@@ -350,7 +364,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "The Rolling Stones",
@@ -373,7 +388,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "The Rolling Stones",
@@ -394,7 +410,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "WIKI-GROSS"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Coldplay",
@@ -417,7 +434,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Shakira",
@@ -438,7 +456,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "WIKI-GROSS"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Zach Bryan",
@@ -459,7 +478,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "WIKI-GROSS"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Bad Bunny",
@@ -479,7 +499,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "BB-BADBUNNY"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Roger Waters",
@@ -502,7 +523,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "AC/DC",
@@ -524,7 +546,8 @@
    "source_ids": [
     "ALPER-0701",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Metallica",
@@ -547,7 +570,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Madonna",
@@ -570,7 +594,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Beyoncé",
@@ -592,7 +617,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "BB-COWBOY"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "U2",
@@ -615,7 +641,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "The Police",
@@ -638,7 +665,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "The Rolling Stones",
@@ -661,7 +689,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "One Direction",
@@ -684,7 +713,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Bon Jovi",
@@ -707,7 +737,8 @@
    "source_ids": [
     "WIKI-GROSS",
     "WIKI-ATT"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "Stray Kids",
@@ -735,7 +766,8 @@
     "CL-BB-SKZ",
     "ASIAE-SKZ",
     "JAD-SKZ"
-   ]
+   ],
+   "dataset": "boxscore"
   },
   {
    "artist": "BLACKPINK",
@@ -759,7 +791,8 @@
    "source_ids": [
     "HERALD-BP10",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "boxscore"
   }
  ],
  "milestones": [

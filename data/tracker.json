@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-04",
+ "asOf": "2026-10-14",
  "claudeCut": "2026-08-29",
  "intro": "사용자의 Claude 리서치 ‘K-POP 해외투어 트래커’(2025.01–2027.06, 검증본 2026-08-29)를 병합하고 2026-10-04에 일부 재검증.",
  "tours": [
@@ -49,7 +49,8 @@
     "CL-BB-SKZ",
     "CL-KH-SKZ",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "블랙핑크",
@@ -98,7 +99,8 @@
     "TD-BP-DEADLINE",
     "CLAUDE-TRACKER",
     "CLAUDE-CHATS-1"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "세븐틴",
@@ -137,7 +139,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "세븐틴",
@@ -182,7 +185,8 @@
     "CL-YNA-SVT",
     "CLAUDE-TRACKER",
     "BB-YE2025"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "아이브",
@@ -224,7 +228,8 @@
    "source_ids": [
     "CLAUDE-TRACKER",
     "CLAUDE-CHATS-1"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "베이비몬스터",
@@ -263,7 +268,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "르세라핌",
@@ -310,7 +316,8 @@
     "TD-LSF-ECH",
     "SINA-LSF-ECH",
     "CLAUDE-CHATS-1"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "에스파",
@@ -350,7 +357,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "NCT 드림",
@@ -390,7 +398,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "투모로우바이투게더",
@@ -429,7 +438,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "투모로우바이투게더",
@@ -476,7 +486,8 @@
     "TD-TXT-ACT",
     "AKP-TXT-ACT",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "에이티즈",
@@ -522,7 +533,8 @@
     "KQ-ATEEZ",
     "BB-YE2025",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "엔하이픈",
@@ -569,7 +581,8 @@
     "WEVERSE-ENH-WTL-GOYANG",
     "WEVERSE-ENH-WTL-FINAL",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "지드래곤",
@@ -608,7 +621,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "제이홉",
@@ -647,7 +661,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "데이식스",
@@ -691,7 +706,8 @@
     "NME-DAY6",
     "SOOMPI-DAY6",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "라이즈",
@@ -731,7 +747,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "엔믹스",
@@ -773,7 +790,8 @@
    "source_ids": [
     "LN-NMIXX",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "있지",
@@ -819,7 +837,8 @@
     "KH-ITZY2",
     "SOOMPI-ITZY",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "스테이씨",
@@ -863,7 +882,8 @@
     "SOOMPI-STAYC",
     "SN-STAYC",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "BTS",
@@ -920,7 +940,8 @@
     "WIKI-ARIRANG",
     "CLAUDE-CHATS-1",
     "TD-BTS"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "빅뱅",
@@ -960,7 +981,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "에스파",
@@ -1002,7 +1024,8 @@
    "source_ids": [
     "CLAUDE-TRACKER",
     "CLAUDE-CHATS-1"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "스트레이 키즈",
@@ -1045,7 +1068,8 @@
    "source_ids": [
     "CL-KH-SKZ",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "베이비몬스터",
@@ -1085,7 +1109,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "르세라핌",
@@ -1135,7 +1160,14 @@
     "WIKI-PUREFLOW",
     "CLAUDE-CHATS-1",
     "LSF-JP-KYOCERA"
-   ]
+   ],
+   "dataset": "tracker_tours",
+   "estimate_basis": {
+    "shows": 34,
+    "confirmed_shows": 36,
+    "model": "Claude 8/29 트래커 모델",
+    "scaled_to_confirmed": false
+   }
   },
   {
    "artist": "트와이스",
@@ -1174,7 +1206,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "투모로우바이투게더",
@@ -1182,7 +1215,7 @@
    "start": "2026-11-13",
    "end": "2027-06-20",
    "yearHint": "2026–2027",
-   "shows": 32,
+   "shows": 33,
    "cities": 23,
    "region": "아시아·북미·유럽",
    "tier": "아레나·돔",
@@ -1201,25 +1234,35 @@
     "name": "Weverse",
     "url": "https://weverse.io/"
    },
-   "note": "발표 32회·23개 도시(2026-08-27), 추가 도시 발표 예정. 도쿄돔 2027-01-07~08.",
-   "changes": "2026-10-04 하이브 리서치: 발표 일정 반영",
+   "note": "발표 32회·23개 도시(2026-08-27), 추가 도시 발표 예정. 도쿄돔 2027-01-07~08. 2026-10-14: 마카오 3회(11/20–22)로 33회.",
+   "changes": "2026-10-04 하이브 리서치: 발표 일정 반영 / 2026-10-14: 마카오 11/20 추가로 32→33회",
    "estimate": 472000,
-   "estimateText": "≈ 47만",
+   "estimateText": "≈ 47만 (Claude 모델 추정 · 32회 가정)",
    "artist_id": "txt",
    "grade": "부분",
    "source_url": [
     "https://weverse.io/txt/notice/38684",
-    "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/"
+    "https://consequence.net/2026/08/tomorrow-x-together-2026-2027-steal-the-wind-world-tour-dates/",
+    "https://en.fannstar.tf.co.kr/fnnews/read/355672",
+    "https://ime.co/blog/tour/tomorrow-x-together-world-tour-in-macau-2/"
    ],
    "source_note": [
     "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
    ],
-   "collected_at": "2026-10-04",
+   "collected_at": "2026-10-14",
    "source_ids": [
     "WEVERSE-TXT-STW",
     "CONSEQ-TXT-STW",
-    "CLAUDE-TRACKER"
-   ]
+    "CLAUDE-TRACKER",
+    "FANN-TXT-MACAU",
+    "IME-TXT-MACAU"
+   ],
+   "dataset": "tracker_tours",
+   "estimate_basis": {
+    "shows": 32,
+    "model": "Claude 8/29 트래커 모델",
+    "scaled_to_confirmed": false
+   }
   },
   {
    "artist": "엔하이픈",
@@ -1246,7 +1289,7 @@
     "name": "Ticketmaster",
     "url": "https://www.ticketmaster.com/"
    },
-   "note": "범위 표기 — 225,250 = 서울 KSPO 3회 32,250(BELIFT·Korea Herald) + 미주 12회 193,000(BELIFT). 서울만은 32,250. 07탭/Claude 서울값 32,280은 1차 출처 아님(1차 32,250으로 교체). 종료 2027-03-09 런던 O2. 총 35회(공식 투어 사이트·위키 집계, 부분). 2026-10-05 기준 완료 17·잔여 18.",
+   "note": "범위 표기 — 225,250 = 서울 KSPO 3회 32,250(BELIFT·Korea Herald) + 미주 12회 193,000(BELIFT). 서울만은 32,250. 07탭/Claude 서울값 32,280은 1차 출처 아님(1차 32,250으로 교체). 종료 2027-03-09 런던 O2. 총 35회(공식 투어 사이트·위키 집계, 부분). 2026-10-05 기준 완료 17·잔여 18. 마카오 10/16–18 3회(Galaxy 공식).",
    "changes": "2026-10-04 하이브 리서치: 종료일 2026-08-31 → 2027-03(유럽, 일자 미정), 미주 관객 반영 / 2026-10-05: 종료일 2027-03-09(런던 O2), 서울 관객 1차값 32,250으로 교체(합계 225,280→225,250)",
    "estimate": 176000,
    "estimateText": "≈ 18만",
@@ -1258,7 +1301,8 @@
     "https://www.enhypenbloodsagatour.com/",
     "https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances",
     "https://k-hallyu.com/articles/enhypen-conclude-americas-leg-of-blood-saga-tour-attracting-193000-fans",
-    "https://www.koreaherald.com/article/10730310"
+    "https://www.koreaherald.com/article/10730310",
+    "https://www.galaxymacau.com/offers/entertainment/enhypen-world-tour-blood-saga-macau/"
    ],
    "source_note": [
     "Claude 리서치 기준 — K-POP 해외투어 트래커 검증본 (2026-08-29, 사용자 제공)"
@@ -1271,8 +1315,10 @@
     "WIKI-ENH-LIVE",
     "KH2-ENH-AM",
     "KH-ENH-BS",
-    "CLAUDE-TRACKER"
-   ]
+    "CLAUDE-TRACKER",
+    "GALAXY-ENH-MACAU"
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "아일릿",
@@ -1311,7 +1357,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "아일릿",
@@ -1355,7 +1402,8 @@
     "PRT-ILLIT-ENC",
     "WEVERSE-ILLIT-ENC",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "아이들",
@@ -1397,7 +1445,8 @@
    "source_ids": [
     "CL-KH-IDLE",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "캣츠아이",
@@ -1449,7 +1498,8 @@
     "LN-KATSEYE",
     "CONSEQ-KATSEYE",
     "CLAUDE-CHATS-1"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "몬스타엑스",
@@ -1488,7 +1538,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "마마무",
@@ -1527,7 +1578,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "XG",
@@ -1566,7 +1618,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "리사",
@@ -1605,7 +1658,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "제로베이스원",
@@ -1644,7 +1698,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "플레이브",
@@ -1683,7 +1738,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "보이넥스트도어",
@@ -1734,7 +1790,8 @@
     "CHOSUN-BND",
     "AKP-BND-BB",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "보이넥스트도어",
@@ -1773,7 +1830,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "키스오브라이프",
@@ -1812,7 +1870,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "NCT 위시",
@@ -1852,7 +1911,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "엑소",
@@ -1891,7 +1951,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "샤이니",
@@ -1930,7 +1991,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "더보이즈",
@@ -1969,7 +2031,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "데이식스",
@@ -2008,7 +2071,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "피원하모니",
@@ -2048,7 +2112,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "트레저",
@@ -2093,7 +2158,8 @@
     "YGEX-TREASURE",
     "YG-TREASURE",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "TWS",
@@ -2140,7 +2206,8 @@
     "HYBEJP-TWS",
     "WEVERSE-TWS-MACAU",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "TWS",
@@ -2178,7 +2245,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "WEVERSE-TWS-FORYOU"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "코르티스",
@@ -2222,7 +2290,8 @@
     "WEVERSE-CORTIS",
     "STARNEWS-CORTIS",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "에버글로우",
@@ -2261,7 +2330,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "원어스",
@@ -2300,7 +2370,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "&TEAM",
@@ -2344,7 +2415,8 @@
     "PRT-TEAM",
     "CHOSUN-TEAM",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "이즈나",
@@ -2389,7 +2461,8 @@
     "SOOMPI-IZNA",
     "IZNA-JP",
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "우즈",
@@ -2428,7 +2501,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   },
   {
    "artist": "유니스",
@@ -2467,7 +2541,8 @@
    "collected_at": "2026-10-04",
    "source_ids": [
     "CLAUDE-TRACKER"
-   ]
+   ],
+   "dataset": "tracker_tours"
   }
  ],
  "records": [
@@ -2496,7 +2571,8 @@
     "CLAUDE-07",
     "BB-BTS-0930",
     "CLAUDE-FC"
-   ]
+   ],
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2521,7 +2597,8 @@
     "TD-SKZ",
     "ASIAE-SKZ",
     "JAD-SKZ"
-   ]
+   ],
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2544,7 +2621,8 @@
    "source_ids": [
     "CL-CHOSUN-BP",
     "HERALD-BP10"
-   ]
+   ],
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2560,7 +2638,8 @@
    "artist_id": "blackpink",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2576,7 +2655,8 @@
    "artist_id": "bts",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2592,7 +2672,8 @@
    "artist_id": "seventeen",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2621,7 +2702,8 @@
     "BB-YE2025",
     "WIKI-AESPA-PL",
     "KOWIKI-AESPA-PL"
-   ]
+   ],
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2637,7 +2719,8 @@
    "artist_id": "ive",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2653,7 +2736,8 @@
    "artist_id": "stray_kids",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2687,7 +2771,15 @@
     "https://www.le-sserafim.jp/news/0fbf87ba1d6c",
     "https://en.wikipedia.org/wiki/Pureflow_Tour"
    ],
-   "attendance_basis_shows": 34
+   "attendance_basis_shows": 34,
+   "dataset": "tracker_records",
+   "estimate_basis": {
+    "shows": 34,
+    "confirmed_shows": 36,
+    "model": "Claude 8/30 비교표 모델",
+    "per_show_assumption": "아레나 회당 약 1.2만 명 (Claude 가정)",
+    "scaled_to_confirmed": false
+   }
   },
   {
    "kind": "tour",
@@ -2703,7 +2795,8 @@
    "artist_id": "babymonster",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "tour",
@@ -2719,7 +2812,8 @@
    "artist_id": "le_sserafim",
    "grade": "미확",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2735,7 +2829,8 @@
    "artist_id": "bts",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2751,7 +2846,8 @@
    "artist_id": "bts",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2767,7 +2863,8 @@
    "artist_id": "stray_kids",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2783,7 +2880,8 @@
    "artist_id": "bts",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2799,7 +2897,8 @@
    "artist_id": "bts",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2815,7 +2914,8 @@
    "artist_id": "bts",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2831,7 +2931,8 @@
    "artist_id": "stray_kids",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2847,7 +2948,8 @@
    "artist_id": "stray_kids",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2863,7 +2965,8 @@
    "artist_id": "blackpink",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2879,7 +2982,8 @@
    "artist_id": "le_sserafim",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2895,7 +2999,8 @@
    "artist_id": "blackpink",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2911,7 +3016,8 @@
    "artist_id": "seventeen",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2927,7 +3033,8 @@
    "artist_id": "stray_kids",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2943,7 +3050,8 @@
    "artist_id": "stray_kids",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2959,7 +3067,8 @@
    "artist_id": "blackpink",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2975,7 +3084,8 @@
    "artist_id": "day6",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -2991,7 +3101,8 @@
    "artist_id": "seventeen",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3007,7 +3118,8 @@
    "artist_id": "zerobaseone",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3023,7 +3135,8 @@
    "artist_id": "ive",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3039,7 +3152,8 @@
    "artist_id": "nct_wish",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3060,7 +3174,8 @@
    "collected_at": "2026-10-05",
    "source_ids": [
     "KH-ENH-BS"
-   ]
+   ],
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3076,7 +3191,8 @@
    "artist_id": "riize",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3092,7 +3208,8 @@
    "artist_id": "exo",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3108,7 +3225,8 @@
    "artist_id": "shinee",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3129,7 +3247,8 @@
    "collected_at": "2026-10-05",
    "source_ids": [
     "CHOSUN-BND"
-   ]
+   ],
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3145,7 +3264,8 @@
    "artist_id": "seventeen_cxm",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3161,7 +3281,8 @@
    "artist_id": "the_boyz",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3177,7 +3298,8 @@
    "artist_id": "day6",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3193,7 +3315,8 @@
    "artist_id": "p1harmony",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3209,7 +3332,8 @@
    "artist_id": "le_sserafim",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   },
   {
    "kind": "city",
@@ -3225,7 +3349,8 @@
    "artist_id": "monsta_x",
    "grade": "추정",
    "source_url": [],
-   "collected_at": "2026-10-04"
+   "collected_at": "2026-10-04",
+   "dataset": "tracker_records"
   }
  ],
  "billboard2025": {
@@ -3310,7 +3435,8 @@
   "collected_at": "2026-10-05",
   "source_ids": [
    "BB-YE2025"
-  ]
+  ],
+  "dataset": "billboard_2025"
  },
  "unresolved": [
   "BLACKPINK DEADLINE 총관객·총매출: Billboard/Touring Data 미보고(TBA)",
@@ -3318,7 +3444,10 @@
   "날짜 미정 행: 에버글로우, 원어스, &TEAM, 우즈, 유니스(전체), NCT 위시·피원하모니·라이즈(시작일), 베이비몬스터·아일릿 앙코르·보이넥스트도어·엑소·샤이니·더보이즈·코르티스·지드래곤(종료일)",
   "BTS ARIRANG: 08-11 기준 $433.2M/38회 + 8월 $171.7M/12회 합과 Wikipedia $637.5M/50회가 정확히 맞지 않음(집계 기간 중복 추정) — 공식 누적치 대기",
   "RUN IT 투어 전체 회차·관객, 르세라핌 Pureflow 관객(Claude 40만은 추정)",
-  "aespa Parallel Line 총관객: 1차 집계 없음(위키 454,000·52만 모두 비1차) → 미확인 유지"
+  "aespa Parallel Line 총관객: 1차 집계 없음(위키 454,000·52만 모두 비1차) → 미확인 유지",
+  "ENHYPEN BLOOD SAGA 총 35회에 마카오 3회(10/16–18)가 모두 포함됐는지 미확인(2026-10-14)",
+  "LE SSERAFIM PUREFLOW 북미: Stereoboard는 14회(도시별 2회) 표기 — 공식·위키는 9회. 마스터 9회(36회) 유지",
+  "BTS ARIRANG 리마 151,500명은 2차 보도 — Billboard 보고 대기"
  ],
  "estimateNote": "‘추정 관객’ 열은 Claude 트래커 아티팩트(8/29)의 모델값: ≈ = 공연장 단위·체급 혼합 모델, ~ = 회차까지 가정한 러프 추정(±50%). 공식 집계 아님 — 실집계는 ‘관객’ 열.",
  "btsMonthly": {
@@ -3417,7 +3546,8 @@
    "RESPAWN-BTS",
    "CL-STARNEWS-BTS",
    "CLAUDE-FC"
-  ]
+  ],
+  "dataset": "bts_monthly"
  },
  "westStatus": {
   "title": "걸그룹 미주·유럽 투어 현황 (Claude 9/18 기준)",

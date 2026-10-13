@@ -742,5 +742,45 @@
  "SIDAE-HYBE-3Q25": {
   "title": "시대일보 — 하이브 2025년 3분기 공연 매출 2,450억 (2025-11-10)",
   "url": "https://www.sidae.com/article/2025111016220344000"
+ },
+ "KTRENZ-BTS-LIMA": {
+  "title": "KTRENZ — BTS ARIRANG 리마 3회 151,500명 (2026-10)",
+  "url": "https://ktrenz.com/article/2026/10/bts-arirang-tour-500-million-lima-peru-151500"
+ },
+ "FANN-TXT-MACAU": {
+  "title": "팬앤스타 — TXT 마카오 매진, 11/20 추가 공연 확정",
+  "url": "https://en.fannstar.tf.co.kr/fnnews/read/355672"
+ },
+ "IME-TXT-MACAU": {
+  "title": "iMe(프로모터) — TXT STEAL THE WIND IN MACAU 11/20·21·22",
+  "url": "https://ime.co/blog/tour/tomorrow-x-together-world-tour-in-macau-2/"
+ },
+ "KD-TXT-SEOUL": {
+  "title": "Korea Daily — TXT 서울 3회 매진·마카오 3회·9th 미니 PERFECT STORM 11/16 (2026-10-07)",
+  "url": "https://en.koreadaily.com/tomorrow-x-together-sells-out-seoul-macao-shows/"
+ },
+ "GALAXY-ENH-MACAU": {
+  "title": "Galaxy Macau — ENHYPEN BLOOD SAGA IN MACAU 10/16–18 (3회, 추가 공연 포함)",
+  "url": "https://www.galaxymacau.com/offers/entertainment/enhypen-world-tour-blood-saga-macau/"
+ },
+ "PRT-MAMA-L1": {
+  "title": "CJ ENM Japan(PR TIMES) — 2026 MAMA AWARDS 1차 퍼포밍 아티스트 (2026-10-13)",
+  "url": "https://prtimes.jp/main/html/rd/p/000001633.000003711.html"
+ },
+ "ASIAE-MAMA-L1": {
+  "title": "아시아경제 — MAMA 1차 라인업 12팀·MAMA FAN FESTA 11/9–21 (2026-10-13)",
+  "url": "https://www.asiae.co.kr/en/article/2026101310115505019"
+ },
+ "KPW-MAMA-NOM": {
+  "title": "kpopwise — 2026 MAMA 후보 발표(10/12)·팬투표 1차 10/22까지",
+  "url": "https://www.kpopwise.com/2026/10/2026-mama-awards-reveals-initial.html"
+ },
+ "KAKAO-MMA-L2": {
+  "title": "카카오엔터 뉴스룸 — MMA2026 라인업 (NCT 127·ATEEZ·TWS·ILLIT·Hearts2Hearts·YENA·RESCENE 등, 2026-09-30)",
+  "url": "https://newsroom.kakaoent.com/news/mma2026-brings-k-pops-biggest-names-to-stage/"
+ },
+ "BB-BOX-0930": {
+  "title": "Billboard — BTS & The Weeknd Break Records on Monthly Boxscore Report (8월 Top Tours)",
+  "url": "https://www.billboard.com/pro/bts-the-weeknd-monthly-boxscore-report/"
  }
 }
