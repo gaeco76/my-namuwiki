@@ -1,0 +1,82 @@
+{
+ "source": "Pollstar 2026 Asia Focus (2026-10-07)",
+ "rows": [
+  {
+   "artist": "SEVENTEEN",
+   "rank": 1,
+   "gross": 97394004,
+   "tickets": 661088,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가. 본문에 $97,394,005로도 1회 표기(1달러 차) — 사진 설명 값 채택.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  },
+  {
+   "artist": "TWICE",
+   "rank": 2,
+   "gross": 76176781,
+   "tickets": null,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  },
+  {
+   "artist": "TOMORROW X TOGETHER",
+   "rank": 3,
+   "gross": 53035381,
+   "tickets": null,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  },
+  {
+   "artist": "BTS (ARIRANG 아시아 공연분)",
+   "rank": 4,
+   "gross": 49069994,
+   "tickets": null,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  },
+  {
+   "artist": "BLACKPINK",
+   "rank": 8,
+   "gross": 29193966,
+   "tickets": null,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  },
+  {
+   "artist": "ENHYPEN",
+   "rank": 9,
+   "gross": 21562532,
+   "tickets": null,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  },
+  {
+   "artist": "LE SSERAFIM",
+   "rank": 13,
+   "gross": 14068473,
+   "tickets": null,
+   "note": "Pollstar 2026 Asia Focus Top Touring Artists(아시아 지역 공연만). 집계 기간 기사 미명시 — 투어 전체·Billboard 수치와 비교 불가.",
+   "status": "verified",
+   "source_ids": [
+    "POLLSTAR-ASIA26"
+   ]
+  }
+ ]
+}
